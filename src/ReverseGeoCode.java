@@ -77,7 +77,7 @@ public class ReverseGeoCode {
             best = currentNode;
         } 
         KDNode<GeoName> other = (direction < 0) ? currentNode.right : currentNode.left;
-        if ( other != null && other.location.splitDistance(depth % 3, best.location) > best.location.distance(search) ) {
+        if ( other != null && currentNode.location.splitDistance(depth % 3, best.location) < best.location.distance(search) ) {
             KDNode<GeoName> possibleBest = findNearest( other, search, depth + 1 );
             if (  possibleBest.location.squaredDistance(search) < best.location.squaredDistance(search) ) {
                 best = possibleBest;
@@ -107,7 +107,7 @@ public class ReverseGeoCode {
         ReverseGeoCode reverseGeoCode = new ReverseGeoCode();
         reverseGeoCode.loadPlaceNames("C:\\placenames.txt");
         System.out.println("Done loading placenames");
-        GeoName search = new GeoName(34.0522, -118.40806);
+        GeoName search = new GeoName(-33.425137, 151.341578);
         System.out.println("Looking for nearest to " + search.latitude + ", " + search.longitude);
         System.out.println("Which is " + search.getX() + ", " + search.getY() + ", " + search.getZ() );
         KDNode<GeoName> nearest = reverseGeoCode.findNearest(reverseGeoCode.root, search, 0);
