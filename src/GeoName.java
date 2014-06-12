@@ -1,12 +1,6 @@
-import javafx.geometry.Point3D;
-
-import java.io.PrintWriter;
-import java.lang.*;
-import java.net.Socket;
-import java.util.Comparator;
-
 import static java.lang.Math.cos;
 import static java.lang.Math.sin;
+import java.util.Comparator;
 
 /* 
 The main 'geoname' table has the following fields :
@@ -40,20 +34,20 @@ public class GeoName {
 
     GeoName(String data) {
         String[] names = data.split("\t");
-        name = names[1];
+        this.name = names[1];
         if (names[6].equals("P")) {
-            majorPlace = true;
+            this.majorPlace = true;
         } else {
-            majorPlace = false;
+            this.majorPlace = false;
         }
-        latitude = Double.parseDouble(names[4]);
-        longitude = Double.parseDouble(names[5]);
+        this.latitude = Double.parseDouble(names[4]);
+        this.longitude = Double.parseDouble(names[5]);
     }
 
     GeoName(Double latitude, Double longitude) {
-        name = "";
-        latitude = this.latitude;
-        longitude = this.longitude;
+        name = "Search";
+        this.latitude = latitude;
+        this.longitude = longitude;
     }
 
     private double deg2rad(double deg) {
@@ -76,23 +70,41 @@ public class GeoName {
     }
 
     Double getX() {
-        return cos(latitude) * cos(longitude);
+        return get3DPoint().x;
     }
 
     Double getY() {
-        return -sin(latitude);
+        return get3DPoint().y;
     }
-
+    
     Double getZ() {
-        return cos(latitude) * sin(longitude);
+        return get3DPoint().z;
     }
 
+    public class Point3D {
+        public Double x,y,z;
+
+        public Point3D(Double x, Double y, Double z) {
+            this.x = x;
+            this.y = y;
+            this.z = z;
+        }
+    }
+    
     Point3D get3DPoint() {
-        Double cosLat = cos(latitude);
-        Double x = cosLat * cos(longitude);
-        Double y = -sin(latitude);
-        Double z = cosLat * sin(longitude);
-        return new Point3D(x, y, z);
+        Double rad = 6378137.0;
+        Double f = 1.0/298.257223563;
+        Double cosLat = cos(deg2rad(latitude));
+        Double sinLat = sin(deg2rad(latitude));
+        Double FF     = (1.0-f) * (1.0-f);
+        Double C      = 1/Math.sqrt((cosLat*cosLat) + FF * sinLat * sinLat);
+        Double S      = C * FF;
+
+        return new Point3D(
+                (rad * C + 0)*cosLat * cos(deg2rad(longitude)),
+                (rad * C + 0)*cosLat * sin(deg2rad(longitude)),
+                (rad * S + 0)*sinLat
+                );
     }
 
     @Override
@@ -100,11 +112,25 @@ public class GeoName {
         return name;
     }
 
-    public Double distance(GeoName search) {
-        Double x = getX();
-        Double y = getY();
-        Double z = getZ();
+    public Double squaredDistance(GeoName location) {
+        Double x = getX() - location.getX();
+        Double y = getY() - location.getY();
+        Double z = getZ() - location.getZ();
         return (x*x) + (y*y) + (z*z);
+    }
+
+    Double distance(GeoName location) {
+        return Math.sqrt(squaredDistance(location));
+    }
+
+    Double splitDistance(int axis, GeoName location) {
+        if ( axis == 0 ) {
+            return Math.abs(getX() - location.getX());
+        } else if ( axis == 1 ) {
+            return Math.abs(getY() - location.getY());
+        } else {
+            return Math.abs(getZ() - location.getZ());
+        }
     }
 
     public static enum GeoNameComparator implements Comparator<GeoName> {
