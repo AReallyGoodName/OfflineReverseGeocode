@@ -26,7 +26,7 @@ import java.util.*;
  * Uses KD-trees to quickly find the nearest point
  * 
  * ReverseGeoCode reverseGeoCode = new ReverseGeoCode("placenames.txt", true);
- * System.out.println("Nearest to -23.456, 123.456 is " + reverseGeoCode.nearestMajorPlaceName(-23.456, 123.456));
+ * System.out.println("Nearest to -123.456, 123.456 is " + reverseGeoCode.nearestMajorPlaceName(-123.456, 123.456));
  */
 public class ReverseGeoCode {
     KDTree<GeoName> kdTree;
@@ -50,7 +50,6 @@ public class ReverseGeoCode {
             throw ex;
         }
         in.close();
-        System.out.println("Creating tree");
         kdTree = new KDTree<GeoName>(arPlaceNames.toArray(new GeoName[arPlaceNames.size()]));
     }
     
