@@ -8,6 +8,6 @@ First download a placenames file from http://download.geonames.org/export/dump/a
 
 Then simply
 
-ReverseGeoCode reverseGeoCode = new ReverseGeoCode("c:\\placenames.txt", true);
+ReverseGeoCode reverseGeoCode = new ReverseGeoCode("c:\\\\placenames.txt", true);
 
 println(reverseGeoCode.nearestMajorPlaceName(-123.456, 123.456));
