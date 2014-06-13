@@ -43,10 +43,6 @@ public class KDTree<T extends KDNodeComparator<T>> {
         return new KDNode(createKDTree(items, start, currentIndex, depth+1), createKDTree(items, currentIndex+1, end, depth+1), items[currentIndex]);
     }
 
-    // At least 2*log2(N) complexity - 
-    // It starts by going down to a leaf and then works its way back up (2*log2(N)) 
-    // It goes down other potential branches if the best is not yet found 
-    // Good time complexity though
     private KDNode<T> findNearest(KDNode<T> currentNode, T search, int depth) {
         int direction = search.getComparator(depth % 3).compare( search, (T)currentNode.location );
         KDNode<T> next = (direction < 0) ? currentNode.left : currentNode.right;
