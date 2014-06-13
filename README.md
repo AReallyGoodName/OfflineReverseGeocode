@@ -1,8 +1,10 @@
-An Offline Reverse Geocoding library
+An Offline Reverse Geocoding Java library
 
 Uses KD-Trees for extremely fast placename lookups
 
 Licensed under LGPL 2.1
+
+A C# port by Necrolis is available at https://github.com/Necrolis/GeoSharp
 
 Usage:
 
