@@ -40,7 +40,7 @@ public class KDTree<T extends KDNodeComparator<T>> {
         }
         Arrays.sort(items, start, end, items[0].getComparator(depth % 3));
         int currentIndex = start + ((end-start)/2);
-        return new KDNode(createKDTree(items, start, currentIndex, depth+1), createKDTree(items, currentIndex+1, end, depth+1), items[currentIndex]);
+        return new KDNode<T>(createKDTree(items, start, currentIndex, depth+1), createKDTree(items, currentIndex+1, end, depth+1), items[currentIndex]);
     }
 
     private KDNode<T> findNearest(KDNode<T> currentNode, T search, int depth) {

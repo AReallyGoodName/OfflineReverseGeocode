@@ -95,7 +95,7 @@ public class GeoName extends KDNodeComparator<GeoName> {
     }
 
     @Override
-    protected Comparator getComparator(Integer axis) {
+    protected Comparator<GeoName> getComparator(Integer axis) {
         return GeoNameComparator.get(axis);
     }
 
