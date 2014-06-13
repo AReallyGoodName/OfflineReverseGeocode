@@ -2,6 +2,8 @@ An Offline Reverse Geocoding library
 
 Uses KD-Trees for extremely fast placename lookups
 
+Licensed under LGPL 2.1
+
 Usage:
 
 First download a placenames file from http://download.geonames.org/export/dump/allCountries.zip
