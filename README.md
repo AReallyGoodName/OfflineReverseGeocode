@@ -10,4 +10,4 @@ Then simply
 
 ReverseGeoCode reverseGeoCode = new ReverseGeoCode("c:\\\\placenames.txt", true);
 
-println(reverseGeoCode.nearestMajorPlaceName(-123.456, 123.456));
+println(reverseGeoCode.nearestMajorPlaceName(-12.345, 123.456));
