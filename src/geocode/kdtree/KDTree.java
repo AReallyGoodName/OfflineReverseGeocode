@@ -32,10 +32,6 @@ public class KDTree<T extends KDNodeComparator<T>> {
         root = createKDTree(items, 0);
     }
 
-    /*private void createKDTreeFromList( List<T> items, T... array ) {
-        root = createKDTree(items.toArray(Arrays.copyOf(array, items.size())), 0, items.size(), 0);
-    }*/
-    
     public T findNearest( T search ) {
         return findNearest(root, search, 0).location;
     }
@@ -51,15 +47,15 @@ public class KDTree<T extends KDNodeComparator<T>> {
     }
 
     private KDNode<T> findNearest(KDNode<T> currentNode, T search, int depth) {
-        int direction = search.getComparator(depth % 3).compare( (T)currentNode.location, search );
+        int direction = search.getComparator(depth % 3).compare( search, currentNode.location );
         KDNode<T> next = (direction < 0) ? currentNode.left : currentNode.right;
         KDNode<T> other = (direction < 0) ? currentNode.right : currentNode.left;
         KDNode<T> best = (next == null) ? currentNode : findNearest(next, search, depth + 1); // Go to a leaf
         if ( currentNode.location.squaredDistance(search) < best.location.squaredDistance(search) ) {
-            best = currentNode;
+            best = currentNode; // Set best as required
         } 
         if ( other != null ) {
-            if ( currentNode.location.axisSquaredDistance(best.location, depth % 3) < best.location.squaredDistance(search) ) {
+            if ( currentNode.location.axisSquaredDistance(search, depth % 3) < best.location.squaredDistance(search) ) {
                 KDNode<T> possibleBest = findNearest( other, search, depth + 1 );
                 if (  possibleBest.location.squaredDistance(search) < best.location.squaredDistance(search) ) {
                     best = possibleBest;
