@@ -15,28 +15,26 @@ along with this library; if not, write to the Free Software Foundation, Inc.,
 package geocode;
 
 import geocode.kdtree.KDTree;
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.*;
+import java.io.*;
+import java.util.ArrayList;
 
 /**
  *
  * Created by Daniel Glasson on 18/05/2014.
  * Uses KD-trees to quickly find the nearest point
  * 
- * ReverseGeoCode reverseGeoCode = new ReverseGeoCode("placenames.txt", true);
- * System.out.println("Nearest to -123.456, 123.456 is " + reverseGeoCode.nearestMajorPlaceName(-123.456, 123.456));
+ * ReverseGeoCode reverseGeoCode = new ReverseGeoCode(new FileInputStream("c:\\AU.txt"), true);
+ * System.out.println("Nearest to -23.456, 123.456 is " + geocode.nearestPlace(-23.456, 123.456););
  */
 public class ReverseGeoCode {
     KDTree<GeoName> kdTree;
     
     // Get placenames from http://download.geonames.org/export/dump/
-    public ReverseGeoCode( String placeNamesFile, Boolean majorOnly ) throws IOException {
+    public ReverseGeoCode( InputStream placenames, Boolean majorOnly ) throws IOException {
         ArrayList<GeoName> arPlaceNames;
         arPlaceNames = new ArrayList<GeoName>();
         // Read the geonames file in the directory
-        BufferedReader in = new BufferedReader(new FileReader(placeNamesFile));
+        BufferedReader in = new BufferedReader(new InputStreamReader(placenames));
         String str;
         try {
             while ((str = in.readLine()) != null) {
@@ -50,10 +48,10 @@ public class ReverseGeoCode {
             throw ex;
         }
         in.close();
-        kdTree = new KDTree<GeoName>(arPlaceNames.toArray(new GeoName[arPlaceNames.size()]));
+        kdTree = new KDTree<GeoName>(arPlaceNames);
     }
-    
-    public String nearestMajorPlaceName(double latitude, double longitude) {
-        return kdTree.findNearest(new GeoName(latitude,longitude)).name;
+
+    public GeoName nearestPlace(double latitude, double longitude) {
+        return kdTree.findNearest(new GeoName(latitude,longitude));
     }
 }

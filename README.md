@@ -14,6 +14,6 @@ Allcountries.zip from that site is comprehensive however if you're on mobile try
 
 Then simply
 
-ReverseGeoCode reverseGeoCode = new ReverseGeoCode("c:\\\\placenames.txt", true);
+ReverseGeoCode reverseGeoCode = new ReverseGeoCode(new FileInputStream("c:\\AU.txt"), true);
 
-println(reverseGeoCode.nearestMajorPlaceName(-12.345, 123.456));
+System.out.println("Nearest to -23.456, 123.456 is " + geocode.nearestPlace(-23.456, 123.456););

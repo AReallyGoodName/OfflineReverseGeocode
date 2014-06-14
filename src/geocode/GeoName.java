@@ -17,6 +17,8 @@ package geocode;
 import geocode.kdtree.KDNodeComparator;
 import static java.lang.Math.cos;
 import static java.lang.Math.sin;
+import static java.lang.Math.toRadians;
+
 import java.util.Comparator;
 
 /**
@@ -27,43 +29,33 @@ import java.util.Comparator;
 public class GeoName extends KDNodeComparator<GeoName> {
     public String name;
     public boolean majorPlace; // Major or minor place
-    public Double latitude;
-    public Double longitude;
+    public double latitude;
+    public double longitude;
+    public double point[] = new double[3]; // The 3D coordinates of the point
+    //public String country;
 
     GeoName(String data) {
         String[] names = data.split("\t");
-        this.name = names[1];
-        if (names[6].equals("P")) {
-            this.majorPlace = true;
-        } else {
-            this.majorPlace = false;
-        }
-        this.latitude = Double.parseDouble(names[4]);
-        this.longitude = Double.parseDouble(names[5]);
+        assert names.length > 8 : data + " formatted incorrectly";
+        name = names[1];
+        majorPlace = names[6].equals("P");
+        latitude = Double.parseDouble(names[4]);
+        longitude = Double.parseDouble(names[5]);
+        setPoint();
+        //country = names[8];
     }
 
     GeoName(Double latitude, Double longitude) {
         name = "Search";
         this.latitude = latitude;
         this.longitude = longitude;
+        setPoint();
     }
 
-    private double deg2rad(double deg) {
-        return (deg * Math.PI / 180.0);
-    }
-    
-    // The following methods are used purely for the KD-Tree
-    // They don't convert lat/lon to any particular coordinate system
-    Double getX() {
-        return cos(deg2rad(latitude)) * cos(deg2rad(longitude));
-    }
-
-    Double getY() {
-        return cos(deg2rad(latitude)) * sin(deg2rad(longitude));
-    }
-    
-    Double getZ() {
-        return sin(deg2rad(latitude));
+    private void setPoint() {
+        point[0] = cos(toRadians(latitude)) * cos(toRadians(longitude));
+        point[1] = cos(toRadians(latitude)) * sin(toRadians(longitude));
+        point[2] = sin(toRadians(latitude));
     }
 
     @Override
@@ -74,59 +66,42 @@ public class GeoName extends KDNodeComparator<GeoName> {
     @Override
     protected Double squaredDistance(Object other) {
         GeoName location = (GeoName)other;
-        Double x = getX() - location.getX();
-        Double y = getY() - location.getY();
-        Double z = getZ() - location.getZ();
+        double x = this.point[0] - location.point[0];
+        double y = this.point[1] - location.point[1];
+        double z = this.point[2] - location.point[2];
         return (x*x) + (y*y) + (z*z);
     }
 
     @Override
     protected Double axisSquaredDistance(Object other, Integer axis) {
         GeoName location = (GeoName)other;
-        Double distance;
-        if ( axis == 0 ) {
-            distance = getX() - location.getX();
-        } else if ( axis == 1 ) {
-            distance = getY() - location.getY();
-        } else {
-            distance = getZ() - location.getZ();
-        }
+        Double distance = point[axis] - location.point[axis];
         return distance * distance;
     }
 
     @Override
     protected Comparator<GeoName> getComparator(Integer axis) {
-        return GeoNameComparator.get(axis);
+        return GeoNameComparator.values()[axis];
     }
 
-    public static enum GeoNameComparator implements Comparator<GeoName> {
+    protected static enum GeoNameComparator implements Comparator<GeoName> {
         x {
             @Override
             public int compare(GeoName a, GeoName b) {
-                return a.getX().compareTo(b.getX());
+                return Double.compare(a.point[0], b.point[0]);
             }
         },
         y {
             @Override
             public int compare(GeoName a, GeoName b) {
-                return a.getY().compareTo(b.getY());
+                return Double.compare(a.point[1], b.point[1]);
             }
         },
         z {
             @Override
             public int compare(GeoName a, GeoName b) {
-                return a.getZ().compareTo(b.getZ());
+                return Double.compare(a.point[2], b.point[2]);
             }
         };
-
-        public static GeoNameComparator get(Integer axis) {
-            if (axis == 0) {
-                return x;
-            } else if (axis == 1) {
-                return y;
-            } else {
-                return z;
-            }
-        }
     }
 }
