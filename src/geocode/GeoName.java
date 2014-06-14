@@ -32,7 +32,7 @@ public class GeoName extends KDNodeComparator<GeoName> {
     public double latitude;
     public double longitude;
     public double point[] = new double[3]; // The 3D coordinates of the point
-    //public String country;
+    public String country;
 
     GeoName(String data) {
         String[] names = data.split("\t");
@@ -42,11 +42,11 @@ public class GeoName extends KDNodeComparator<GeoName> {
         latitude = Double.parseDouble(names[4]);
         longitude = Double.parseDouble(names[5]);
         setPoint();
-        //country = names[8];
+        country = names[8];
     }
 
     GeoName(Double latitude, Double longitude) {
-        name = "Search";
+        name = country = "Search";
         this.latitude = latitude;
         this.longitude = longitude;
         setPoint();
