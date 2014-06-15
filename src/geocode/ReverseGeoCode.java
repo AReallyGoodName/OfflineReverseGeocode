@@ -10,6 +10,16 @@ details.
 You should have received a copy of the GNU Lesser General Public License
 along with this library; if not, write to the Free Software Foundation, Inc.,
 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+
+As a special exception to the GNU Lesser General Public License version 2.1, you
+may convey to a third party an executable file from a Combined Work that links,
+statically or dynamically, portions of this Library in the executable file,
+conveying the Minimal Corresponding Source but without the need to convey the
+Corresponding Application Code under section 4d0 of the GNU Lesser General Public
+License, so long as you are using an unmodified publicly distributed version of
+the Library. This exception does not invalidate any other reasons why the
+executable file might be covered by the GNU Lesser General Public License or the
+GNU General Public License.
 */
 
 package geocode;
@@ -53,5 +63,21 @@ public class ReverseGeoCode {
 
     public GeoName nearestPlace(double latitude, double longitude) {
         return kdTree.findNearest(new GeoName(latitude,longitude));
+    }
+
+    // Simple test
+    public static void main(String [] args)
+    {
+        try {
+            ReverseGeoCode geocode = new ReverseGeoCode(new FileInputStream("c:\\allCountries.txt"), true);
+            System.out.println(System.nanoTime());
+            GeoName ret = geocode.nearestPlace(-33.404644, 150.384833);
+            System.out.println(System.nanoTime());
+            System.out.println("Place is " + ret + " at " + ret.latitude + ", " + ret.longitude + " dist " + ret.squaredDistance(new GeoName(-33.404644, 150.384833)));
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 }
