@@ -75,23 +75,21 @@ public class GeoName extends KDNodeComparator<GeoName> {
     }
 
     @Override
-    protected Double squaredDistance(Object other) {
-        GeoName location = (GeoName)other;
-        double x = this.point[0] - location.point[0];
-        double y = this.point[1] - location.point[1];
-        double z = this.point[2] - location.point[2];
+    protected double squaredDistance(GeoName other) {
+        double x = this.point[0] - other.point[0];
+        double y = this.point[1] - other.point[1];
+        double z = this.point[2] - other.point[2];
         return (x*x) + (y*y) + (z*z);
     }
 
     @Override
-    protected Double axisSquaredDistance(Object other, Integer axis) {
-        GeoName location = (GeoName)other;
-        Double distance = point[axis] - location.point[axis];
+    protected double axisSquaredDistance(GeoName other, int axis) {
+        double distance = point[axis] - other.point[axis];
         return distance * distance;
     }
 
     @Override
-    protected Comparator<GeoName> getComparator(Integer axis) {
+    protected Comparator<GeoName> getComparator(int axis) {
         return GeoNameComparator.values()[axis];
     }
 

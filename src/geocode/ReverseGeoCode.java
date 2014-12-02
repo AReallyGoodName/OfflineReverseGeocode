@@ -42,7 +42,7 @@ public class ReverseGeoCode {
     KDTree<GeoName> kdTree;
     
     // Get placenames from http://download.geonames.org/export/dump/
-    public ReverseGeoCode( InputStream placenames, Boolean majorOnly ) throws IOException {
+    public ReverseGeoCode( InputStream placenames, boolean majorOnly ) throws IOException {
         ArrayList<GeoName> arPlaceNames;
         arPlaceNames = new ArrayList<GeoName>();
         // Read the geonames file in the directory
