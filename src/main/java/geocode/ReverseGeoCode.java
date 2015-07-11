@@ -30,6 +30,7 @@ import geocode.kdtree.KDTree;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
 /**
@@ -53,7 +54,14 @@ public class ReverseGeoCode {
      * @throws NullPointerException if zippedPlacenames is {@code null}.
      */
     public ReverseGeoCode( ZipInputStream zippedPlacednames, boolean majorOnly ) throws IOException {
-        zippedPlacednames.getNextEntry();
+        //depending on which zip file is given,
+        //country specific zip files have read me files
+        //that we should ignore
+        ZipEntry entry;
+        do{
+            entry = zippedPlacednames.getNextEntry();
+        }while(entry.getName().equals("readme.txt"));
+       
         createKdTree(zippedPlacednames, majorOnly);
         
     }
@@ -79,7 +87,7 @@ public class ReverseGeoCode {
             while ((str = in.readLine()) != null) {
                 GeoName newPlace = new GeoName(str);
                 if ( !majorOnly || newPlace.majorPlace ) {
-                    arPlaceNames.add(new GeoName(str));
+                    arPlaceNames.add(newPlace);
                 }
             }
         } catch (IOException ex) {
