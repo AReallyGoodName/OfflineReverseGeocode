@@ -27,8 +27,11 @@ THE SOFTWARE.
 package geocode;
 
 import geocode.kdtree.KDTree;
+
 import java.io.*;
 import java.util.ArrayList;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 /**
  *
@@ -42,7 +45,39 @@ public class ReverseGeoCode {
     KDTree<GeoName> kdTree;
     
     // Get placenames from http://download.geonames.org/export/dump/
+    /**
+     * Parse the zipped geonames file.
+     * @param zippedPlacednames a {@link ZipInputStream} zip file downloaded from http://download.geonames.org/export/dump/; can not be null.
+     * @param majorOnly only include major cities in KD-tree.
+     * 
+     * @throws IOException if there is a problem reading the {@link ZipInputStream}.
+     * @throws NullPointerException if zippedPlacenames is {@code null}.
+     */
+    public ReverseGeoCode( ZipInputStream zippedPlacednames, boolean majorOnly ) throws IOException {
+        //depending on which zip file is given,
+        //country specific zip files have read me files
+        //that we should ignore
+        ZipEntry entry;
+        do{
+            entry = zippedPlacednames.getNextEntry();
+        }while(entry.getName().equals("readme.txt"));
+       
+        createKdTree(zippedPlacednames, majorOnly);
+        
+    }
+    /**
+     * Parse the raw text geonames file.
+     * @param placenames the text file downloaded from http://download.geonames.org/export/dump/; can not be null.
+     * @param majorOnly only include major cities in KD-tree.
+     * 
+     * @throws IOException if there is a problem reading the stream.
+     * @throws NullPointerException if zippedPlacenames is {@code null}.
+     */
     public ReverseGeoCode( InputStream placenames, boolean majorOnly ) throws IOException {
+        createKdTree(placenames, majorOnly);
+    }
+    private void createKdTree(InputStream placenames, boolean majorOnly)
+            throws IOException {
         ArrayList<GeoName> arPlaceNames;
         arPlaceNames = new ArrayList<GeoName>();
         // Read the geonames file in the directory
@@ -52,14 +87,14 @@ public class ReverseGeoCode {
             while ((str = in.readLine()) != null) {
                 GeoName newPlace = new GeoName(str);
                 if ( !majorOnly || newPlace.majorPlace ) {
-                    arPlaceNames.add(new GeoName(str));
+                    arPlaceNames.add(newPlace);
                 }
             }
         } catch (IOException ex) {
-            in.close(); 
             throw ex;
+        }finally{
+            in.close();
         }
-        in.close();
         kdTree = new KDTree<GeoName>(arPlaceNames);
     }
 
