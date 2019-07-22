@@ -26,11 +26,18 @@ THE SOFTWARE.
 
 package geocode;
 
+import java.io.BufferedInputStream;
 import java.io.BufferedReader;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
@@ -48,12 +55,22 @@ import geocode.kdtree.KDTree;
  * </code>
  * 
  * <br>
- * Fork by Guillaume Diaz for LuxTrust on 22/07/2019:<br>
- * Keep all cities from some countries: FR / BE / LU / DE 
+ * Fork by Guillaume Diaz for LuxTrust on 22/07/2019:
+ * <ul>
+ * <li>Keep all cities from some countries (optional param, ex: {FR,BE,LU,DE})</li>
+ * <li>Load multiple files at once</li>
+ * <li>Singleton pattern, if needed</li>
+ * </ul>
+ * @author Daniel Glasson (18/05/2014)
+ * @author Guillaume Diaz (22/07/2019)
+ * @version 2.0
  */
 public class ReverseGeoCode {
 
 	private static ReverseGeoCode instance;
+
+	// Requirement: get placenames from http://download.geonames.org/export/dump/
+	// 2019-07-22: take "cities1000.zip" + "LU.zip" to get all cities with 1000 inhabitants and Luxembourg country in full
 
 	/**
 	 * @return current instance if it has been initialised, else NULL
@@ -70,84 +87,143 @@ public class ReverseGeoCode {
 		ReverseGeoCode.instance = instance;
 	}
 
-	KDTree<GeoName> kdTree;
-	int nbCitiesLoaded = 0;
-
-	// Get placenames from http://download.geonames.org/export/dump/
-	// 2019-07-22: take "cities1000.zip" to get all cities with 1000 inhabitants or more
+	final KDTree<GeoName> kdTree;
+	final int nbCitiesLoaded;
 
 	/**
-	 * Parse the zipped geonames file.
-	 * @param zippedPlacednames a {@link ZipInputStream} zip file downloaded from http://download.geonames.org/export/dump/; can not be null.
-	 * @param majorOnly only include major cities in KD-tree.
+	 * To parse the geonames file(s).
+	 * @param geoFiles Geoname file(s) downloaded from http://download.geonames.org/export/dump/; can not be null.
+	 * @param majorOnly only include major cities in KD-tree - except if you ask to keep all cities from particular countries.
 	 * @param countriesToKeep list of countries code (2 letters) to keep. All cities belong to these countries will be keep in-memory
-	 * @throws IOException if there is a problem reading the {@link ZipInputStream}.
-	 * @throws NullPointerException if zippedPlacenames is {@code null}.
+	 * @throws IOException if there is a problem reading some file(s)
 	 */
-	public ReverseGeoCode(final ZipInputStream zippedPlacednames, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
-		//depending on which zip file is given, country specific zip files have read me files that we should ignore
-		ZipEntry entry;
-		do {
-			entry = zippedPlacednames.getNextEntry();
-		} while(entry.getName().equals("readme.txt"));
-
-		createKdTree(zippedPlacednames, majorOnly, countriesToKeep);
-	}
-
-	/**
-	 * Parse the raw text geonames file.
-	 * @param placenames the text file downloaded from http://download.geonames.org/export/dump/; can not be null.
-	 * @param majorOnly only include major cities in KD-tree.
-	 * @param countriesToKeep list of countries code (2 letters) to keep. All cities belong to these countries will be keep in-memory
-	 * 
-	 * @throws IOException if there is a problem reading the stream.
-	 * @throws NullPointerException if zippedPlacenames is {@code null}.
-	 */
-	public ReverseGeoCode(final InputStream placenames, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
-		createKdTree(placenames, majorOnly, countriesToKeep);
-	}
-
-	private void createKdTree(final InputStream placenames, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
-		final ArrayList<GeoName> arPlaceNames = new ArrayList<GeoName>();
-
-		// Read the geonames file in the directory
-		int citiesLoaded = 0;
-		try (final BufferedReader in = new BufferedReader(new InputStreamReader(placenames))) {
-			String str;
-			while ((str = in.readLine()) != null) {
-				final GeoName newPlace = new GeoName(str);
-				// 2019-07-22: LuxTrust fork
-				if (addPlaceToInMemoryDatabase(newPlace, majorOnly, countriesToKeep)) {
-					arPlaceNames.add(newPlace);
-					citiesLoaded++;
-				}
-			}
-		} catch (final IOException ex) {
-			throw ex;
+	public ReverseGeoCode(final List<Path> geoFiles, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
+		if (geoFiles == null) {
+			throw new IllegalArgumentException("You must provide a valid set of geoname file(s)");
 		}
-		// Bind in-memory DB to local instance
-		kdTree = new KDTree<GeoName>(arPlaceNames);
-		nbCitiesLoaded = citiesLoaded;
+
+		// Get cities
+		final Set<GeoName> cities = new HashSet<>();
+		for (final Path file : geoFiles) {
+			cities.addAll(loadFileContent(file, majorOnly, countriesToKeep));
+		}
+
+		// Populate 3D in-memory DB
+		kdTree = new KDTree<GeoName>(new ArrayList<GeoName>(cities));
+		nbCitiesLoaded = cities.size();
+
 		// Register local instance as the 'big one' => singleton
 		setInstance(this);
+	}
+
+	/**
+	 * To parse the geonames file.
+	 * @param geoFiles Geoname files downloaded from http://download.geonames.org/export/dump/; can not be null.
+	 * @param majorOnly only include major cities in KD-tree - except if you ask to keep all cities from particular countries.
+	 * @param countriesToKeep list of countries code (2 letters) to keep. All cities belong to these countries will be keep in-memory
+	 * @throws IOException if there is a problem reading some file(s)
+	 */
+	public ReverseGeoCode(final Path geoFile, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
+		this(Arrays.asList(geoFile), majorOnly, countriesToKeep);
+	}
+
+	/**
+	 * To load the geoname file content into memory, as a cities dictionary
+	 * @param geoFile file to load
+	 * @param majorOnly only include major cities in KD-tree - except if you ask to keep all cities from particular countries.
+	 * @param countriesToKeep list of countries code (2 letters) to keep. All cities belong to these countries will be keep in-memory
+	 * @return cities dictionary
+	 * @throws IOException cannot read file
+	 */
+	private Set<GeoName> loadFileContent(final Path geoFile, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
+		// arg check
+		if (geoFile == null || Files.notExists(geoFile)) {
+			throw new IllegalArgumentException("You must provide a valid geofile. Cannot access: " + geoFile);
+		}
+
+		// Open the GeoFile
+		final boolean isZip = FileUtils.isZipFile(geoFile);
+		if (isZip) {
+			return parseZipFile(geoFile, majorOnly, countriesToKeep);
+		} else {
+			try (final InputStream fis = Files.newInputStream(geoFile)) {
+				return parseContent(fis , majorOnly, countriesToKeep);
+			}
+		}
+	}
+
+	/**
+	 * To parse the content of a Geo ZIP file
+	 * @param geoFile ZIP file analyse
+	 * @param majorOnly only include major cities in KD-tree.
+	 * @param countriesToKeep list of countries code (2 letters) to keep. All cities belong to these countries will be keep in-memory
+	 * @return cities description
+	 * @throws IOException failed to parse file
+	 */
+	private Set<GeoName> parseZipFile(final Path geoFile, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
+		final Set<GeoName> cities = new HashSet<>();
+
+		// Open ZIP archive
+		try (final FileInputStream zipFIS = new FileInputStream(geoFile.toFile());
+				final BufferedInputStream zipBIS = new BufferedInputStream(zipFIS);
+				final ZipInputStream zipIS = new ZipInputStream(zipBIS)) {
+
+			ZipEntry entry;
+			// for each item...
+			while ((entry = zipIS.getNextEntry()) != null) {
+				// Skip readme file
+				if (!entry.getName().equalsIgnoreCase("readme.txt")) {
+					// Parse file content
+					final Set<GeoName> fileCities = parseContent(zipIS, majorOnly, countriesToKeep);
+					// Update global list
+					cities.addAll(fileCities);
+				}
+			}
+		}
+		return cities;
+	}
+
+	/**
+	 * To parse the content of a Geo file
+	 * @param entry TXT file or ZIP entry to analyse
+	 * @param majorOnly only include major cities in KD-tree.
+	 * @param countriesToKeep list of countries code (2 letters) to keep. All cities belong to these countries will be keep in-memory
+	 * @return cities description
+	 * @throws IOException failed to parse file
+	 */
+	private Set<GeoName> parseContent(final InputStream entry, final boolean majorOnly, final Set<String> countriesToKeep) throws IOException {
+		final Set<GeoName> places = new HashSet<>();
+
+		// Read file
+		// (i) do not close the input stream: this will be done later on by the caller
+		final BufferedReader in = new BufferedReader(new InputStreamReader(entry));
+		String line;
+		while ((line = in.readLine()) != null) {
+			// register place, if required
+			final GeoName newPlace = new GeoName(line);
+			if (shouldAddPlaceToInMemoryDB(newPlace, majorOnly, countriesToKeep)) {
+				places.add(newPlace);
+			}
+		}
+		return places;
 	}
 
 	/** 
 	 * to check if the place should be added or not to the in-memory database.<br>
 	 * LuxTrust change - 2019/07/22
-	 * @param newPlace place to analyse (= entry from the "cities1000" file)
-	 * @param majorOnly GeoName city's flag. 'true' if the city is considered as major
+	 * @param newPlace place to analyse (= entry from the TXT or ZIP file)
+	 * @param majorOnly GeoName city's flag. 'true' to keep only major cities for countries that are not in the 'countriesToKeep' list
 	 * @param countriesToKeep optional list of countries to not filter
 	 * @return 'true' if the city should be added to the in-memory database
 	 */
-	private boolean addPlaceToInMemoryDatabase(final GeoName newPlace, final boolean majorOnly, final Set<String> countriesToKeep) {
+	private boolean shouldAddPlaceToInMemoryDB(final GeoName newPlace, final boolean majorOnly, final Set<String> countriesToKeep) {
 		// keep places belonging to particular countries
 		if (countriesToKeep != null && newPlace.country!= null && countriesToKeep.contains(newPlace.country)) {
 			return true;
 		}
 
 		// keep only major places?
-		if ( !majorOnly || newPlace.majorPlace ) {
+		if (!majorOnly || newPlace.majorPlace ) {
 			return true;
 		}
 		return false;
@@ -161,12 +237,5 @@ public class ReverseGeoCode {
 	 */
 	public GeoName nearestPlace(final double latitude, final double longitude) {
 		return kdTree.findNearest(new GeoName(latitude,longitude));
-	}
-
-	/**
-	 * @return size of the in-memory database = number of cities loaded in memory
-	 */
-	public int getNbCitiesLoaded() {
-		return nbCitiesLoaded;
 	}
 }

@@ -31,12 +31,15 @@ import static java.lang.Math.sin;
 import static java.lang.Math.toRadians;
 
 import java.util.Comparator;
+import java.util.Objects;
 
 import geocode.kdtree.KDNodeComparator;
 
 /**
  * Created by Daniel Glasson on 18/05/2014.
  * This class works with a placenames files from http://download.geonames.org/export/dump/
+ * @author Daniel Glasson (18/05/2014)
+ * @author Guillaume Diaz (22/07/2019) - add hashCode() + equals()
  */
 public class GeoName extends KDNodeComparator<GeoName> {
 	public String name;
@@ -113,4 +116,29 @@ public class GeoName extends KDNodeComparator<GeoName> {
 			}
 		};
 	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(country, latitude, longitude, name);
+	}
+
+	@Override
+	public boolean equals(final Object obj) {
+		if (this == obj) {
+			return true;
+		}
+		if (obj == null) {
+			return false;
+		}
+		if (!(obj instanceof GeoName)) {
+			return false;
+		}
+		final GeoName other = (GeoName) obj;
+		return Objects.equals(country, other.country)
+				&& Double.doubleToLongBits(latitude) == Double.doubleToLongBits(other.latitude)
+				&& Double.doubleToLongBits(longitude) == Double.doubleToLongBits(other.longitude)
+				&& Objects.equals(name, other.name);
+	}
+
+
 }

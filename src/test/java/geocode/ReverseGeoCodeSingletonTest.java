@@ -1,14 +1,12 @@
 package geocode;
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.zip.ZipInputStream;
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
@@ -24,9 +22,8 @@ public class ReverseGeoCodeSingletonTest {
 
 	@BeforeClass
 	public static void setup() throws FileNotFoundException, URISyntaxException, Exception {
-		reverseGeoCodeUtil = new ReverseGeoCode(
-				new ZipInputStream(new FileInputStream(new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI()))),
-				false, COUNTRIES_TO_KEEP);
+		final File cities1000 = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
+		reverseGeoCodeUtil = new ReverseGeoCode(cities1000.toPath(), false, COUNTRIES_TO_KEEP);
 	}
 
 	@Test
@@ -34,8 +31,8 @@ public class ReverseGeoCodeSingletonTest {
 		// Check DB
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
-		Assert.assertTrue(reverseGeoCodeUtil.getNbCitiesLoaded() > 1);
-		System.out.println("Cities1000.zip # majors cities only # file => " + reverseGeoCodeUtil.getNbCitiesLoaded() + " cities loaded in-memory DB");
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
+		System.out.println("Cities1000.zip # majors cities only # file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
 	@Ignore

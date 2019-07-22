@@ -1,14 +1,14 @@
 package geocode;
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
-import java.util.zip.ZipInputStream;
 
 import org.junit.Assert;
 import org.junit.Ignore;
@@ -21,7 +21,7 @@ import org.junit.Test;
  */
 public class ReverseGeoCodeTest {
 
-	private static final Set<String> COUNTRIES_TO_KEEP = new HashSet<String>(Arrays.asList(new String[] {"BE", "DE", "FR", "LU"}));
+	private static final Set<String> COUNTRIES_TO_KEEP = new HashSet<String>(Arrays.asList(new String[] {"DE", "FR", "LU"}));
 
 	private static final int CITIES_LUXEMBOURG_JULY_2019 = 1210;
 
@@ -34,12 +34,11 @@ public class ReverseGeoCodeTest {
 		Assert.assertTrue(inputTxtFile.isFile());
 
 		// Init DB
-		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(new FileInputStream(inputTxtFile), false, COUNTRIES_TO_KEEP);
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputTxtFile.toPath(), false, COUNTRIES_TO_KEEP);
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
-		Assert.assertTrue(reverseGeoCodeUtil.getNbCitiesLoaded() > 1);
-		Assert.assertEquals(CITIES_LUXEMBOURG_JULY_2019, reverseGeoCodeUtil.getNbCitiesLoaded());
-		System.out.println("Luxembourg LU.txt file => " + reverseGeoCodeUtil.getNbCitiesLoaded() + " cities loaded in-memory DB");
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
+		System.out.println("Luxembourg LU.txt file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
 	@Test
@@ -51,13 +50,12 @@ public class ReverseGeoCodeTest {
 		Assert.assertTrue(inputTxtFile.isFile());
 
 		// Init DB
-		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(new FileInputStream(inputTxtFile), true, COUNTRIES_TO_KEEP);
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputTxtFile.toPath(), true, COUNTRIES_TO_KEEP);
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
-		Assert.assertTrue(reverseGeoCodeUtil.getNbCitiesLoaded() > 1);
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
 		// Expect all cities because of the country filter
-		Assert.assertEquals(CITIES_LUXEMBOURG_JULY_2019, reverseGeoCodeUtil.getNbCitiesLoaded());
-		System.out.println("Luxembourg LU.txt file => " + reverseGeoCodeUtil.getNbCitiesLoaded() + " cities loaded in-memory DB");
+		System.out.println("Luxembourg LU.txt file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
 	@Test
@@ -69,13 +67,13 @@ public class ReverseGeoCodeTest {
 		Assert.assertTrue(inputTxtFile.isFile());
 
 		// Init DB
-		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(new FileInputStream(inputTxtFile), true, new HashSet<String>());
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputTxtFile.toPath(), true, new HashSet<String>());
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
-		Assert.assertTrue(reverseGeoCodeUtil.getNbCitiesLoaded() > 1);
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
 		// Expect all cities because of the country filter
-		Assert.assertTrue(CITIES_LUXEMBOURG_JULY_2019 > reverseGeoCodeUtil.getNbCitiesLoaded());
-		System.out.println("Luxembourg LU.txt # majors cities only # file => " + reverseGeoCodeUtil.getNbCitiesLoaded() + " cities loaded in-memory DB");
+		Assert.assertTrue(CITIES_LUXEMBOURG_JULY_2019 > reverseGeoCodeUtil.nbCitiesLoaded);
+		System.out.println("Luxembourg LU.txt # majors cities only # file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
 	@Test
@@ -87,12 +85,11 @@ public class ReverseGeoCodeTest {
 		Assert.assertTrue(inputZipFile.isFile());
 
 		// Init DB
-		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(new ZipInputStream(new FileInputStream(inputZipFile)), false, COUNTRIES_TO_KEEP);
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputZipFile.toPath(), false, COUNTRIES_TO_KEEP);
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
-		Assert.assertTrue(reverseGeoCodeUtil.getNbCitiesLoaded() > 1);
-		Assert.assertEquals(CITIES_LUXEMBOURG_JULY_2019, reverseGeoCodeUtil.getNbCitiesLoaded());
-		System.out.println("Luxembourg LU.zip file => " + reverseGeoCodeUtil.getNbCitiesLoaded() + " cities loaded in-memory DB");
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
+		System.out.println("Luxembourg LU.zip file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
 	@Test
@@ -104,11 +101,11 @@ public class ReverseGeoCodeTest {
 		Assert.assertTrue(inputZipFile.isFile());
 
 		// Init DB
-		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(new ZipInputStream(new FileInputStream(inputZipFile)), true, COUNTRIES_TO_KEEP);
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputZipFile.toPath(), true, COUNTRIES_TO_KEEP);
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
-		Assert.assertTrue(reverseGeoCodeUtil.getNbCitiesLoaded() > 1);
-		System.out.println("Cities1000.zip # majors cities only # file => " + reverseGeoCodeUtil.getNbCitiesLoaded() + " cities loaded in-memory DB");
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
+		System.out.println("Cities1000.zip # majors cities only # file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
 	@Test
@@ -120,11 +117,42 @@ public class ReverseGeoCodeTest {
 		Assert.assertTrue(inputZipFile.isFile());
 
 		// Init DB
-		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(new ZipInputStream(new FileInputStream(inputZipFile)), false, COUNTRIES_TO_KEEP);
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputZipFile.toPath(), false, COUNTRIES_TO_KEEP);
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
-		Assert.assertTrue(reverseGeoCodeUtil.getNbCitiesLoaded() > 1);
-		System.out.println("Cities1000.zip # all cities # file => " + reverseGeoCodeUtil.getNbCitiesLoaded() + " cities loaded in-memory DB");
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
+		System.out.println("Cities1000.zip # all cities # file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
+	}
+
+	@Test
+	public void testLoadCities1000_and_Luxembourg_allCities() throws URISyntaxException, FileNotFoundException, IOException {
+		// Get input file
+		final File cities1000 = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
+		final File luxembourg = new File(ReverseGeoCode.class.getClassLoader().getResource("LU.zip").toURI());
+		final List<Path> files = Arrays.asList(cities1000.toPath(), luxembourg.toPath());
+
+		// Init DB
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(files, false, COUNTRIES_TO_KEEP);
+		Assert.assertNotNull(reverseGeoCodeUtil);
+		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
+		System.out.println("Cities1000.zip + LU.zip # all cities # 2 files => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
+	}
+
+	@Test
+	public void testLoadCities1000_and_Luxembourg_allCities_and_BE_majors() throws URISyntaxException, FileNotFoundException, IOException {
+		// Get input file
+		final File cities1000 = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
+		final File luxembourg = new File(ReverseGeoCode.class.getClassLoader().getResource("LU.zip").toURI());
+		final File belgium = new File(ReverseGeoCode.class.getClassLoader().getResource("BE.zip").toURI());
+		final List<Path> files = Arrays.asList(cities1000.toPath(), luxembourg.toPath(), belgium.toPath());
+
+		// Init DB
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(files, true, COUNTRIES_TO_KEEP);
+		Assert.assertNotNull(reverseGeoCodeUtil);
+		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
+		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
+		System.out.println("Cities1000.zip + LU.zip + BE.zip # all cities # 3 files => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
 	@Ignore
