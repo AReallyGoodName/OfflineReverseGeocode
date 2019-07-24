@@ -1,6 +1,4 @@
 language: java
-# no advanced feature: application should run for a simple user
-sudo: false
 # use Java 8
 jdk:
 - oraclejdk8
