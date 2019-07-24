@@ -16,9 +16,16 @@ cache:
 # CODACITY INTEGRATION (static code analysis)
 ################
 # Requirement: configure TRAVIS build and add the codacity token as environment variable
-#              >> Project > settings > environment variables
 #              export CODACY_PROJECT_TOKEN=%Project_Token%
-#              export CODACY_API_TOKEN=%codacity_token%
 
-# Get a CODACITY API token
-#  >> To generate one, go to your Account Settings and click on the tab API Tokens. 
+
+# Download latest codacity artifact
+before_install:
+  - sudo apt-get install jq
+  - curl https://github.com/codacy/codacy-coverage-reporter/releases/download/6.0.2/codacy-coverage-reporter-6.0.2-assembly.jar -o codacy-coverage-reporter-assembly.jar
+#  - curl $(curl https://api.github.com/repos/codacy/codacy-coverage-reporter/releases/latest | jq -r '.assets | map({content_type, browser_download_url} | select(.content_type | contains("application/x-java-archive"))) | .[0].browser_download_url') -o codacy-coverage-reporter-assembly.jar
+
+# Public reports
+after_success:
+  - java -jar ~/codacy-coverage-reporter-assembly.jar report -l Java -r target/site/jacoco/jacoco.xml
+  
