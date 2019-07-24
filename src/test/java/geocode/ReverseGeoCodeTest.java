@@ -4,7 +4,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
@@ -110,13 +112,14 @@ public class ReverseGeoCodeTest {
 	@Test
 	public void testLoadCities1000_allCities() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
-		final File inputZipFile = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
+		final String inputZipFilePath = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI()).toString();
+		final Path inputZipFile = Paths.get(inputZipFilePath);
 		Assert.assertNotNull(inputZipFile);
-		Assert.assertTrue(inputZipFile.exists());
-		Assert.assertTrue(inputZipFile.isFile());
+		Assert.assertTrue(Files.exists(inputZipFile));
+		Assert.assertFalse(Files.isDirectory(inputZipFile));
 
 		// Init DB
-		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputZipFile.toPath(), false, COUNTRIES_TO_KEEP);
+		final ReverseGeoCode reverseGeoCodeUtil = new ReverseGeoCode(inputZipFile, false, COUNTRIES_TO_KEEP);
 		Assert.assertNotNull(reverseGeoCodeUtil);
 		Assert.assertNotNull(reverseGeoCodeUtil.kdTree);
 		Assert.assertTrue(reverseGeoCodeUtil.nbCitiesLoaded > 1);
