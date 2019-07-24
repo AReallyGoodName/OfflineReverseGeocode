@@ -11,7 +11,7 @@ Licensed under The MIT License
 
 # Authors
 - Created by **Daniel Glasson** on 18/05/2014
-- Fork by **Guillaume Diaz** for **LuxTrust** on 22/07/2019 to keep all cities from the following countries: FR / BE / LU / DE 
+- Fork by **Guillaume Diaz** on 22/07/2019
 
 
 

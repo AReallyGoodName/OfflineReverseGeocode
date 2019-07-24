@@ -177,7 +177,6 @@ public class ReverseGeoCodeTest {
 		Assert.assertNotNull(closestCity);
 		Assert.assertEquals("Luxembourg [LU]", closestCity.toString());
 
-		// Following coordinates are LuxTrust headquarters on 2019-07-22
 		// expect: Capellen [LU]
 		latitude = 49.642314;
 		longitude = 6.007225;

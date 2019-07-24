@@ -9,7 +9,6 @@ import java.nio.file.Path;
  * Utility class to perform file operations
  * @author guillaume diaz
  * @version 1.0 - 2019/07
- * @since LuxTrust fork - 2019/07
  */
 public class FileUtils {
 

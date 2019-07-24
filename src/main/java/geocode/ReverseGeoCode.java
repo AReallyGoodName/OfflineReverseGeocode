@@ -55,7 +55,7 @@ import geocode.kdtree.KDTree;
  * </code>
  * 
  * <br>
- * Fork by Guillaume Diaz for LuxTrust on 22/07/2019:
+ * Fork by Guillaume Diaz on 22/07/2019:
  * <ul>
  * <li>Keep all cities from some countries (optional param, ex: {FR,BE,LU,DE})</li>
  * <li>Load multiple files at once</li>
@@ -209,8 +209,7 @@ public class ReverseGeoCode {
 	}
 
 	/** 
-	 * to check if the place should be added or not to the in-memory database.<br>
-	 * LuxTrust change - 2019/07/22
+	 * to check if the place should be added or not to the in-memory database
 	 * @param newPlace place to analyse (= entry from the TXT or ZIP file)
 	 * @param majorOnly GeoName city's flag. 'true' to keep only major cities for countries that are not in the 'countriesToKeep' list
 	 * @param countriesToKeep optional list of countries to not filter
