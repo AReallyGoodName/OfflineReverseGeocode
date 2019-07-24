@@ -10,7 +10,6 @@ import java.util.Set;
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class ReverseGeoCodeSingletonTest {
@@ -35,11 +34,28 @@ public class ReverseGeoCodeSingletonTest {
 		System.out.println("Cities1000.zip # majors cities only # file => " + reverseGeoCodeUtil.nbCitiesLoaded + " cities loaded in-memory DB");
 	}
 
-	@Ignore
 	@Test
 	public void testReverseGeoLocation() {
-		// Following coordinate are based on LuxTrust headquarters on 2019-07-22
-		// data is coming from LuxTrust mobile app Android v3.0.0
-		// TODO
+		// expect: Luxembourg [LU]
+		double latitude = 49.615267;
+		double longitude = 6.120112;
+		GeoName closestCity = reverseGeoCodeUtil.nearestPlace(latitude, longitude);
+		Assert.assertNotNull(closestCity);
+		Assert.assertEquals("Luxembourg [LU]", closestCity.toString());
+
+		// Following coordinates are LuxTrust headquarters on 2019-07-22
+		// expect: Capellen [LU]
+		latitude = 49.642314;
+		longitude = 6.007225;
+		closestCity = reverseGeoCodeUtil.nearestPlace(latitude, longitude);
+		Assert.assertNotNull(closestCity);
+		Assert.assertEquals("Capellen [LU]", closestCity.toString());
+
+		// Following coordinates are in France
+		latitude = 46.033934;
+		longitude = 3.917356;
+		closestCity = reverseGeoCodeUtil.nearestPlace(latitude, longitude);
+		Assert.assertNotNull(closestCity);
+		Assert.assertEquals("Renaison [FR]", closestCity.toString());
 	}
 }

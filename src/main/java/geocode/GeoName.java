@@ -74,7 +74,7 @@ public class GeoName extends KDNodeComparator<GeoName> {
 
 	@Override
 	public String toString() {
-		return name;
+		return name + " [" + country + "]";
 	}
 
 	@Override
