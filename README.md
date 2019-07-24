@@ -6,6 +6,8 @@ Licensed under The MIT License
 
 --------------------------
 
+[![Build Status](https://travis-ci.org/guihome-diaz/OfflineReverseGeocode.svg?branch=master)](https://travis-ci.org/guihome-diaz/OfflineReverseGeocode)
+
 
 # Authors
 - Created by **Daniel Glasson** on 18/05/2014
