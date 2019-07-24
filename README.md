@@ -8,6 +8,8 @@ Licensed under The MIT License
 
 [![Build Status](https://travis-ci.org/guihome-diaz/OfflineReverseGeocode.svg?branch=master)](https://travis-ci.org/guihome-diaz/OfflineReverseGeocode)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c05be21e15b74566ba4b7a32ada9b1de)](https://www.codacy.com/app/guihome-diaz/OfflineReverseGeocode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guihome-diaz/OfflineReverseGeocode&amp;utm_campaign=Badge_Grade)
+
 
 # Authors
 - Created by **Daniel Glasson** on 18/05/2014

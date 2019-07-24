@@ -1,4 +1,6 @@
 language: java
+# no advanced feature: application should run for a simple user
+sudo: false
 # use Java 8
 jdk:
 - oraclejdk8
@@ -11,3 +13,18 @@ cache:
   directories:
   - $HOME/.m2
   - $HOME/.gradle
+
+################
+# CODACITY INTEGRATION (static code analysis)
+################
+# Requirement: configure TRAVIS build and add the codacity token as environment variable
+#              export CODACY_PROJECT_TOKEN=%Project_Token%
+
+# Download latest codacity artifact
+before_install:
+    - sudo apt-get install jq
+    - wget -O ~/codacy-coverage-reporter-assembly-latest.jar $(curl https://api.github.com/repos/codacy/codacy-coverage-reporter/releases/latest | jq -r .assets[0].browser_download_url)
+
+# Public reports
+after_success:
+    - java -jar ~/codacy-coverage-reporter-assembly-latest.jar report -l Java -r target/site/jacoco/jacoco.xml
