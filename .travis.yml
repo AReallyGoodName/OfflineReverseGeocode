@@ -16,4 +16,9 @@ cache:
 # CODACITY INTEGRATION (static code analysis)
 ################
 # Requirement: configure TRAVIS build and add the codacity token as environment variable
+#              >> Project > settings > environment variables
 #              export CODACY_PROJECT_TOKEN=%Project_Token%
+#              export CODACY_API_TOKEN=%codacity_token%
+
+# Get a CODACITY API token
+#  >> To generate one, go to your Account Settings and click on the tab API Tokens. 
