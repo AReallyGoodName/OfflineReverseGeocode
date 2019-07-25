@@ -17,7 +17,7 @@ public class ReverseGeoCodeSingletonTest {
 	private static final Set<String> COUNTRIES_TO_KEEP = new HashSet<String>(Arrays.asList(new String[] {"BE", "DE", "FR", "LU"}));
 
 	@BeforeClass
-	public static void setup() throws FileNotFoundException, URISyntaxException, Exception {
+	public static void setUp() throws FileNotFoundException, URISyntaxException, Exception {
 		final File cities1000 = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
 		new ReverseGeoCode(cities1000.toPath(), false, COUNTRIES_TO_KEEP);
 	}

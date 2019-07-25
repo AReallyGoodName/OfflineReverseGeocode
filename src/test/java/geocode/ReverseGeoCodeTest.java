@@ -27,7 +27,7 @@ public class ReverseGeoCodeTest {
 	private static final int CITIES_LUXEMBOURG_JULY_2019 = 1210;
 
 	@Test
-	public void testLoadLuTxtFile_all() throws URISyntaxException, FileNotFoundException, IOException {
+	public void testLoadLuTxtFileAll() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
 		final File inputTxtFile = new File(ReverseGeoCode.class.getClassLoader().getResource("LU.txt").toURI());
 		Assert.assertNotNull(inputTxtFile);
@@ -43,7 +43,7 @@ public class ReverseGeoCodeTest {
 	}
 
 	@Test
-	public void testLoadLuTxtFile_major_countryFilter() throws URISyntaxException, FileNotFoundException, IOException {
+	public void testLoadLuTxtFileMajorCountryFilter() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
 		final File inputTxtFile = new File(ReverseGeoCode.class.getClassLoader().getResource("LU.txt").toURI());
 		Assert.assertNotNull(inputTxtFile);
@@ -60,7 +60,7 @@ public class ReverseGeoCodeTest {
 	}
 
 	@Test
-	public void testLoadLuTxtFile_major_noCountry() throws URISyntaxException, FileNotFoundException, IOException {
+	public void testLoadLuTxtFileMajorNoCountry() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
 		final File inputTxtFile = new File(ReverseGeoCode.class.getClassLoader().getResource("LU.txt").toURI());
 		Assert.assertNotNull(inputTxtFile);
@@ -94,7 +94,7 @@ public class ReverseGeoCodeTest {
 	}
 
 	@Test
-	public void testLoadCities1000_majorCities() throws URISyntaxException, FileNotFoundException, IOException {
+	public void testLoadCities1000MajorCities() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
 		final File inputZipFile = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
 		Assert.assertNotNull(inputZipFile);
@@ -110,7 +110,7 @@ public class ReverseGeoCodeTest {
 	}
 
 	@Test
-	public void testLoadCities1000_allCities() throws URISyntaxException, FileNotFoundException, IOException {
+	public void testLoadCities1000AllCities() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
 		final String inputZipFilePath = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI()).toString();
 		final Path inputZipFile = Paths.get(inputZipFilePath);
@@ -127,7 +127,7 @@ public class ReverseGeoCodeTest {
 	}
 
 	@Test
-	public void testLoadCities1000_and_Luxembourg_allCities() throws URISyntaxException, FileNotFoundException, IOException {
+	public void testLoadCities1000AndLuxembourgAllCities() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
 		final File cities1000 = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
 		final File luxembourg = new File(ReverseGeoCode.class.getClassLoader().getResource("LU.zip").toURI());
@@ -142,7 +142,7 @@ public class ReverseGeoCodeTest {
 	}
 
 	@Test
-	public void testLoadCities1000_and_Luxembourg_allCities_and_BE_majors() throws URISyntaxException, FileNotFoundException, IOException {
+	public void testLoadCities1000AndLuxembourgAllCitiesAndBEmajors() throws URISyntaxException, FileNotFoundException, IOException {
 		// Get input file
 		final File cities1000 = new File(ReverseGeoCode.class.getClassLoader().getResource("cities1000.zip").toURI());
 		final File luxembourg = new File(ReverseGeoCode.class.getClassLoader().getResource("LU.zip").toURI());

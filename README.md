@@ -1,3 +1,5 @@
+# Offline reverse geo-coding
+
 An Offline Reverse Geocoding Java library
 
 Uses KD-Trees for extremely fast placename lookups
@@ -6,25 +8,22 @@ Licensed under The MIT License
 
 --------------------------
 
+## Status
+
 [![Build Status](https://travis-ci.org/guihome-diaz/OfflineReverseGeocode.svg?branch=master)](https://travis-ci.org/guihome-diaz/OfflineReverseGeocode)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c05be21e15b74566ba4b7a32ada9b1de)](https://www.codacy.com/app/guihome-diaz/OfflineReverseGeocode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guihome-diaz/OfflineReverseGeocode&amp;utm_campaign=Badge_Grade)
 
+## Authors
+  - Created by **Daniel Glasson** on 18/05/2014
+  - Fork by **Guillaume Diaz** on 22/07/2019
 
-# Authors
-- Created by **Daniel Glasson** on 18/05/2014
-- Fork by **Guillaume Diaz** on 22/07/2019
+## Requirements
 
-
-
-# Requirements
-
-Download a place-names file from http://download.geonames.org/export/dump/
+Download a place-names file from [GeoNames](http://download.geonames.org/export/dump/)
 - Use the file "<code>cities1000.zip</code>" to get cities with at least 1000 inhabitants worldwide
 
-
-# Usage
-
+## Usage
 
 **Standard usage (SINGLETON)**
 
@@ -44,7 +43,6 @@ GeoName closestCity = ReverseGeoCode.getInstance().nearestPlace(latitude, longit
 System.out.println(closestCity.toString());
 ```
 
-
 **Keep only major cities**
 
 You can choose to keep only the majors cities by setting the flag as "true" :
@@ -56,7 +54,6 @@ final Path citiesFile = Paths.get("/home/guillaume/dev/workspace/OfflineReverseG
 // Init DB keep only MAJOR cities
 new ReverseGeoCode(inputZipFile, true, null);
 ```
-
 
 **Multiple files at once**
 
@@ -71,7 +68,6 @@ final List<Path> files = Arrays.asList(citiesFile, luFile);
 // Init DB (raises exception if the file does not exists or is not valid)
 new ReverseGeoCode(files, false, null);
 ```
-
 
 **Keep country details**
 
@@ -90,7 +86,6 @@ final List<Path> files = Arrays.asList(citiesFile, luFile, frFile);
 // Init DB (raises exception if the file does not exists or is not valid)
 new ReverseGeoCode(files, false, countriesToKeep);
 ```
-
 
 **Reload DB before each usage**
 
