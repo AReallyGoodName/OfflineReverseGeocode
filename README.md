@@ -30,7 +30,7 @@ Download a place-names file from http://download.geonames.org/export/dump/
 
 You can init the database (<code>cities1000.zip</code>) once and access it as a Singleton. 
 
-By default it only keep ALL details:
+By default it keep ALL cities:
 
 ```java
 // Retrieve data-file
@@ -88,7 +88,7 @@ final Path frFile = Paths.get("/home/guillaume/dev/workspace/OfflineReverseGeoco
 final List<Path> files = Arrays.asList(citiesFile, luFile, frFile);
 
 // Init DB (raises exception if the file does not exists or is not valid)
-new ReverseGeoCode(files, true, countriesToKeep);
+new ReverseGeoCode(files, false, countriesToKeep);
 ```
 
 
