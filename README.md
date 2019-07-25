@@ -14,14 +14,18 @@ Licensed under The MIT License
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c05be21e15b74566ba4b7a32ada9b1de)](https://www.codacy.com/app/guihome-diaz/OfflineReverseGeocode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guihome-diaz/OfflineReverseGeocode&amp;utm_campaign=Badge_Grade)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/c05be21e15b74566ba4b7a32ada9b1de)](https://www.codacy.com/app/guihome-diaz/OfflineReverseGeocode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guihome-diaz/OfflineReverseGeocode&amp;utm_campaign=Badge_Coverage)
+
 ## Authors
+Project history:
 - Created by **Daniel Glasson** on 18/05/2014
 - Fork by **Guillaume Diaz** on 22/07/2019
 
 ## Requirements
 
 Download a place-names file from [GeoNames](http://download.geonames.org/export/dump/)
-  - Use the file "<code>cities1000.zip</code>" to get cities with at least 1000 inhabitants worldwide
+
+- Use the file "<code>cities1000.zip</code>" to get cities with at least 1000 inhabitants worldwide
 
 ## Usage
 
