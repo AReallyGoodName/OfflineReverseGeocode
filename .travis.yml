@@ -3,8 +3,7 @@ language: java
 jdk:
 - oraclejdk8
 
-# see https://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure
-sudo: false
+install: true
 
 # cache the build tool's caches
 cache:
@@ -22,8 +21,7 @@ cache:
 # Download latest codacity artifact
 before_install:
   - sudo apt-get install jq
-  - curl https://github.com/codacy/codacy-coverage-reporter/releases/download/6.0.2/codacy-coverage-reporter-6.0.2-assembly.jar -o codacy-coverage-reporter-assembly.jar
-#  - curl $(curl https://api.github.com/repos/codacy/codacy-coverage-reporter/releases/latest | jq -r '.assets | map({content_type, browser_download_url} | select(.content_type | contains("application/x-java-archive"))) | .[0].browser_download_url') -o codacy-coverage-reporter-assembly.jar
+  - wget https://github.com/codacy/codacy-coverage-reporter/releases/download/6.0.2/codacy-coverage-reporter-6.0.2-assembly.jar -O ~/codacy-coverage-reporter-assembly.jar
 
 # Public reports
 after_success:
