@@ -221,10 +221,7 @@ public class ReverseGeoCode {
 		}
 
 		// keep only major places?
-		if (!majorOnly || newPlace.majorPlace ) {
-			return true;
-		}
-		return false;
+		return (!majorOnly || newPlace.majorPlace );
 	}
 
 	/**
