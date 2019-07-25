@@ -15,17 +15,17 @@ Licensed under The MIT License
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c05be21e15b74566ba4b7a32ada9b1de)](https://www.codacy.com/app/guihome-diaz/OfflineReverseGeocode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guihome-diaz/OfflineReverseGeocode&amp;utm_campaign=Badge_Grade)
 
 ## Authors
-  - Created by **Daniel Glasson** on 18/05/2014
-  - Fork by **Guillaume Diaz** on 22/07/2019
+- Created by **Daniel Glasson** on 18/05/2014
+- Fork by **Guillaume Diaz** on 22/07/2019
 
 ## Requirements
 
 Download a place-names file from [GeoNames](http://download.geonames.org/export/dump/)
-- Use the file "<code>cities1000.zip</code>" to get cities with at least 1000 inhabitants worldwide
+  - Use the file "<code>cities1000.zip</code>" to get cities with at least 1000 inhabitants worldwide
 
 ## Usage
 
-**Standard usage (SINGLETON)**
+### Standard usage (SINGLETON)
 
 You can init the database (<code>cities1000.zip</code>) once and access it as a Singleton. 
 
@@ -43,7 +43,7 @@ GeoName closestCity = ReverseGeoCode.getInstance().nearestPlace(latitude, longit
 System.out.println(closestCity.toString());
 ```
 
-**Keep only major cities**
+### Keep only major cities
 
 You can choose to keep only the majors cities by setting the flag as "true" :
 
@@ -55,7 +55,7 @@ final Path citiesFile = Paths.get("/home/guillaume/dev/workspace/OfflineReverseG
 new ReverseGeoCode(inputZipFile, true, null);
 ```
 
-**Multiple files at once**
+### Multiple files at once
 
 You can also load multiple files together:
 
@@ -69,7 +69,7 @@ final List<Path> files = Arrays.asList(citiesFile, luFile);
 new ReverseGeoCode(files, false, null);
 ```
 
-**Keep country details**
+### Keep country details
 
 You can choose to keep all details (street, interest point, etc.) about some countries:
 
@@ -87,7 +87,7 @@ final List<Path> files = Arrays.asList(citiesFile, luFile, frFile);
 new ReverseGeoCode(files, false, countriesToKeep);
 ```
 
-**Reload DB before each usage**
+### Reload DB before each usage
 
 /!\ Careful: this is very bad for memory and performances.
 
