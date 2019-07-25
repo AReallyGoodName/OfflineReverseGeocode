@@ -26,23 +26,14 @@ THE SOFTWARE.
 
 package geocode;
 
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import geocode.kdtree.KDTree;
+
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
-
-import geocode.kdtree.KDTree;
 
 /**
  *
@@ -118,7 +109,7 @@ public class ReverseGeoCode {
 
 	/**
 	 * To parse the geonames file.
-	 * @param geoFiles Geoname files downloaded from http://download.geonames.org/export/dump/; can not be null.
+	 * @param geoFile Geoname files downloaded from http://download.geonames.org/export/dump/; can not be null.
 	 * @param majorOnly only include major cities in KD-tree - except if you ask to keep all cities from particular countries.
 	 * @param countriesToKeep list of countries code (2 letters) to keep. All cities belong to these countries will be keep in-memory
 	 * @throws IOException if there is a problem reading some file(s)
