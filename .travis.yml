@@ -3,7 +3,6 @@ language: java
 jdk:
 - oraclejdk8
 
-install: true
 
 # cache the build tool's caches
 cache:
@@ -18,12 +17,16 @@ cache:
 #              export CODACY_PROJECT_TOKEN=%Project_Token%
 
 
-# Download latest codacity artifact
+# Download codacity artifact
 before_install:
   - sudo apt-get install jq
   - wget https://github.com/codacy/codacy-coverage-reporter/releases/download/6.0.2/codacy-coverage-reporter-6.0.2-assembly.jar -O ~/codacy-coverage-reporter-assembly.jar
 
-# Public reports
+# Build project
+script: "mvn clean install"
+
+
+# Send quality report
 after_success:
   - java -jar ~/codacy-coverage-reporter-assembly.jar report -l Java -r target/site/jacoco/jacoco.xml
   
