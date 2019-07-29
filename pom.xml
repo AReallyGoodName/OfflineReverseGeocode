@@ -11,6 +11,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <name>Offline Reverse Geocoding Java library</name>
     <url>http://github.com/AReallyGoodName/OfflineReverseGeocode</url>
+	<description>This API takes a coordinate (latitude, longitude) and finds the closest city, address, street or crossing street nearest to the point - depending on the loaded file(s). It just need to be instantiated once (cost ~2Mb in memory).</description>
 
     <licenses>
         <license>
@@ -18,6 +19,23 @@
             <url>http://www.opensource.org/licenses/mit-license.php</url>
         </license>
     </licenses>
+
+	<developers>
+		<!-- Library creation 2014 -->
+		<developer>
+			<name>Daniel Glasson</name>
+			<organizationUrl>https://github.com/AReallyGoodName/OfflineReverseGeocode</organizationUrl>
+			<timezone>UTC+01:00</timezone>
+		</developer>
+		<!-- Fork 2019-07 -->
+		<developer>
+			<name>Guillaume Diaz</name>
+			<email>guillaume@qin-diaz.com</email>
+			<organization>Daxiongmao.eu</organization>
+			<organizationUrl>https://daxiongmao.eu/wiki</organizationUrl>
+			<timezone>UTC+01:00</timezone>
+		</developer>
+	</developers>
 
 	<scm>
 		<url>https://github.com/guihome-diaz/OfflineReverseGeocode</url>
