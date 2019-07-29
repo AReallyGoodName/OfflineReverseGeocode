@@ -31,9 +31,9 @@ package eu.daxiongmao.geocode.kdtree;
  * @author Daniel Glasson
  */
 public class KDNode<T extends KDNodeComparator<T>> {
-    KDNode<T> left;
-    KDNode<T> right;
-    T location;
+    protected KDNode<T> left;
+    protected KDNode<T> right;
+    protected T location;
 
     public KDNode( KDNode<T> left, KDNode<T> right, T location ) {
         this.left = left;

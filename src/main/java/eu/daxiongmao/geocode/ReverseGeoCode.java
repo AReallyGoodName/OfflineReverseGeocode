@@ -26,24 +26,15 @@ THE SOFTWARE.
 
 package eu.daxiongmao.geocode;
 
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
-
 import eu.daxiongmao.geocode.kdtree.KDTree;
 import eu.daxiongmao.geocode.utils.FileUtils;
+
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.*;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 /**
  *
@@ -69,8 +60,8 @@ import eu.daxiongmao.geocode.utils.FileUtils;
 public class ReverseGeoCode {
 
 	private static ReverseGeoCode instance;
-	final KDTree<GeoName> kdTree;
-	final int nbCitiesLoaded;
+	protected final KDTree<GeoName> kdTree;
+	protected final int nbCitiesLoaded;
 
 	// Requirement: get placenames from http://download.geonames.org/export/dump/
 	// 2019-07-22: take "cities1000.zip" + "LU.zip" to get all cities with 1000 inhabitants and Luxembourg country in full
