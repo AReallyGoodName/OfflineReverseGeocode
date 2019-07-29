@@ -25,15 +25,20 @@
 		<developerConnection>scm:git:git@github.com:guihome-diaz/OfflineReverseGeocode.git</developerConnection>
 	</scm>
 
+	<properties>
+		<java.version>11</java.version>
+	</properties>
+
     <build>
 		<plugins>		
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.1</version>
+                <version>3.8.1</version>
                 <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
+                    <release>${java.version}</release>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
