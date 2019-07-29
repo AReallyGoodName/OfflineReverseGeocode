@@ -21,22 +21,33 @@ Project history:
 - Created by **Daniel Glasson** on 18/05/2014
 - Fork by **Guillaume Diaz** on 22/07/2019
 
-## Stack
-
-This library requires:
-- Java 11 (Oracle JDK or OpenJDK)
 
 ## Requirements
+
+### Data source file(s)
 
 Download a place-names file from [GeoNames](http://download.geonames.org/export/dump/)
 
 - Use the file "<code>cities1000.zip</code>" to get cities with at least 1000 inhabitants worldwide
 
+### Java version
+
+This library requires **Java 11** (Oracle JDK or OpenJDK) or higher.
+
+
 ## Usage
 
-## Build
+### Maven dependency
 
-Just check and build the library: <code>mvn clean install</code>
+Include the library into your POM:
+
+```xml
+    <dependency>
+        <groupId>eu.daxiongmao.geocode</groupId>
+        <artifactId>offline-reverse-geocoding</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+```
 
 ### Standard usage (SINGLETON)
 
@@ -111,3 +122,9 @@ ReverseGeoCode reverseGeoCode = new ReverseGeoCode(new FileInputStream("/opt/por
 // Query position
 System.out.println("Nearest to -23.456, 123.456 is " + geocode.nearestPlace(-23.456, 123.456));
 ```
+
+
+
+## Build from scratch
+
+To build the library from scratch, just <code>clone the project</code> and <code>mvn clean install</code>

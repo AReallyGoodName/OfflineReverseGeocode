@@ -6,8 +6,8 @@
 	
 	<!-- LuxTrust fork of offline reverse-geocode library -->
 	
-    <groupId>OfflineReverseGeocode</groupId>
-    <artifactId>OfflineReverseGeocode</artifactId>
+    <groupId>eu.daxiongmao.geocode</groupId>
+    <artifactId>offline-reverse-geocoding</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>Offline Reverse Geocoding Java library</name>
     <url>http://github.com/AReallyGoodName/OfflineReverseGeocode</url>
