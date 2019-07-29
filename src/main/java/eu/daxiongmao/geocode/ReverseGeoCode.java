@@ -43,6 +43,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
 import eu.daxiongmao.geocode.kdtree.KDTree;
+import eu.daxiongmao.geocode.utils.FileUtils;
 
 /**
  *

@@ -1,4 +1,4 @@
-package eu.daxiongmao.geocode;
+package eu.daxiongmao.geocode.utils;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
