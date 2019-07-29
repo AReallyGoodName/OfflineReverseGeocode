@@ -21,6 +21,11 @@ Project history:
 - Created by **Daniel Glasson** on 18/05/2014
 - Fork by **Guillaume Diaz** on 22/07/2019
 
+## Stack
+
+This library requires:
+- Java 11 (Oracle JDK or OpenJDK)
+
 ## Requirements
 
 Download a place-names file from [GeoNames](http://download.geonames.org/export/dump/)
@@ -28,6 +33,10 @@ Download a place-names file from [GeoNames](http://download.geonames.org/export/
 - Use the file "<code>cities1000.zip</code>" to get cities with at least 1000 inhabitants worldwide
 
 ## Usage
+
+## Build
+
+Just check and build the library: <code>mvn clean install</code>
 
 ### Standard usage (SINGLETON)
 
