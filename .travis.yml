@@ -1,7 +1,8 @@
 language: java
-# use Java 8
 jdk:
-- oraclejdk8
+#- oraclejdk8
+- oraclejdk11
+- openjdk11
 
 
 # cache the build tool's caches
