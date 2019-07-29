@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
  */
 
-package geocode;
+package eu.daxiongmao.geocode;
 
 import static java.lang.Math.cos;
 import static java.lang.Math.sin;
@@ -33,7 +33,7 @@ import static java.lang.Math.toRadians;
 import java.util.Comparator;
 import java.util.Objects;
 
-import geocode.kdtree.KDNodeComparator;
+import eu.daxiongmao.geocode.kdtree.KDNodeComparator;
 
 /**
  * Created by Daniel Glasson on 18/05/2014.

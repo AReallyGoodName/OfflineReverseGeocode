@@ -1,4 +1,4 @@
-package geocode;
+package eu.daxiongmao.geocode;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -14,6 +14,9 @@ import java.util.Set;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import eu.daxiongmao.geocode.GeoName;
+import eu.daxiongmao.geocode.ReverseGeoCode;
 
 /**
  * Unit tests for reverse-geocoding library

@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
  */
 
-package geocode;
+package eu.daxiongmao.geocode;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -42,7 +42,7 @@ import java.util.Set;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
-import geocode.kdtree.KDTree;
+import eu.daxiongmao.geocode.kdtree.KDTree;
 
 /**
  *

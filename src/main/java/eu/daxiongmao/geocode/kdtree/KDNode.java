@@ -22,25 +22,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
- */
+*/
 
-package geocode.kdtree;
-
-import java.util.Comparator;
+package eu.daxiongmao.geocode.kdtree;
 
 /**
  *
  * @author Daniel Glasson
- * Make the user return a comparator for each axis
- * Squared distances should be an optimisation
  */
-public abstract class KDNodeComparator<T> { 
-	// This should return a comparator for whatever axis is passed in
-	protected abstract Comparator getComparator(int axis);
+public class KDNode<T extends KDNodeComparator<T>> {
+    KDNode<T> left;
+    KDNode<T> right;
+    T location;
 
-	// Return squared distance between current and other
-	protected abstract double squaredDistance(T other);
-
-	// Return squared distance between one axis only
-	protected abstract double axisSquaredDistance(T other, int axis);
+    public KDNode( KDNode<T> left, KDNode<T> right, T location ) {
+        this.left = left;
+        this.right = right;
+        this.location = location;
+    }
 }
