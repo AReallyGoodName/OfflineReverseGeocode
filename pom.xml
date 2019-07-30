@@ -41,15 +41,31 @@
 		<url>https://github.com/guihome-diaz/OfflineReverseGeocode</url>
 		<connection>scm:git:git@github.com:guihome-diaz/OfflineReverseGeocode.git</connection>
 		<developerConnection>scm:git:git@github.com:guihome-diaz/OfflineReverseGeocode.git</developerConnection>
+		<tag>HEAD</tag>
 	</scm>
+
+	<!-- Deploy to Maven central Sonatype (mvnrepository.com) -->
+	<!-- -->
+	<distributionManagement>
+		<snapshotRepository>
+			<id>ossrh</id>
+			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
+		</snapshotRepository>
+		<repository>
+			<id>ossrh</id>
+			<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+		</repository>
+	</distributionManagement>
 
 	<properties>
 		<java.version>11</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 
     <build>
-		<plugins>		
+		<plugins>
+            <!-- Compilation settings -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -61,8 +77,23 @@
                     <encoding>${project.build.sourceEncoding}</encoding>
                 </configuration>
             </plugin>
-            
-            <!--  To generate test coverage reports -->
+
+			<!-- Generate source artifact to upload along the binaries, this help debug mode -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>3.1.0</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+            <!--  To generate test coverage reports (for Codacy & Sonarqube) -->
 			<plugin>
 				<groupId>org.jacoco</groupId>
 				<artifactId>jacoco-maven-plugin</artifactId>
@@ -93,5 +124,71 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-  
+
+	<profiles>
+		<!-- Profile to use when we want to deploy on Maven central -->
+		<!-- Usage: mvn clean install -Prelease -->
+		<profile>
+			<id>release</id>
+			<build>
+				<plugins>
+					<!-- To prepare artifacts before shipment to Nexus (MVN central) -->
+					<!-- a) Do not forget to install GPG and generate the keys -->
+					<!--    gpg —full-generate-key                                   # generate key -->
+					<!--    gpg —keyserver keyserver.ubuntu.com —send-keys ${keyId}  # upload key to remote server -->
+					<!--    gpg —list-secret-keys —keyid-format LONG                 # view keys -->
+					<!-- b) export keys -->
+					<!--    gpg -a —export-secret-keys guillaume@qin-diaz.com | base64 -->
+					<!--    gpg —armor —export ${keyId}                            # Export public key -->
+					<!-- see: https://dracoblue.net/dev/uploading-snapshots-and-releases-to-maven-central-with-travis/ -->
+					<!-- c) update TRAVIS -->
+					<!-- d) Do not forget to update your maven settings.xml -->
+					<!-- See: -->
+					<plugin>
+						<artifactId>maven-deploy-plugin</artifactId>
+						<version>2.8.2</version>
+						<executions>
+							<execution>
+								<id>default-deploy</id>
+								<phase>deploy</phase>
+								<goals>
+									<goal>deploy</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+
+					<!-- To sign the artifact before release -->
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-gpg-plugin</artifactId>
+						<version>1.6</version>
+						<executions>
+							<execution>
+								<id>sign-artifacts</id>
+								<phase>verify</phase>
+								<goals>
+									<goal>sign</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+
+					<!-- To check if deployment is possible or not with current configuration on remote NEXUS server -->
+					<plugin>
+						<groupId>org.sonatype.plugins</groupId>
+						<artifactId>nexus-staging-maven-plugin</artifactId>
+						<version>1.6.8</version>
+						<extensions>true</extensions>
+						<configuration>
+							<serverId>ossrh</serverId>
+							<nexusUrl>https://oss.sonatype.org/</nexusUrl>
+							<autoReleaseAfterClose>true</autoReleaseAfterClose>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+
 </project>

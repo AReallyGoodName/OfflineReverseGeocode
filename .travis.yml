@@ -23,8 +23,12 @@ before_install:
   - sudo apt-get install jq
   - wget https://github.com/codacy/codacy-coverage-reporter/releases/download/6.0.2/codacy-coverage-reporter-6.0.2-assembly.jar -O ~/codacy-coverage-reporter-assembly.jar
 
+# Override default install with settings
+install:
+  - mvn --settings .travis/settings.xml install -DskipTests=true -Dgpg.skip -Dmaven.javadoc.skip=true -B -V
+
 # Build project
-script: "mvn clean install"
+script: "mvn --settings .travis/settings.xml clean install"
 
 
 # Send quality report
