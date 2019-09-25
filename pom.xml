@@ -4,8 +4,6 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 	
-	<!-- LuxTrust fork of offline reverse-geocode library -->
-	
     <groupId>eu.daxiongmao.geocode</groupId>
     <artifactId>offline-reverse-geocoding</artifactId>
     <version>1.0.0-SNAPSHOT</version>
@@ -13,10 +11,12 @@
     <url>http://github.com/AReallyGoodName/OfflineReverseGeocode</url>
 	<description>This API takes a coordinate (latitude, longitude) and finds the closest city, address, street or crossing street nearest to the point - depending on the loaded file(s). It just need to be instantiated once (cost ~2Mb in memory).</description>
 
+	<!-- Legal aspects -->
     <licenses>
         <license>
             <name>MIT License</name>
             <url>http://www.opensource.org/licenses/mit-license.php</url>
+        	<distribution>repo</distribution>
         </license>
     </licenses>
 
@@ -30,6 +30,7 @@
 		<!-- Fork 2019-07 -->
 		<developer>
 			<name>Guillaume Diaz</name>
+			<url>http://www.daxiongmao.eu/wiki</url>
 			<email>guillaume@qin-diaz.com</email>
 			<organization>Daxiongmao.eu</organization>
 			<organizationUrl>https://daxiongmao.eu/wiki</organizationUrl>
@@ -37,6 +38,7 @@
 		</developer>
 	</developers>
 
+	<!-- Source code original location -->
 	<scm>
 		<url>https://github.com/guihome-diaz/OfflineReverseGeocode</url>
 		<connection>scm:git:git@github.com:guihome-diaz/OfflineReverseGeocode.git</connection>
@@ -45,7 +47,6 @@
 	</scm>
 
 	<!-- Deploy to Maven central Sonatype (mvnrepository.com) -->
-	<!-- -->
 	<distributionManagement>
 		<snapshotRepository>
 			<id>ossrh</id>
@@ -79,6 +80,7 @@
             </plugin>
 
 			<!-- Generate source artifact to upload along the binaries, this help debug mode -->
+			<!-- This is mandatory for publication on Maven Central -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-source-plugin</artifactId>
@@ -92,7 +94,26 @@
 					</execution>
 				</executions>
 			</plugin>
-
+		
+			<!-- Generate javadoc to ease API browsing -->
+			<!-- This is mandatory for publication on Maven Central -->			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>3.1.1</version>
+				<configuration>
+					<sourcepath>src/main/java</sourcepath>
+				</configuration>
+				<executions>
+					<execution>
+						<id>attach-javadocs</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			
             <!--  To generate test coverage reports (for Codacy & Sonarqube) -->
 			<plugin>
 				<groupId>org.jacoco</groupId>
@@ -117,6 +138,7 @@
     </build>
 
 	<dependencies>
+		<!-- Unit tests -->
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-engine</artifactId>
@@ -125,9 +147,15 @@
 		</dependency>
 	</dependencies>
 
+
 	<profiles>
 		<!-- Profile to use when we want to deploy on Maven central -->
 		<!-- Usage: mvn clean install -Prelease -->
+		
+		<!-- This is based on the following resources:
+				* How-to build and upload artifacts to Maven Central: https://dracoblue.net/dev/uploading-snapshots-and-releases-to-maven-central-with-travis/
+				* PGP signature generation: https://central.sonatype.org/pages/working-with-pgp-signatures.html
+		-->
 		<profile>
 			<id>release</id>
 			<build>
