@@ -1,0 +1,33 @@
+language: java
+jdk:
+#- oraclejdk8
+- oraclejdk11
+- openjdk11
+
+
+# cache the build tool's caches
+cache:
+  directories:
+  - $HOME/.m2
+  - $HOME/.gradle
+
+################
+# CODACITY INTEGRATION (static code analysis)
+################
+# Requirement: configure TRAVIS build and add the codacity token as environment variable
+#              export CODACY_PROJECT_TOKEN=%Project_Token%
+
+
+# Download codacity artifact
+before_install:
+  - sudo apt-get install jq
+  - wget https://github.com/codacy/codacy-coverage-reporter/releases/download/6.0.2/codacy-coverage-reporter-6.0.2-assembly.jar -O ~/codacy-coverage-reporter-assembly.jar
+
+# Override default install with settings
+install:
+  - mvn --settings .travis/settings.xml install -DskipTests=true -Dgpg.skip -Dmaven.javadoc.skip=true -B -V
+
+# Send quality report
+after_success:
+  - java -jar ~/codacy-coverage-reporter-assembly.jar report -l Java -r target/site/jacoco/jacoco.xml
+  

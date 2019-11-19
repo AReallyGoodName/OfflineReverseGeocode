@@ -1,0 +1,1210 @@
+2959958	Zittig	Zittig	Zittig	49.73889	6.345	P	PPL	LU		EC	02			38		268	Europe/Luxembourg	2017-10-04
+2959959	Wormeldange	Wormeldange	Wormeldange,Wormeldingen,Wuermeldeng	49.61114	6.40546	P	PPLA3	LU		GR	09			786		147	Europe/Luxembourg	2017-10-02
+2959960	Wues	Wues	Woos,Wues	49.79667	6.15556	P	PPL	LU	LU	ME	10			0		248	Europe/Luxembourg	2017-01-28
+2959961	Wolwelange	Wolwelange	Wolwelange,Wolwen	49.82861	5.76472	P	PPL	LU		RD	06			358		480	Europe/Luxembourg	2017-10-02
+2959963	Woltz	Woltz	Woltz,Wolz	50.06889	6.02333	H	STM	LU		CL				0		364	Europe/Luxembourg	2017-01-14
+2959964	Wolpert	Wolpert	Maisons Wolper,Wolper,Wolpert	49.76421	6.3536	P	PPLL	LU	LU	EC	02			0		370	Europe/Luxembourg	2017-10-02
+2959965	Wolfsmuhle-lès-Ellange	Wolfsmuhle-les-Ellange	Wolfsmuhle,Wolfsmuhle-les-Ellange,Wolfsmuhle-lès-Ellange,Wolfsmühle	49.53333	6.31667	P	PPL	LU		RM	02			0		178	Europe/Luxembourg	2017-01-28
+2959966	Wollefsmillen	Wollefsmillen	Wolfsmuhle,Wolfsmuhle les Wasserbillig,Wolfsmuhle lès Wasserbillig,Wolfsmühle,Wollefsmillen	49.71639	6.49	P	PPL	LU	LU	GR	07			0		233	Europe/Luxembourg	2017-01-28
+2959967	Wintrange	Wintrange	Wintrange	49.50139	6.35278	P	PPL	LU		RM	05			384		151	Europe/Luxembourg	2017-10-02
+2959968	Winseler	Winseler	Gemeng Wanseler,Vinseler,Vinzeler,Wanseler,Winseler,wynzlr,Винзелер,Вінселер,وینزلر	49.96778	5.89028	P	PPLA3	LU		WI	13			126		334	Europe/Luxembourg	2017-10-02
+2959969	Wandhaff	Wandhaff	Wandhaff,Windhof,Windhof-les-Ettelbruck,Windhof-lès-Ettelbrück	49.87222	6.06333	S	FRM	LU	LU	DI	03			0		362	Europe/Luxembourg	2017-01-28
+2959970	Wandhaff	Wandhaff	Wandhaff,Windhof	49.64833	5.95611	S	FRM	LU	LU	CA	07			0		331	Europe/Luxembourg	2017-09-29
+2959971	Wincrange	Wincrange	Wenerange,Wincrange,Wintger	50.05333	5.91917	P	PPLA3	LU		CL	01			210		490	Europe/Luxembourg	2017-10-02
+2959972	Wilwerwiltz	Wilwerwiltz	Wilwerwiltz,Wilwerwilz	49.98889	5.99917	P	PPLA3	LU		WI	8641289			249		299	Europe/Luxembourg	2017-10-02
+2959973	Wilwerdange	Wilwerdange	Wilwerdange	50.14056	6.02389	P	PPL	LU		CL	09			268		519	Europe/Luxembourg	2017-10-02
+2959974	Wiltzermühle	Wiltzermuehle	Ferrantsmuhle,Ferrantsmühle,Wiltzermuhle,Wiltzermühle,Wilzermuhle,Wilzermühle	49.65	6.05	P	PPL	LU		CA	09			0		353	Europe/Luxembourg	2017-01-28
+2959975	Wiltz	Wiltz	Canton de Wiltz,Kanton Wiltz,Kanton Wolz,Wiltz,Wolz	49.94698	5.907	A	ADM1	LU		WI				0		452	Europe/Luxembourg	2017-06-15
+2959977	Wiltz	Wiltz	Vil'c,Vilc,Vilcas,Wiltz,Wilz,Wolz,wyltz,Вилц,Вильц,Вільц,ویلتز	49.96547	5.9339	P	PPLA	LU		WI	11			4816		382	Europe/Luxembourg	2017-10-02
+2959978	Wiltz	Wiltz	Canto de Wiltz,Canton de Wiltz,Cantone di Wiltz,Cantó de Wiltz,Cantón de Wiltz,Commune de Wiltz,Gemeinde Wiltz,Gemeng Wolz,Kanton Wiltz,Kanton Wolz,Kantono Wiltz,Vil'c,Vilco kantonas,Ville de Wiltz,Wiltz,Wiltz kantonu,Wolz,Wooltz,bilcheu ju,wltz,wyltz,Вільц,ولتز,ویلتز,빌츠 주	49.97888	5.9398	A	ADM2	LU		WI	11			0		355	Europe/Luxembourg	2017-02-04
+2959979	Wilmeshof	Wilmeshof		49.85	6.11667	P	PPL	LU		DI	06			0		196	Europe/Luxembourg	2017-01-28
+2959980	Wickrange	Wickrange	Wickrange	49.54139	6.02167	P	PPL	LU		ES	10			111		295	Europe/Luxembourg	2017-10-02
+2959981	Wickelscheid	Wickelscheid	Ferme Wickelescht,Wickelscheid	49.75	6.2	P	PPL	LU		ME	04			0		313	Europe/Luxembourg	2017-01-28
+2959982	Weyer	Weyer	Weyer	49.71972	6.2	P	PPLL	LU		GR	05			0		307	Europe/Luxembourg	2017-10-04
+2959983	Wemperhardt	Wemperhardt	Wemperhaard,Wemperhardt,Wemperhart	50.15556	6.05333	P	PPLL	LU	LU	CL	10			0		521	Europe/Luxembourg	2017-10-02
+2959984	Welsdorf	Welsdorf		49.81727	6.08677	P	PPLL	LU		ME	01			0		253	Europe/Luxembourg	2017-10-02
+2959985	Welscheid	Welscheid	Welscheid	49.88806	6.06778	P	PPL	LU		DI	03			149		247	Europe/Luxembourg	2017-10-02
+2959986	Wellerboesch	Wellerboesch	Wellerboesch,Wellerbusch	49.55778	6.05	V	FRST	LU		ES				0		363	Europe/Luxembourg	2017-02-04
+2959987	Wellenstein	Wellenstein	Wellenstein	49.52389	6.34222	P	PPL	LU		RM	05			499		173	Europe/Luxembourg	2017-10-02
+2959988	Welfrange	Welfrange	Welfrange	49.53806	6.28417	P	PPL	LU		RM	02			154		291	Europe/Luxembourg	2017-10-02
+2959989	Weiswampach	Weiswampach	Weiswampach	50.13722	6.075	P	PPLA3	LU		CL	10			691		492	Europe/Luxembourg	2017-10-02
+2959990	Weissenhaff	Weissenhaff	Weishof,Weissenhaff,Weissenhof	49.84	5.82806	S	FRM	LU	LU	RD	06			0		506	Europe/Luxembourg	2017-01-28
+2959991	Weissenhof	Weissenhof		49.56667	6.11667	P	PPL	LU		LU	2960317			0		311	Europe/Luxembourg	2017-01-28
+2959992	Weimerskirch	Weimerskirch	Neimersk,Waymersk,Weimerskirch,Wimerskirch	49.62361	6.13639	P	PPL	LU	LU	LU	2960317			0		321	Europe/Luxembourg	2017-01-28
+2959993	Weimershof	Weimershof		49.6	6.15	P	PPL	LU		LU	2960317			0		283	Europe/Luxembourg	2017-01-28
+2959994	Weileschbach	Weileschbach	Steinescht,Weilesbach,Weileschbach	49.86667	6.21667	P	PPL	LU		DI	02			0		215	Europe/Luxembourg	2017-01-28
+2959995	Weiler	Weiler	Weiler,Weiler-les-Putscheid,Weiler-lès-Putscheid	49.96361	6.12417	P	PPL	LU		VD	02			153		457	Europe/Luxembourg	2017-10-02
+2959996	Weiler-la-Tour	Weiler-la-Tour	Weiler-la-Tour	49.54083	6.20083	P	PPLA3	LU		LU	10			484		259	Europe/Luxembourg	2017-10-02
+2959997	Weilerbach	Weilerbach	Weilerbach	49.83333	6.38278	P	PPL	LU		EC	03			274		192	Europe/Luxembourg	2017-10-02
+2959998	Weiler	Weiler	Weiler	50.10444	5.94611	P	PPL	LU		CL	01			44		471	Europe/Luxembourg	2017-10-04
+2960000	Weidingen	Weidingen	Weidingen	49.97068	5.93884	P	PPL	LU		WI	11			0		320	Europe/Luxembourg	2017-10-02
+2960001	Weydig	Weydig	Fermes Weidig,Weidig,Weidigerhof,Weydig	49.71139	6.33028	S	FRM	LU		GR	02			0		281	Europe/Luxembourg	2017-01-28
+2960002	Weicherdange	Weicherdange	Weicherdange	50.03833	5.98944	P	PPL	LU		CL	03			220		493	Europe/Luxembourg	2017-10-02
+2960003	Wecker	Wecker	Wecker,Wecker-Gare	49.69473	6.38525	P	PPL	LU		GR	02			667		216	Europe/Luxembourg	2017-10-02
+2960004	Webershof	Webershof	Weberhof,Webershof	49.81667	6.25	P	PPL	LU		DI	8641526			0		399	Europe/Luxembourg	2017-01-28
+2960005	Watschenterhaff	Watschenterhaff	Watschenterhaff,Watschenterhof	49.79083	6.23778	S	FRM	LU	LU	DI	8641526			0		377	Europe/Luxembourg	2017-01-28
+2960006	Watrange	Watrange	Walter,Watrange	49.94417	5.78583	P	PPL	LU		WI	05			92		456	Europe/Luxembourg	2017-10-02
+2960007	Wasserbillig	Wasserbillig	Wasserbillig	49.71534	6.49861	P	PPL	LU		GR	07			2327		144	Europe/Luxembourg	2017-10-02
+2960008	Warken	Warken	Warken	49.85918	6.08415	P	PPL	LU		DI	07			1188		214	Europe/Luxembourg	2017-10-02
+2960009	Wark	Wark	Wark	49.84611	6.10722	H	STM	LU		DI				0		214	Europe/Luxembourg	2017-02-04
+2960010	Walferdange	Walferdange	Walfer,Walferdange,Walferdingen	49.66321	6.13224	P	PPLA3	LU		LU	09			740		232	Europe/Luxembourg	2017-10-02
+2960011	Walsdorf	Walsdorf	Waldsdorf,Walsdorf	49.92667	6.17361	P	PPL	LU		VD	01			68		381	Europe/Luxembourg	2017-10-02
+2960012	Waldhaff	Waldhaff	Blannenhof,Waldhaff,Waldhof	49.6525	6.19028	S	FRM	LU	LU	LU	04			0		411	Europe/Luxembourg	2017-01-28
+2960013	Waldbredimus	Waldbredimus	Waldbredimus	49.55676	6.28789	P	PPLA3	LU		RM	08			416		183	Europe/Luxembourg	2017-10-02
+2960014	Waldbillig	Waldbillig	Waldbillig	49.79636	6.28431	P	PPLA3	LU		EC	08			408		298	Europe/Luxembourg	2017-10-02
+2960015	Wakelterhof	Wakelterhof		49.81667	6.3	P	PPL	LU		EC	08			0		314	Europe/Luxembourg	2017-01-28
+2960016	Wahlhausen	Wahlhausen	Wahlhausen,Wahlhousen	49.98528	6.12667	P	PPL	LU		CL	63			246		491	Europe/Luxembourg	2017-10-02
+2960017	Wahl	Wahl	Wahl,Wal	49.83667	5.90639	P	PPLA3	LU		RD	13			235		448	Europe/Luxembourg	2017-10-02
+2960018	Vugelsmillen	Vugelsmillen	Vogelsmuhl,Vogelsmuhle,Vogelsmule,Vogelsmühl,Vogelsmühle,Vugelsmillen	49.81528	6.3275	S	ML	LU	LU	EC	03			0		243	Europe/Luxembourg	2017-01-28
+2960019	Vichten	Vichten	Vichten,Viichten	49.80306	6	P	PPLA3	LU		RD	12			764		283	Europe/Luxembourg	2017-10-02
+2960020	Vianden	Vianden	Canton de Vianden,Kanton Veianen,Kanton Vianden,Veianen,Vianden	49.93256	6.16618	A	ADM1	LU		VD				3147		372	Europe/Luxembourg	2017-01-26
+2960021	Vianden	Vianden	Veianen,Vianden,Vijandehn,Vijanden,wei an deng,wyandn,Вианден,Вијанден,Віанден,Віяндэн,ویاندن,維安登	49.935	6.20889	P	PPLA2	LU		VD	03			1626		228	Europe/Luxembourg	2017-10-02
+2960022	Useldange	Useldange	Useldange,Useldeng	49.76972	5.98222	P	PPLA3	LU		RD	11			657		240	Europe/Luxembourg	2017-10-02
+2960023	Urspelt	Urspelt	Urspelt	50.07556	6.04667	P	PPL	LU		CL	03			54		472	Europe/Luxembourg	2017-10-02
+2960024	Oenneschteboesch	Oenneschteboesch	Oenneschteboesch,Unterstenbusch	49.78361	5.82972	V	FRST	LU		RD				0		394	Europe/Luxembourg	2017-02-04
+2960025	Untereisenbach	Untereisenbach	Untereisenbach	50.00167	6.14556	P	PPL	LU		CL	63			0		257	Europe/Luxembourg	2017-01-28
+2960026	Uebersyren	Uebersyren	Uebersyren	49.6319	6.2771	P	PPL	LU		LU	06			616		258	Europe/Luxembourg	2017-10-02
+2960027	Tuntange	Tuntange	Tenten,Tuntange,Tuntingen,Tënten	49.71778	6.01028	P	PPLA3	LU		ME	11			605		315	Europe/Luxembourg	2017-10-02
+2960028	Tumulus Tonn	Tumulus Tonn		49.65	6.35	T	HLL	LU		GR	03			0		305	Europe/Luxembourg	2017-01-28
+2960029	Tubishaff	Tubishaff	Tubishaff,Tubishof	49.58333	6.11556	S	FRM	LU	LU	LU	2960317			0		292	Europe/Luxembourg	2017-01-28
+2960030	Troisvierges	Troisvierges	Elwen,Gemeng Elwen,Gemeng Ëlwen,Troavjerzh,Troisvierges,Truav'erzh,Truaverzh,Ulflingen,torowavu~ieruju,trwawyrzh,Ëlwen,Троавјерж,Труавьерж,Труавєрж,ترواویرژ,トロワヴィエルジュ	50.12111	6.00028	P	PPLA3	LU		CL	09			1457		436	Europe/Luxembourg	2017-10-02
+2960031	Troisvierges	Troisvierges	Commune de Troisvierges,Elwen,Gemeinde Ulflingen,Gemeng Elwen,Gemeng Ëlwen,Troavjerzh,Troisvierges,Truav'erzh,Truaverzh,Ulflingen,torowavu~ieruju,trwawyrzh,Ëlwen,Троавјерж,Труавьерж,Труавєрж,ترواویرژ,トロワヴィエルジュ	50.14377	6.00201	A	ADM2	LU		CL	09			0		472	Europe/Luxembourg	2017-01-14
+2960032	Tretterbaach	Tretterbaach	Bratten,La Woltz Ruisseau,Riviere de Troine,Rivière de Troine,Ruisseau de Troine,Tretterbaach,Trotten Bach,Trottenerbach,Woltz	50.09861	6.00806	H	STM	LU		CL				0		395	Europe/Luxembourg	2017-01-14
+2960033	Troine	Troine	Troine,Trotten	50.06444	5.88306	P	PPL	LU	LU	CL	01			0		476	Europe/Luxembourg	2017-10-02
+2960034	Trintange	Trintange	Trintange	49.57083	6.28056	P	PPL	LU		RM	08			289		191	Europe/Luxembourg	2017-10-02
+2960035	Pommerloch	Pommerloch	Pommerloch,Reckingerhof,Trentelhof	49.96028	5.86083	P	PPLL	LU		WI	13			51		450	Europe/Luxembourg	2017-10-02
+2960036	Toussaints Millen	Toussaints Millen	Moulin Toussaint,Toussaints Millen,Toussaintsmuhle,Toussaintsmühle	49.49944	6.0525	S	ML	LU	LU	ES	06			0		277	Europe/Luxembourg	2017-01-28
+2960037	Tockmuhle	Tockmuhle	Tockenmuhle,Tockenmühle,Tockmuhle	49.91667	5.78333	P	PPL	LU		WI	01			0		441	Europe/Luxembourg	2017-01-28
+2960038	Tintesmillen	Tintesmillen	Tinstesmuhle,Tinstesmühle,Tintesmillen,Tintesmuhle,Tintesmühle,Tuntesmuhle,Tuntesmühle	50.09472	6.1275	S	ML	LU	LU	CL	03			0		334	Europe/Luxembourg	2017-01-28
+2960039	Tomm	Tomm	Thom,Tomm	49.89444	6.16361	P	PPL	LU	LU	VD	01			0		241	Europe/Luxembourg	2017-01-28
+2960040	Thillen	Thillen		49.7	6.43333	P	PPL	LU		GR	06			0		283	Europe/Luxembourg	2017-01-28
+2960041	Tëtelbierg	Tetelbierg	Tetelbierg,Titelberg,Tëtelbierg	49.54028	5.85972	T	MT	LU	LU	ES	09			0	399	394	Europe/Luxembourg	2017-01-28
+2960042	Tétange	Tetange	Tetange,Tétange	49.47583	6.04222	P	PPL	LU		ES	06			2929		300	Europe/Luxembourg	2017-10-02
+2960043	Tattebierg	Tattebierg	Tattebierg,Tattebourg	49.48056	6.07833	T	HLL	LU	LU	ES	03			0		316	Europe/Luxembourg	2017-01-28
+2960044	Tarchamps	Tarchamps	Eschpelt,Heispelt,Ischpelt,Ischspelt,Tarchamps	49.95056	5.79611	P	PPL	LU		WI	05			294		480	Europe/Luxembourg	2017-10-02
+2960045	Tandel	Tandel	Tandel	49.8975	6.18333	P	PPLA3	LU		VD	01			89		229	Europe/Luxembourg	2017-10-02
+2960046	Tadler	Tadler	Tadler	49.91139	5.99556	P	PPL	LU		WI	02			0		303	Europe/Luxembourg	2017-10-04
+2960047	Syren	Syren	Syren	49.56194	6.22167	P	PPL	LU		LU	10			423		291	Europe/Luxembourg	2017-10-02
+2960048	Syre	Syre	Syre	49.69361	6.48056	H	STM	LU		GR				0		229	Europe/Luxembourg	2017-01-14
+2960049	Bois de Surré	Bois de Surre		49.9	5.76667	V	FRST	LU		WI				0		449	Europe/Luxembourg	2017-01-14
+2960050	Surré	Surre	Surre,Surré,Syr	49.90306	5.78	P	PPL	LU		WI	01			190		362	Europe/Luxembourg	2017-10-02
+2960053	Strooserboesch	Strooserboesch	Strasserbusch,Strooserboesch	49.64639	6.06778	V	FRST	LU		LU				0		372	Europe/Luxembourg	2017-02-04
+2960054	Strassen	Strassen	Strassen	49.62056	6.07333	P	PPLA3	LU		LU	08			6006		309	Europe/Luxembourg	2017-10-02
+2960055	Stolzembourg	Stolzembourg	Stolzembourg,Stolzemburg	49.96549	6.16745	P	PPL	LU		VD	02			183		229	Europe/Luxembourg	2017-10-02
+2960056	Stockem	Stockem	Stockem	50.07889	5.95806	P	PPL	LU		CL	01			119		465	Europe/Luxembourg	2017-10-02
+2960057	Turelbaach	Turelbaach	Stemel,Tourelbach,Turelbaach	49.83306	6.00806	H	STM	LU		DI				0		313	Europe/Luxembourg	2017-02-04
+2960058	Steinsel	Steinsel	Steinsel	49.67694	6.12389	P	PPLA3	LU		LU	07			1879		243	Europe/Luxembourg	2017-10-02
+2960059	Staekaul	Staekaul	Staekaul,Steinkaul	49.69611	5.92028	P	PPL	LU	LU	CA	05			0		345	Europe/Luxembourg	2017-01-28
+2960060	Steinheim	Steinheim		49.81794	6.47713	P	PPL	LU		EC	07			550		156	Europe/Luxembourg	2017-10-02
+2960061	Steinfort	Steinfort	Steinfort,Stengefort	49.66139	5.91917	P	PPLA3	LU		CA	11			2225		307	Europe/Luxembourg	2017-10-02
+2960062	Stegen	Stegen	Stegen	49.83	6.17194	P	PPL	LU		DI	8641526			406		323	Europe/Luxembourg	2017-10-02
+2960063	Stadtbredimus	Stadtbredimus	Stadtbredimus	49.56278	6.36444	P	PPLA3	LU		RM	07			749		147	Europe/Luxembourg	2017-10-02
+2960064	Stool	Stool	Staal,Stool	49.91972	6.11889	H	STM	LU		VD				0		396	Europe/Luxembourg	2017-02-04
+2960065	Sprinkange	Sprinkange		49.58049	5.96493	P	PPL	LU		CA	03			0		322	Europe/Luxembourg	2017-10-02
+2960066	Sonlez	Sonlez	Soller,Sonlez	49.965	5.82667	P	PPL	LU		WI	13			41		417	Europe/Luxembourg	2017-10-02
+2960067	Soleuvre	Soleuvre	Soleuvre,Zolver,Zolwer	49.52148	5.93781	P	PPL	LU		ES	13			4988		350	Europe/Luxembourg	2017-10-02
+2960068	Siebenaler	Siebenaler	Siebenaler	50.01056	6.02667	P	PPL	LU		CL	03			58		338	Europe/Luxembourg	2017-10-02
+2960069	Scheierboesch	Scheierboesch	Scheierboesch,Sheuerbusch	49.55111	6.03444	V	FRST	LU		ES				0		333	Europe/Luxembourg	2017-02-04
+2960070	Septfontaines	Septfontaines	Septfontaines,Siebenborn,Simmern	49.70111	5.96722	P	PPLA3	LU		CA	10			363		267	Europe/Luxembourg	2017-10-02
+2960071	Septfontaines	Septfontaines	Septfontaines,Siebenbrunnen	49.62806	6.10444	P	PPLL	LU	LU	LU	2960317			0		297	Europe/Luxembourg	2017-01-28
+2960072	Senningen	Senningen	Senningen	49.64535	6.23927	P	PPL	LU		LU	04			378		283	Europe/Luxembourg	2017-10-02
+2960073	Selscheid	Selscheid	Selscheid	50.01806	5.94889	P	PPL	LU		WI	11			59		431	Europe/Luxembourg	2017-10-04
+2960074	Seitert	Seitert		49.53417	6.21389	V	FRST	LU		LU				0		283	Europe/Luxembourg	2017-02-04
+2960075	Scierie Schleif	Scierie Schleif	Schleif,Scierie Schleif	49.71667	6.13333	P	PPL	LU		ME	07			0		341	Europe/Luxembourg	2017-01-28
+2960076	Schwidelbrouch	Schwidelbrouch	Schwidelbrouch,Schwiedelbrouch	49.83056	5.85444	P	PPL	LU	LU	RD	06			0		480	Europe/Luxembourg	2017-01-28
+2960077	Schwebich	Schwebich	Ruisseau de Schweich,Schwebich,Schweich Bach	49.76944	5.98278	H	STM	LU		RD				0		242	Europe/Luxembourg	2017-02-04
+2960078	Schweich	Schweich	Schweich	49.72278	5.9275	P	PPL	LU		RD	02			194		287	Europe/Luxembourg	2017-10-02
+2960079	Schwebsange	Schwebsange	Schwebsange,Schwebsingen	49.51167	6.35694	P	PPL	LU		RM	05			307		148	Europe/Luxembourg	2017-10-02
+2960080	Schwebach	Schwebach	Schwebach	49.74611	5.97194	P	PPL	LU		RD	10			55		259	Europe/Luxembourg	2017-10-04
+2960081	Schwachtgesmühle	Schwachtgesmuehle		49.71667	6.21667	P	PPL	LU		GR	05			0		305	Europe/Luxembourg	2017-01-28
+2960082	Schuttrange	Schuttrange	Schuttrange	49.62056	6.26861	P	PPLA3	LU		LU	06			841		246	Europe/Luxembourg	2017-10-02
+2960083	Schrondweiler	Schrondweiler	Schrondweiler	49.79778	6.15917	P	PPL	LU		ME	10			285		251	Europe/Luxembourg	2017-10-02
+2960084	Schrassig	Schrassig	Schrassig	49.61014	6.25903	P	PPL	LU		LU	06			1051		251	Europe/Luxembourg	2017-10-02
+2960085	Schouweiler	Schouweiler	Schouweiler	49.5825	5.95639	P	PPL	LU		CA	03			1090		331	Europe/Luxembourg	2017-10-02
+2960086	Schullerboesch	Schullerboesch	Schoullerbusch,Schullerboesch	49.59	5.93778	V	FRST	LU		CA				0		386	Europe/Luxembourg	2017-02-04
+2960087	Schorenshaff	Schorenshaff	Ferme Schorn,Schorenshaff,Schorenshof	49.68667	6.40639	S	FRM	LU	LU	GR	04			0		250	Europe/Luxembourg	2017-01-28
+2960088	Schoos	Schoos	Schoos	49.74417	6.17083	P	PPL	LU		ME	04			164		342	Europe/Luxembourg	2017-10-02
+2960089	Schoenfels	Schoenfels	Schoenfels	49.71889	6.09222	P	PPL	LU		ME	09			216		244	Europe/Luxembourg	2017-10-02
+2960090	Schockmillen	Schockmillen	Schockmillen,Schockmuhle,Schockmühle	49.60861	5.87917	S	ML	LU	LU	CA	8641865			0		330	Europe/Luxembourg	2017-01-28
+2960091	Schneideschhof	Schneideschhof		49.68333	5.95	P	PPL	LU		CA	07			0		349	Europe/Luxembourg	2017-01-28
+2960092	Schmëtt	Schmett	Forge,Huldange-Forge,Schmett,Schmiede,Schmëtt	50.18167	6.02528	P	PPL	LU		CL				0		542	Europe/Luxembourg	2017-02-04
+2960093	Schlirbech	Schlirbech	Schlirbach,Schlirbech	49.90556	5.95667	H	STM	LU		WI				0		269	Europe/Luxembourg	2017-02-04
+2960094	Schlindermanderscheid	Schlindermanderscheid	Schlindermanderscheid	49.93306	6.06361	P	PPL	LU		DI	03			170		400	Europe/Luxembourg	2017-10-02
+2960095	Schleiwenhaff	Schleiwenhaff	Schleiwenhaff,Schlevenhof,Schlewenhof	49.57833	6.05889	P	PPL	LU	LU	ES	07			0		286	Europe/Luxembourg	2017-01-28
+2960096	Schleiterhaff	Schleiterhaff	Schleiterhaff,Schleiterhof	49.79806	6.36778	S	FRM	LU	LU	EC	05			0		325	Europe/Luxembourg	2017-01-28
+2960097	Schleifmillen	Schleifmillen	Schleifmillen,Schleifmuhle,Schleifmühle	49.60139	6.15417	S	ML	LU	LU	LU	2960317			0		282	Europe/Luxembourg	2017-01-28
+2960098	Schleif	Schleif	Schleif,Schlief	49.99056	5.8575	P	PPLL	LU		WI	13			8		356	Europe/Luxembourg	2017-10-02
+2960099	Station de Schimpach	Station de Schimpach	Schimpach,Schimpach-Station,Station de Schimpach	50	5.83333	S	RSTN	LU		CL	01			0		426	Europe/Luxembourg	2017-01-28
+2960100	Schimpach	Schimpach	Schimpach	50.01028	5.85222	P	PPL	LU		CL	01			0		404	Europe/Luxembourg	2017-10-04
+2960101	Scheckelscheier	Scheckelscheier	Scheckelscheier,Schikelscheuer	49.62139	5.89667	V	FRST	LU		CA				0		360	Europe/Luxembourg	2017-02-04
+2960102	Schifflange	Schifflange	Scheffleng,Schifflange,Schëffleng	49.50639	6.01278	P	PPLA3	LU		ES	14			8155		292	Europe/Luxembourg	2019-02-26
+2960103	Schifflange	Schifflange	Commune de Schifflange,Gemeinde Schifflingen,Gemeng Scheffleng,Gemeng Schëffleng,Scheffleng,Schifflange,Schifflingen,Schëffleng	49.50556	6.01489	A	ADM2	LU		ES	14			0		291	Europe/Luxembourg	2017-01-14
+2960104	Schieren	Schieren	Schieren	49.83056	6.09861	P	PPLA3	LU		DI	13			1397		213	Europe/Luxembourg	2017-10-02
+2960106	Scheierhaff	Scheierhaff	Scheierhaff,Scheuerhof,Scheuerhof-les-Canach,Scheuerhof-lès-Canach	49.59	6.31611	P	PPL	LU	LU	RM	03			0		295	Europe/Luxembourg	2017-01-28
+2960107	Schengen	Schengen	Convenio de Schengen,Gemeng Schengen,Schengen,Sengen,Sengenas,Shengen,shen gen,shengen,shengeni,shngn lwkzambwrg,shynjn,sngn,syeng-gen,Şengen,Šengenas,Шенген,שנגן,شنگن لوکزامبورگ,شينجن,ෂෙන්ගන්,შენგენი,シェンゲン,申根,神根,솅겐	49.47	6.362	P	PPLA3	LU		RM	05			470		172	Europe/Luxembourg	2017-10-02
+2960108	Scheidgen	Scheidgen	Scheidgen	49.78059	6.3607	P	PPL	LU		EC	04			461		328	Europe/Luxembourg	2017-10-02
+2960109	Scheidel	Scheidel	Scheidel	49.89361	6.04472	P	PPL	LU		DI	03			0		453	Europe/Luxembourg	2017-10-04
+2960110	Scheidbach	Scheidbach		49.91667	6.13333	H	STM	LU		VD				0		396	Europe/Luxembourg	2017-01-14
+2960111	Schandel	Schandel	Schandel	49.79222	5.97583	P	PPL	LU		RD	11			194		325	Europe/Luxembourg	2017-10-02
+2960112	Savelborn	Savelborn		49.81163	6.25483	P	PPL	LU		DI	8641526			0		362	Europe/Luxembourg	2017-10-02
+2960113	Sauerbaach	Sauerbaach	Sauerbaach,Sauerbach	49.72222	6.40194	H	STM	LU		GR				0		312	Europe/Luxembourg	2017-02-04
+2960114	Sassel	Sassel	Sassel	50.09944	5.9975	P	PPL	LU		CL	01			45		395	Europe/Luxembourg	2017-10-04
+2960115	Sanem	Sanem	Sanem,Sassenheim,Suessem	49.54806	5.92889	P	PPLA3	LU		ES	13			2489		303	Europe/Luxembourg	2017-10-02
+2960116	Sanem	Sanem	Commune de Sanem,Gemeinde Sassenheim,Gemeng Suessem,Sanem,Sanemas,Sassenheim,Suessem,zanm,Санем,زانم	49.53312	5.9363	A	ADM2	LU		ES	13			0		317	Europe/Luxembourg	2017-01-14
+2960117	Sandweiler	Sandweiler	Gemeng Sandweiler,Sandvajler,Sandvejler,Sandweiler,sndwaylr,Сандвайлер,Сандвейлер,سندوایلر	49.61471	6.22221	P	PPLA3	LU		LU	05			2522		336	Europe/Luxembourg	2019-02-28
+2960118	Chapelle de Saint-Pirmin	Chapelle de Saint-Pirmin		49.9325	5.91833	S	CH	LU		WI	05			0		367	Europe/Luxembourg	2017-01-28
+2960119	Mont Saint-Jean	Mont Saint-Jean	Mont Saint-Jean	49.48229	6.05896	T	MT	LU		ES	03			0	417	409	Europe/Luxembourg	2017-01-28
+2960120	Saeul	Saeul	Saeul,Sell,Sëll	49.72722	5.98639	P	PPLA3	LU		RD	10			316		294	Europe/Luxembourg	2017-10-02
+2960121	Gaichel	Gaichel	Fisbour,Gaichel,Saegemuhle,Saegemühle,Sagemuhle,Sägemühle	49.69467	5.86859	P	PPLL	LU	LU	CA				0		306	Europe/Luxembourg	2017-01-14
+2960122	Rumlange	Rumlange	Rimlingen,Rumlange	50.08	5.97556	P	PPL	LU	LU	CL	01			0		464	Europe/Luxembourg	2017-10-02
+2960123	Rumelange	Rumelange	Rumelange,Rumelingen	49.45964	6.03089	P	PPLA3	LU		ES	12			0		295	Europe/Luxembourg	2017-10-02
+2960124	Rumelange	Rumelange	Gemeinde Rumelingen,Gemeinde Rümelingen,Gemeng Remeleng,Gemeng Rëmeleng,Remeleng,Riumelanzas,Riumelanžas,Rjumelanzh,Rumelange,Rumelanzh,Rumelingen,Rëmeleng,Rümelingen,Stad Remeleng,Stad Rëmeleng,Ville de Rumelange,rwmlanzh,Румеланж,Рюмеланж,روملانژ	49.46137	6.01139	A	ADM2	LU		ES	12			0		339	Europe/Luxembourg	2017-01-14
+2960125	Roullingen	Roullingen	Roullingen	49.95583	5.92472	P	PPL	LU		WI	11			0		466	Europe/Luxembourg	2017-10-04
+2960126	Roost	Roost	Roost,Roost (Bissen),Rost	49.78667	6.09611	P	PPLL	LU	LU	ME	02			0		289	Europe/Luxembourg	2017-10-02
+2960127	Rosport	Rosport	Rosport	49.8047	6.50532	P	PPLA3	LU		EC	07			681		156	Europe/Luxembourg	2017-10-02
+2960128	Roodt-sur-Syre	Roodt-sur-Syre	Roodt,Roodt-sur-Syre	49.66591	6.30257	P	PPL	LU		GR	01			960		242	Europe/Luxembourg	2017-10-02
+2960129	Roodt	Roodt	Roddt,Roodt,Roodt-Eisch,Roodt-sur-Eisch,Roodt/Eisch,Rued	49.69194	6.00222	P	PPL	LU		CA	10			215		282	Europe/Luxembourg	2017-10-02
+2960130	Roodt	Roodt	Roodt,Roodt (Ell),Roodt-les-Ell,Roodt-lès-Ell,Rued	49.79444	5.82167	P	PPL	LU		RD	05			159		433	Europe/Luxembourg	2017-10-02
+2960131	Rombach-Martelange	Rombach-Martelange	Rombach,Rombach-Martelange	49.83472	5.74278	P	PPL	LU		RD	06			244		395	Europe/Luxembourg	2017-10-02
+2960132	Rollingergrund	Rollingergrund	Rollingergrund	49.62278	6.10778	P	PPL	LU		LU	2960317			0		308	Europe/Luxembourg	2017-01-28
+2960133	Rollingen	Rollingen	Rollingen	49.74167	6.11444	P	PPL	LU		ME	09			1448		227	Europe/Luxembourg	2017-10-02
+2960134	Rolling	Rolling	Rolling,Rollingen	49.54889	6.31722	P	PPL	LU		RM	00			117		171	Europe/Luxembourg	2017-10-02
+2960135	Roeser	Roeser	Gemeng Reiser,Gemeng Réiser,Reiser,Rezer,Roeser,Réiser,rwzr,Резер,روزر	49.53721	6.14629	P	PPLA3	LU		ES	11			708		276	Europe/Luxembourg	2017-10-02
+2960136	Roedt	Roedt	Rodt,Roedt,Roedt-les-Trintange,Roedt-lès-Trintange,Rödt	49.56778	6.285	P	PPL	LU	LU	RM	08			0		191	Europe/Luxembourg	2017-10-02
+2960137	Roedgen	Roedgen	Roedgen	49.57472	6.03472	P	PPL	LU		ES	10			337		331	Europe/Luxembourg	2017-10-02
+2960138	Rodeschhaff	Rodeschhaff	Rodeschhaff,Rodeschhof	49.77056	6.37444	S	FRM	LU		EC	04			0		372	Europe/Luxembourg	2017-01-28
+2960139	Rodershausen	Rodershausen	Rodershausen	50.03667	6.13111	P	PPL	LU		CL	63			96		282	Europe/Luxembourg	2017-10-04
+2960140	Roder	Roder	Roder	50.05583	6.08361	P	PPL	LU		CL	03			66		477	Europe/Luxembourg	2017-10-02
+2960141	Rodenbourg	Rodenbourg	Rodenbourg	49.68671	6.28939	P	PPL	LU		GR	05			109		252	Europe/Luxembourg	2017-10-02
+2960142	Rodbach	Rodbach	Maison Rodbach,Rodbach	49.77972	5.93528	P	PPLL	LU	LU	RD	8641291			0		265	Europe/Luxembourg	2017-01-28
+2960143	Rodange	Rodange	Rodange	49.54639	5.84083	P	PPL	LU		ES	09			4683		300	Europe/Luxembourg	2017-10-02
+2960144	Rippweiler	Rippweiler	Rippweiler	49.75167	5.9575	P	PPL	LU		RD	11			153		294	Europe/Luxembourg	2017-10-02
+2960145	Rippig	Rippig	Rippig	49.73417	6.31944	P	PPL	LU		GR	05			113		282	Europe/Luxembourg	2017-10-02
+2960146	Ringel	Ringel	Ringel	49.91694	6.01194	P	PPL	LU		WI	02			0		393	Europe/Luxembourg	2017-10-04
+2960147	Rindschleiden	Rindschleiden		49.85028	5.90139	P	PPL	LU		RD	13			0		471	Europe/Luxembourg	2017-01-28
+2960148	Reiterboesch	Reiterboesch	Reiterboesch,Reuterbusch	49.57667	6.33528	V	FRST	LU		RM				0		258	Europe/Luxembourg	2017-02-04
+2960149	Reuler	Reuler	Reuler	50.05778	6.0375	P	PPL	LU		CL	03			193		469	Europe/Luxembourg	2017-10-02
+2960150	Reuland	Reuland	Reuland	49.75316	6.2604	P	PPL	LU		ME	05			196		328	Europe/Luxembourg	2017-10-02
+2960151	Ruechterbaach	Ruechterbaach	Reuchterbach,Ruechterbaach	49.85556	6.01	H	STM	LU		DI				0		362	Europe/Luxembourg	2017-02-04
+2960152	Remich	Remich	Canton de Remich,Kanton Reimech,Kanton Remich,Kanton Réimech,Reimech,Remich,Réimech	49.54323	6.31779	A	ADM1	LU		RM				17882		179	Europe/Luxembourg	2017-01-26
+2960153	Remicherboesch	Remicherboesch	Bois de Remich,Remicherboesch	49.55278	6.36694	V	FRST	LU		RM				0		180	Europe/Luxembourg	2017-02-04
+2960154	Remich	Remich	Rehmikh,Reimech,Rejmekh,Remich,Remichas,Remikh,Réimech,lei mi xi,rmysh,Ремих,Реміх,Рејмех,Рэміх,رمیش,雷米希	49.545	6.36694	P	PPLA2	LU		RM	06			3187		160	Europe/Luxembourg	2017-10-02
+2960155	Remerschen	Remerschen	Remerschen,Rëmerschen	49.48861	6.35167	P	PPL	LU		RM	05			704		154	Europe/Luxembourg	2017-10-02
+2960156	Reisdorf	Reisdorf	Reisdorf,Reisduerf	49.86861	6.26778	P	PPLA3	LU		DI	12			493		191	Europe/Luxembourg	2017-10-02
+2960157	Reimberg	Reimberg	Reimberg	49.79722	5.95389	P	PPL	LU		RD	8641291			182		353	Europe/Luxembourg	2017-10-02
+2960158	Reichlange	Reichlange	Reichlange	49.77361	5.92806	P	PPL	LU		RD	09			132		270	Europe/Luxembourg	2017-10-02
+2960159	Reidingshaff	Reidingshaff	Redingshof,Reidingshaff	49.84167	5.88083	S	FRM	LU	LU	RD	13			0		499	Europe/Luxembourg	2017-01-28
+2960160	Redange-sur-Attert	Redange-sur-Attert	Redange,Redange-sur-Attert,Redange/Attert,Redingen,Reiden,Réiden	49.76437	5.88997	P	PPLA	LU		RD	09			1164		283	Europe/Luxembourg	2017-10-02
+2960161	Redange	Redange	Canton de Redange,Kanton Redange,Kanton Redingen,Redange,Redingen	49.79716	5.88731	A	ADM1	LU		RD				14470		398	Europe/Luxembourg	2017-01-26
+2960162	Reckenerwald	Reckenerwald	Reckenerwald,Reckingerwald	49.73278	6.06111	V	FRST	LU		ME				0		351	Europe/Luxembourg	2017-02-04
+2960163	Reckingerhaff	Reckingerhaff	Ferme Reckange,Reckingerhaff,Reckingerhof	49.53333	6.31667	P	PPL	LU		RM	02			0		178	Europe/Luxembourg	2017-10-02
+2960164	Reckange-sur-Mess	Reckange-sur-Mess	Reckange,Reckange-sur-Mess,Reckange-sur-Messe,Reckeng op der Mess,Reckingen	49.5625	6.00889	P	PPLA3	LU		ES	10			571		319	Europe/Luxembourg	2017-10-02
+2960165	Reckange	Reckange	Reckange,Reckange-les-Mersch,Reckange-lès-Mersch	49.74972	6.08306	P	PPL	LU		ME	09			611		223	Europe/Luxembourg	2017-10-02
+2960166	Rameldange	Rameldange	Rameldange,Rammeldange	49.66032	6.23238	P	PPL	LU		LU	04			682		331	Europe/Luxembourg	2017-10-02
+2960167	Rambrouch	Rambrouch	Gemeng Rammerech,Rambrouch,Rambruch,Rambrukh,Rambrush,Rammerech,rambrwk,Рамбрух,Рамбруш,رامبروک	49.83083	5.845	P	PPLA3	LU		RD	06			401		502	Europe/Luxembourg	2017-10-02
+2960168	Putscheid	Putscheid	Petscht,Putscheid,Pëtscht	49.96083	6.14306	P	PPLA3	LU		VD	02			38		415	Europe/Luxembourg	2017-10-02
+2960169	Pulvermühle	Pulvermuehle	Polfermillen,Pulvermuehle,Pulvermuhl,Pulvermühle	49.609	6.15147	P	PPL	LU		LU	2960317			0		306	Europe/Luxembourg	2019-03-26
+2960170	Prettingen	Prettingen	Prettange,Prettingen	49.7175	6.12028	P	PPL	LU		ME	07			101		222	Europe/Luxembourg	2017-10-02
+2960171	Pratz	Pratz	Pratz	49.80167	5.93917	P	PPL	LU		RD	8641291			367		295	Europe/Luxembourg	2017-10-02
+2960172	Poul	Poul	Poul,Poull,Puhl	49.94972	6.13972	S	FRM	LU	LU	VD	02			0		476	Europe/Luxembourg	2017-01-28
+2960173	Potaschberg	Potaschberg	Grevenmacherberg,Potaschberg,Potaschhof	49.67333	6.40083	P	PPLL	LU	LU	GR	04			0		274	Europe/Luxembourg	2017-01-28
+2960174	Pontpierre	Pontpierre	Pontpierre,Steinbrucken	49.53639	6.02944	P	PPL	LU		ES	08			1009		295	Europe/Luxembourg	2017-10-02
+2960175	Pleitrange	Pleitrange	Ferme Pleitrange,Pleitrange,Pleitringerhof	49.58972	6.28056	S	FRM	LU	LU	LU	02			0		295	Europe/Luxembourg	2017-01-28
+2960176	Platen	Platen	Platen	49.78933	5.93382	P	PPL	LU		RD	8641291			541		267	Europe/Luxembourg	2017-10-02
+2960177	Plankenhaff	Plankenhaff	Plankenhaff,Plankenhof	49.72222	6.185	S	FRM	LU	LU	ME	04			0		386	Europe/Luxembourg	2017-01-28
+2960178	Pissange	Pissange	Pissange	49.54944	6.00028	P	PPL	LU		ES	10			66		296	Europe/Luxembourg	2017-10-04
+2960179	Pintsch	Pintsch	Pintsch,Pintsch Bach	49.98333	6.01333	H	STM	LU		WI				0		293	Europe/Luxembourg	2017-02-04
+2960180	Pintsch	Pintsch	Pintsch	49.99444	6.01306	P	PPL	LU		WI	8641289			126		310	Europe/Luxembourg	2017-10-02
+2960181	Pfaffenthal	Pfaffenthal	Pfaffental,Pfaffenthal,Pfaffenthal-les-Tadler,Pfaffenthal-lès-Tadler	49.91667	6	P	PPL	LU		WI	04			0		301	Europe/Luxembourg	2017-01-28
+2960182	Pfaffenthal	Pfaffenthal	Pfaffenthal	49.61667	6.13333	P	PPL	LU		LU	2960317			0		270	Europe/Luxembourg	2017-01-28
+2960183	Pettingen	Pettingen	Pettingen,Pittange,Pittigen	49.77028	6.10917	P	PPL	LU		ME	09			206		218	Europe/Luxembourg	2017-10-02
+2960184	Pétrusse	Petrusse	Petrusse,Pétrusse	49.6	6.11667	H	STM	LU		LU				0		262	Europe/Luxembourg	2017-01-14
+2960185	Petit-Nobressart	Petit-Nobressart	Petit-Nobressart	49.77972	5.80944	P	PPL	LU		RD	05			89		348	Europe/Luxembourg	2017-10-04
+2960186	Région Mullerthal	Region Mullerthal	Kleine Luxemburger Schweiz,Kleng Letzebuerger Schwaiz,Kleng Lëtzebuerger Schwäiz,Luxembourg's Little Switzerland,Luxembourg’s Little Switzerland,Mullerthal Region,Petit Suisse Luxembourgeoise,Petite Suisse,Petite Suisse Luxembourgeoise,Region Mullerthal,Region Müllerthal,Regioun Mellerdall,Regioun Mëllerdall,Région Mullerthal,Suisse Luxembourgeois	49.83333	6.33333	L	RGN	LU		EC				0		201	Europe/Luxembourg	2017-01-14
+2960187	Pétange	Petange	Gemeng Peiteng,Gemeng Péiteng,Peiteng,Petange,Petanzas,Petanzh,Petanžas,Petingen,Péiteng,Pétange,ptanzh,Петанж,پتانژ	49.55833	5.88056	P	PPLA3	LU		ES	09			7187		278	Europe/Luxembourg	2019-02-26
+2960188	Pétange	Petange	Commune de Petange,Commune de Pétange,Gemeinde Petingen,Gemeng Peiteng,Gemeng Péiteng,Peiteng,Petange,Petingen,Péiteng,Pétange	49.5505	5.85533	A	ADM2	LU		ES	09			0		279	Europe/Luxembourg	2017-01-14
+2960189	Perlé	Perle	Perle,Perlé	49.81167	5.76583	P	PPL	LU		RD	06			649		484	Europe/Luxembourg	2017-10-02
+2960190	Peppange	Peppange	Peppange	49.52444	6.12972	P	PPL	LU		ES	11			593		278	Europe/Luxembourg	2017-10-02
+2960191	Peckelshaff	Peckelshaff	Peckelshaff,Peckelshof	49.81417	6.01	S	FRM	LU	LU	RD	12			0		364	Europe/Luxembourg	2017-01-28
+2960192	Pall	Pall	Pall,Pall Ruisseau	49.76972	5.91806	H	STM	LU		RD				0		259	Europe/Luxembourg	2017-01-14
+2960194	Osweiler	Osweiler	Osweiler	49.78667	6.44254	P	PPL	LU		EC	07			381		242	Europe/Luxembourg	2017-10-02
+2960195	Ospern	Ospern	Ospern	49.78389	5.90444	P	PPL	LU		RD	09			276		304	Europe/Luxembourg	2017-10-02
+2960196	Oesling	Oesling	Eisling,Oesling,Osling,Éisling,Ösling	49.95	6	L	RGN	LU		WI				0		346	Europe/Luxembourg	2017-01-14
+2960197	Olm	Olm	Olm	49.65722	6.00028	P	PPL	LU		LU				1459		312	Europe/Luxembourg	2017-10-02
+2960198	Olingen	Olingen	Olingen	49.67985	6.31392	P	PPL	LU		GR	01			403		233	Europe/Luxembourg	2017-10-02
+2960199	Ohligsmühle	Ohligsmuehle		49.61667	6.26667	P	PPL	LU		LU	06			0		256	Europe/Luxembourg	2017-01-28
+2960200	Oetrange	Oetrange	Oetrange	49.59639	6.26	P	PPL	LU		LU	02			781		261	Europe/Luxembourg	2017-10-02
+2960201	Oberwampach	Oberwampach	Oberwampach	50.01667	5.86083	P	PPL	LU		CL	01			183		413	Europe/Luxembourg	2017-10-02
+2960202	Oberstenwald	Oberstenwald		50.11667	6.05	V	FRST	LU		CL				0		439	Europe/Luxembourg	2017-01-14
+2960203	Oberschlinder	Oberschlinder	Haut-Schlinder,Oberschlinder	49.95	6.06667	P	PPL	LU	LU	CL	63			0		345	Europe/Luxembourg	2017-10-02
+2960204	Oberschieren	Oberschieren		49.83333	6.1	P	PPL	LU		DI	13			0		226	Europe/Luxembourg	2017-01-28
+2960205	Oberpallen	Oberpallen	Oberpallen	49.73028	5.84389	P	PPL	LU		RD	02			397		298	Europe/Luxembourg	2017-10-02
+2960206	Ober-Merzig	Ober-Merzig	Haut-Merzig,Ober-Merzig	49.83333	6.01667	P	PPL	LU		DI	11			0		347	Europe/Luxembourg	2017-01-28
+2960207	Obercorn	Obercorn	Oberkorn	49.51361	5.89611	P	PPLX	LU		ES	02			4666		320	Europe/Luxembourg	2017-10-02
+2960208	Oberglabach	Oberglabach	Oberglabach	49.7775	6.15056	P	PPL	LU		ME	10			0		373	Europe/Luxembourg	2017-10-04
+2960209	Oberfeulen	Oberfeulen	Haut-Feulen,Oberfeulen	49.84806	6.03556	P	PPL	LU		DI	08			283		298	Europe/Luxembourg	2017-10-02
+2960210	Obereisenbach	Obereisenbach		50.01	6.084	P	PPL	LU		CL	63			0	317	503	Europe/Luxembourg	2017-03-24
+2960211	Oberdonven	Oberdonven	Oberdonven	49.64667	6.40056	P	PPL	LU		GR	03			164		267	Europe/Luxembourg	2017-10-02
+2960212	Oberanven	Oberanven	Oberanven	49.65743	6.24302	P	PPL	LU		LU	04			682		273	Europe/Luxembourg	2017-10-02
+2960213	Nothum	Nothum	Nothum	49.94139	5.88278	P	PPL	LU		WI	05			161		482	Europe/Luxembourg	2017-10-02
+2960214	Nospelt	Nospelt	Nospelt	49.67528	6.00889	P	PPL	LU		CA	06			766		328	Europe/Luxembourg	2017-10-02
+2960215	Noumerléen	Noumerleen	Noumerleen,Noumerleyen,Noumerléen,Rochers de Nommern	49.77639	6.17417	T	RKS	LU		ME				0		420	Europe/Luxembourg	2017-02-04
+2960216	Nommern	Nommern	Nommern	49.78694	6.17472	P	PPLA3	LU		ME	10			272		380	Europe/Luxembourg	2017-10-02
+2960217	Noertzange	Noertzange	Noertzange	49.50917	6.05611	P	PPL	LU		ES	01			999		287	Europe/Luxembourg	2017-10-02
+2960218	Noertrange	Noertrange	Noertrange	49.97972	5.91083	P	PPL	LU		WI	13			274		461	Europe/Luxembourg	2017-10-02
+2960219	Noerdange	Noerdange	Noerdange	49.74222	5.92611	P	PPL	LU		RD	02			466		278	Europe/Luxembourg	2017-10-02
+2960220	Nocher Baach	Nocher Baach	Nocher Baach,Riviere de Nocher,Rivière de Nocher	49.9425	6.02556	H	STM	LU		WI				0		307	Europe/Luxembourg	2017-02-04
+2960221	Nocher	Nocher	Nocher,Nocher-Route	49.94653	5.97626	P	PPL	LU		WI	04			233		479	Europe/Luxembourg	2017-10-02
+2960222	Niederwiltz	Niederwiltz		49.96917	5.92306	P	PPL	LU		WI	11			0		338	Europe/Luxembourg	2017-01-28
+2960223	Niederwampach	Niederwampach	Niederwampach	50.01167	5.84361	P	PPL	LU		CL	01			0		417	Europe/Luxembourg	2017-10-02
+2960224	Niederschlinder	Niederschlinder		49.93333	6.06667	P	PPL	LU		DI	03			0		332	Europe/Luxembourg	2017-01-28
+2960225	Niederschieren	Niederschieren		49.83333	6.1	P	PPL	LU		DI	13			0		226	Europe/Luxembourg	2017-01-28
+2960226	Niederpallen	Niederpallen	Niederpallen	49.75528	5.91222	P	PPL	LU		RD	09			374		267	Europe/Luxembourg	2017-10-02
+2960227	Nieder-Merzig	Nieder-Merzig	Bas-Merzig,Nieder-Merzig	49.83333	6.01667	P	PPL	LU		DI	11			0		347	Europe/Luxembourg	2017-01-28
+2960228	Niedercorn	Niedercorn	Nidderkuer,Niederkorn	49.53611	5.89306	P	PPLX	LU		ES	02			3164		297	Europe/Luxembourg	2017-10-02
+2960229	Niederdonven	Niederdonven	Niederdonven	49.63479	6.40243	P	PPL	LU		GR	03			324		252	Europe/Luxembourg	2017-10-02
+2960231	Niederanven	Niederanven	Gemeng Nidderaanwen,Nidderanven,Nidehranven,Nideranven,Niederanven,nydranwn,Нидеранвен,Нідеранвен,Нідэранвен,نیدرآنون	49.65196	6.26199	P	PPLA3	LU		LU	04			1508		263	Europe/Luxembourg	2017-10-02
+2960232	Mont Saint-Nicolas	Mont Saint-Nicolas	Mont Saint-Nicolas,Neklosbierg,Nicolausberg	49.94222	6.16972	T	MT	LU	LU	VD	01			0	470	454	Europe/Luxembourg	2017-01-28
+2960233	Neirodeschhaff	Neirodeschhaff	Neirodeschhaff,Neurodeschhof	49.77167	6.37028	S	FRM	LU	LU	EC	04			0		364	Europe/Luxembourg	2017-01-28
+2960234	Neunhausen	Neunhausen	Neunhausen	49.87672	5.88597	P	PPL	LU		WI	02			65		449	Europe/Luxembourg	2017-10-02
+2960235	Neimillen	Neimillen	Neimillen,Neumuhle,Neumühle	50.08056	5.92167	P	PPLL	LU	LU	CL	01			0		439	Europe/Luxembourg	2017-01-28
+2960236	Neumühle	Neumuehle		49.9	5.95	P	PPL	LU		WI	02			0		346	Europe/Luxembourg	2017-01-28
+2960237	Neumühle	Neumuehle		49.7	5.9	P	PPL	LU		CA	05			0		375	Europe/Luxembourg	2017-01-28
+2960238	Neimillen	Neimillen	Hirschmuhle,Hirschmühle,Neimillen,Neumaxmuhle,Neumaxmühle,Neumuhle,Neumuhlen,Neumühle,Neumühlen,Toussaintsmuhle,Toussaintsmühle	49.63917	6.04833	S	ML	LU	LU	LU	08			0		281	Europe/Luxembourg	2017-01-28
+2960239	Neumühle	Neumuehle	Neumuhle,Neumühle,Wolfsmuhle,Wolfsmühle	49.61667	6.23333	P	PPL	LU		LU	05			0		341	Europe/Luxembourg	2017-01-28
+2960240	Neihaff	Neihaff	Huddelhof,Neihaff,Neuhof	49.89111	5.8625	S	FRM	LU	LU	WI	02			0		461	Europe/Luxembourg	2017-01-28
+2960241	Neihaischen	Neihaischen	Neihaischen,Neuhaeusgen	49.62483	6.23408	P	PPL	LU		LU	06			239		338	Europe/Luxembourg	2017-10-02
+2960242	Neudorf	Neudorf		49.61639	6.15667	P	PPL	LU		LU	2960317			0		328	Europe/Luxembourg	2017-01-28
+2960243	Neidhausen	Neidhausen	Neidhausen	50.02889	6.06667	P	PPL	LU		CL	63			53		455	Europe/Luxembourg	2017-10-04
+2960244	Nagem	Nagem	Nagem,Nogem	49.78917	5.85778	P	PPL	LU		RD	09			216		323	Europe/Luxembourg	2017-10-02
+2960245	Nachtmanderscheid	Nachtmanderscheid	Nachtmanderscheid	49.94833	6.12944	P	PPL	LU		VD	02			70		476	Europe/Luxembourg	2017-10-02
+2960246	Münsbach	Muensbach	Munsbach,Musbach,Münsbach,Müsbach	49.63277	6.26459	P	PPL	LU		LU	06			585		255	Europe/Luxembourg	2017-10-02
+2960247	Munshausen	Munshausen	Munshausen	50.03361	6.03861	P	PPL	LU		CL	03			147		464	Europe/Luxembourg	2017-10-02
+2960248	Münschecker	Muenschecker	Munschecker,Münschecker	49.69389	6.44222	P	PPL	LU		GR	04			152		191	Europe/Luxembourg	2017-10-02
+2960249	Müllerthal	Muellerthal	Moellerdall,Mullerthal,Müllerthal	49.7902	6.30665	P	PPL	LU		GR				152		214	Europe/Luxembourg	2017-10-02
+2960250	Müllendorf	Muellendorf	Melleref,Muellendorf,Mullendorf,Mëllerëf,Müllendorf	49.68028	6.13	P	PPL	LU		LU	07			1024		228	Europe/Luxembourg	2017-10-02
+2960251	Mühlenbach	Muehlenbach	Muhlenbach,Mühlenbach	49.63167	6.11917	P	PPL	LU		LU	2960317			0		300	Europe/Luxembourg	2017-01-28
+2960252	Moutfort	Moutfort	Moutfort	49.58528	6.25556	P	PPL	LU		LU	02			1171		257	Europe/Luxembourg	2017-10-02
+2960253	Moulin Schenk	Moulin Schenk		49.73333	6.21667	P	PPL	LU		ME	04			0		349	Europe/Luxembourg	2017-01-28
+2960254	Bornermillen	Bornermillen	Born Moulin,Born avec Moulin,Bornermillen,Moulin de Born	49.76556	6.50583	S	ML	LU	LU	EC	06			0		253	Europe/Luxembourg	2017-01-28
+2960255	Moulin Colmesch	Moulin Colmesch		49.7	6.11667	P	PPL	LU		ME	08			0		338	Europe/Luxembourg	2017-01-28
+2960256	Moserhaff	Moserhaff	Moserhaff,Moserhof,Mosingerhof	49.84944	6.20833	S	FRM	LU	LU	DI	8641526			0		289	Europe/Luxembourg	2017-01-28
+2960257	Mondorf-les-Bains	Mondorf-les-Bains	Bad Mondorf,Bains,Gemeng Munneref,Mondorf le Benas,Mondorf-le-Ben,Mondorf-les-Bains,Munneref,mondorp-le-beni,mwndwrf,Мондорф-ле-Бен,موندورف,მონდორფ-ლე-ბენი	49.505	6.28111	P	PPLA3	LU		RM	04			3113		191	Europe/Luxembourg	2017-10-02
+2960258	Mondercange	Mondercange	Mondercange,Monnerich	49.53306	5.98833	P	PPLA3	LU		ES	08			3306		290	Europe/Luxembourg	2017-10-02
+2960259	Mompach	Mompach	Mompach	49.74611	6.465	P	PPLA3	LU		EC	06			100		302	Europe/Luxembourg	2017-10-02
+2960260	Moestroff	Moestroff	Moestroff	49.86778	6.23944	P	PPL	LU		DI	02			418		185	Europe/Luxembourg	2017-10-02
+2960261	Moesdorf	Moesdorf	Moesdorf	49.76806	6.11667	P	PPL	LU		ME	09			353		224	Europe/Luxembourg	2017-10-02
+2960262	Moersdorf	Moersdorf	Moersdorf,Morsdorf	49.73833	6.5	P	PPL	LU		EC	06			301		159	Europe/Luxembourg	2017-10-02
+2960263	Misèrehof	Miserehof	Ferme Misere,Ferme Misère,Misere,Miserehof,Misère,Misèrehof	49.86667	5.83333	P	PPL	LU		RD	06			0		349	Europe/Luxembourg	2017-01-28
+2960264	Gaichelbach	Gaichelbach	Dallbaach,Gaichelbach,Millebaach,Mullenbach	49.68861	5.88528	H	STM	LU		CA				0		273	Europe/Luxembourg	2017-01-14
+2960265	Michelshaff	Michelshaff	Michelshaff,Michelshof	49.76861	6.38361	S	FRM	LU	LU	EC	02			0		373	Europe/Luxembourg	2017-01-28
+2960266	Michelbouch	Michelbouch	Michelbouch,Michelbuch,Michelsberg	49.81861	6.02028	P	PPL	LU		RD	12			116		368	Europe/Luxembourg	2017-10-02
+2960267	Michelau	Michelau	Michelau	49.9	6.09194	P	PPL	LU		DI	03			281		268	Europe/Luxembourg	2017-10-02
+2960268	Meysembourg	Meysembourg	Chateau Meysembourg,Meysembourg	49.76971	6.18709	P	PPL	LU	LU	ME	06			0		349	Europe/Luxembourg	2019-02-28
+2960269	Mess	Mess	Mess,Mess Ruisseau,Messe,Messe Riviere,Messe Rivière	49.51389	6.04556	H	STM	LU		ES				0		277	Europe/Luxembourg	2017-02-04
+2960270	Mertzig	Mertzig	Mertzig,Merzig	49.83389	6.0075	P	PPLA3	LU		DI	11			1482		312	Europe/Luxembourg	2017-10-02
+2960271	Mertert	Mertert	Mertert	49.70261	6.47966	P	PPLA3	LU		GR	07			1163		148	Europe/Luxembourg	2017-10-02
+2960272	Merscheid	Merscheid	Merscheid,Merscheid-les-Heiderscheid,Merscheid-lès-Heiderscheid	49.87107	5.96995	P	PPL	LU		WI	02			143		478	Europe/Luxembourg	2017-10-02
+2960273	Merscheid	Merscheid	Marscheid,Merscheid,Merscheid-les-Putscheid,Merscheid-lès-Putscheid	49.95472	6.10694	P	PPL	LU		VD	02			103		492	Europe/Luxembourg	2017-10-02
+2960274	Mierscherwald	Mierscherwald	Foret de Mersch,Forêt de Mersch,Mierscherwald	49.72556	6.09194	V	FRST	LU		ME				0		361	Europe/Luxembourg	2017-02-04
+2960275	Mersch	Mersch	Canton de Mersch,Kanton Mersch,Kanton Miersch,Mersch,Miersch	49.75636	6.12717	A	ADM1	LU		ME				24212		301	Europe/Luxembourg	2017-01-26
+2960276	Mersch	Mersch	Gemeng Miersch,Mersas,Mersch,Mersh,Meršas,Miersch,Morsche,mei er shi,mrsh,Мерш,مرش,梅尔施	49.74889	6.10611	P	PPLA	LU		ME	09			3464		219	Europe/Luxembourg	2017-10-02
+2960277	Merl	Merl	Merl	49.60333	6.09556	P	PPL	LU		LU	2960317			0		274	Europe/Luxembourg	2017-01-28
+2960278	Merkholz	Merkholz	Mercols,Merkholtz,Merkholz,Merkols	49.96133	5.98042	P	PPL	LU		WI	8641289			94		403	Europe/Luxembourg	2017-10-02
+2960279	Mergenhof	Mergenhof	Frillschterhof,Mergenhof,Stautzenhof	49.81667	5.86667	P	PPL	LU		RD	06			0		443	Europe/Luxembourg	2017-01-28
+2960280	Mensdorf	Mensdorf	Mensdorf	49.65467	6.30416	P	PPL	LU		GR	01			813		248	Europe/Luxembourg	2017-10-02
+2960281	Meispelt	Meispelt	Meispelt	49.69111	6.05917	P	PPL	LU		CA	06			290		360	Europe/Luxembourg	2017-10-02
+2960282	Medingen	Medingen	Medingen	49.57278	6.24861	P	PPL	LU		LU	02			102		346	Europe/Luxembourg	2017-10-02
+2960283	Medernach	Medernach	Medernach	49.80955	6.21521	P	PPLA3	LU		DI	8641526			907		259	Europe/Luxembourg	2017-10-02
+2960284	Mecher	Mecher	Mecher,Mecher-lez-Clervaux,Mecher-sur-Clervaux	50.04083	6.0175	P	PPL	LU		CL	03			0		337	Europe/Luxembourg	2017-10-02
+2960285	Mecher	Mecher	Mecher,Mecher (Haute-Sure),Mecher (Haute-Sûre),Mecher-Dunkrodt	49.92333	5.87222	P	PPL	LU		WI	05			63		404	Europe/Luxembourg	2017-10-02
+2960286	Maulin Diederich	Maulin Diederich		49.6	6.25	P	PPL	LU		LU	02			0		279	Europe/Luxembourg	2017-01-28
+2960287	Moulin de Bascharage	Moulin de Bascharage	Bascharage Moulin,Moulin de Bascharage	49.88333	5.9	P	PPL	LU		RD	13			0		451	Europe/Luxembourg	2017-01-28
+2960288	Massen	Massen		50.1175	5.99278	P	PPL	LU		CL	09			0		430	Europe/Luxembourg	2017-01-28
+2960289	Masseler	Masseler	Masseler	49.93083	6.03722	P	PPLL	LU		WI	04			36		462	Europe/Luxembourg	2017-10-04
+2960290	Marxberg	Marxberg		49.9	6.20917	P	PPL	LU		VD	01			0		316	Europe/Luxembourg	2017-01-28
+2960291	Martelinville	Martelinville	Ferme Martelinville,Martelinville,Rommeldange,Rommelerhaff,Rommelerhof	49.86694	5.77333	P	PPLL	LU	LU	RD	06			0		353	Europe/Luxembourg	2017-01-28
+2960292	Marscherwald	Marscherwald		49.745	6.28528	V	FRST	LU		EC				0		379	Europe/Luxembourg	2017-01-14
+2960293	Marnach	Marnach	Marnach	50.05333	6.06194	P	PPL	LU		CL	03			454		519	Europe/Luxembourg	2017-10-02
+2960294	Marienthal	Marienthal	Marienthal	49.71	6.06167	P	PPLL	LU		ME	11			108		237	Europe/Luxembourg	2017-10-02
+2960295	Marbourg	Marbourg		50.05167	6.07472	P	PPL	LU		CL	03			0		510	Europe/Luxembourg	2017-01-28
+2960296	Manternach	Manternach	Manternach	49.70278	6.42639	P	PPLA3	LU		GR	06			443		252	Europe/Luxembourg	2017-10-02
+2960297	Manertchen	Manertchen	Bois Mannertgen,Manertchen,Mannertgen	49.79167	6.4625	V	FRST	LU		EC				0		312	Europe/Luxembourg	2017-02-04
+2960298	Mamer	Mamer		49.74833	6.10806	H	STM	LU		ME				0		218	Europe/Luxembourg	2017-02-04
+2960299	Mamer	Mamer	Gemeng Mamer,Mamer,Mameris,ma mo,mamr,Мамер,مامر,马默	49.6275	6.02333	P	PPLA3	LU		CA	09			5017		294	Europe/Luxembourg	2017-10-02
+2960300	Maison Wangert	Maison Wangert	Maison Wangert,Wangert	49.8	5.86667	P	PPL	LU		RD	06			0		411	Europe/Luxembourg	2017-01-28
+2960301	Maisons Prevent	Maisons Prevent		49.71667	6.18333	P	PPL	LU		ME	04			0		325	Europe/Luxembourg	2017-01-28
+2960302	Maisons Boussert	Maisons Boussert	Boussert,Maisons Boussert	49.73333	6.13333	P	PPL	LU		ME	09			0		358	Europe/Luxembourg	2017-01-28
+2960303	Maisons Alteschmeltz	Maisons Alteschmeltz	Alteschmeltz,Maisons Alteschmeltz	49.7	5.98333	P	PPL	LU		CA	10			0		255	Europe/Luxembourg	2017-01-28
+2960304	Maison Peffer	Maison Peffer		49.51667	6.16667	P	PPL	LU		ES	05			0		247	Europe/Luxembourg	2017-01-28
+2960305	Lepschterhaff	Lepschterhaff	Laepscht,Lepschterhaff,Maison Lepschet,Maison Leptsch	49.87833	5.94528	S	FRM	LU	LU	WI	02			0		511	Europe/Luxembourg	2017-01-28
+2960306	Maison Leh	Maison Leh		49.88333	6.23333	P	PPL	LU		DI	02			0		300	Europe/Luxembourg	2017-01-28
+2960307	Maison Klein	Maison Klein		49.75	5.85	P	PPL	LU		RD	05			0		304	Europe/Luxembourg	2017-01-28
+2960308	Maison Hoffmann	Maison Hoffmann		49.7	6.28333	P	PPL	LU		GR	05			0		310	Europe/Luxembourg	2017-01-28
+2960309	Pafebierg	Pafebierg		49.76667	6.45	S	FRM	LU		EC	07			0		388	Europe/Luxembourg	2017-01-28
+2960310	Maison Cronière	Maison Croniere	Bachermuhle,Bachermühle,La Croniere,La Cronière,Maison Croniere,Maison Cronière	49.51667	5.85	P	PPL	LU		ES	02			0		351	Europe/Luxembourg	2017-01-28
+2960311	Maison Burg	Maison Burg		49.83333	6.18333	P	PPL	LU		DI	8641526			0		306	Europe/Luxembourg	2017-01-28
+2960312	Machtum	Machtum	Machtum,Machum	49.65897	6.43599	P	PPL	LU		GR	09			304		142	Europe/Luxembourg	2017-10-02
+2960313	Grand Duchy of Luxembourg	Grand Duchy of Luxembourg	Grand Duchy of Luxembourg,Grand-Duche de Luxembourg,Grand-Duché de Luxembourg,Grande-Dutcheye do Lussimbork,Grossherzogtum Luxemburg,Groussherzogtum Letzebuerg,Groussherzogtum Lëtzebuerg,Großherzogtum Luxemburg,Lakisimipeki,Laksembɛg,Lasembagi,Lazembɔg nutome,Letseburg,Letzebuerg,Letzeburg,Likisambulu,Likisanburu,Liksembuur,Lioksamboro,Liuksemburgas,Ljuksehmburg,Ljuksemburg,Louxembourgo,Luc-xam-bua,Lucembursko,Lucsamburg,Lueksemburg,Lueksemburq,Lugzamburu,Lugzambûru,Lukisembaaga,Luksemboarch,Luksemboorg,Luksemborg,Luksembourg,Luksemburg,Luksemburga,Luksemburgio,Luksemburgo,Luksemburgu,Luksembursko,Luksembùrskô,Luksimbur,Lukusambur,Lukusamburu,Lushaborg,Lussemborg,Lussemborgh,Lussemburg,Lussemburgo,Lussemburgu,Lussembûrg,Luxaemburgaen,Luxemboerg,Luxemborg,Luxembourg,Luxemburg,Luxemburgia,Luxemburgo,Luxemburgo - Letzebuerg,Luxemburgo - Lëtzebuerg,Luxemburgska,Luxemburgu,Luxemburgum,Luxembursko,Luxembôrg,Luxembörg,Luxenburgo,Luxämburgän,Lwcsembwrg,Lëtzebuerg,Lúc-xăm-bua,Lúksemboarch,Lúxemborg,Lûksembûrg,Lüksemburg,Lüksemburq,Orileede Lusemogi,Orílẹ́ède Lusemogi,i-Luxembourg,lak sem beirk,lakjemabarga,lakjembarga,lakjhamabarga,lakjhembarga,laksamabarga,laksambarg,lakscampark,laksemabarga,lakzamabarga,lazanba,lgzhmbrg,lu sen bao,lugsembuleukeu,luksemburgi,lwksmbwrg,lwksmbwrgh,lwksmbwrj,lwkswmbrgh,lwksەmbwrg,lwkzambwrg,lwqsmbwrg,prathes lak sem beirk,rukusenburugu,rukusenburuku,Λουξεμβούργο,Луксембург,Люксембург,Люксембурґ,Люксэмбург,Լյուքսեմբուրգ,לוקסמבורג,لوكسمبورج,لوكسمبورغ,لوكسومبرغ,لوکزامبورگ,لوکسەمبورگ,ليۇكسېمبۇرگ,لگژمبرگ,ܠܘܟܣܡܒܘܪܓ,ލަޒަންބާ,लक्ज़मबर्ग,लक्जेमबर्ग,लक्जेम्बर्ग,लक्झेंबर्ग,लक्समबर्ग,লাক্সেমবার্গ,લક્ઝમબર્ગ,ଲକ୍ସେମବର୍ଗ,லக்ஸ்சம்பர்க்,లక్సంబర్గ్,ಲಕ್ಸಂಬರ್ಗ್,ലക്സംബര്‍ഗ്,ประเทศลักเซมเบิร์ก,ลักเซมเบิร์ก,ລຸກແຊມເບີກ,ལཀ་ཛམ་བོརྒ།,လူဇင်ဘတ်,ლუქსემბურგი,ሉክሰምበርግ,លុចហ្សំបួរ,ルクセンブルク,ルクセンブルグ,卢森堡,룩셈부르크	49.75	6.16667	A	PCLI	LU		00				497538		406	Europe/Luxembourg	2018-12-10
+2960314	District de Luxembourg	District de Luxembourg	District de Luxembourg,Distrikt Letzebuerg,Distrikt Luxemburg,Distrikt Lëtzebuerg,Letzebuerg,Luxembourg,Luxemburg,Lëtzebuerg	49.6278	6.09	A	ADM1H	LU		03				0		302	Europe/Luxembourg	2017-01-02
+2960315	Luxembourg	Luxembourg	Canton de Luxembourg,Canton de Luxembourg-Campagne,Kanton Letzebuerg,Kanton Luxemburg,Kanton Lëtzebuerg,Letzebuerg,Luxembourg,Luxembourg Campagne,Luxemburg,Lëtzebuerg	49.61427	6.17289	A	ADM1	LU		LU				0		324	Europe/Luxembourg	2017-01-26
+2960316	Luxembourg	Luxembourg	Bandar Luxembourg,Ciudad de Luxemburgo,Ciutat de Luxemburg,Dinas Lwcsembwrg,Gorad Ljuksemburg,LUX,Letzebuerg,Letzeburg,Liksanbou,Liuksemburgas,Ljuksemburg,Louxemvourgo,Lucemburk,Lucilinburhuc,Lucsamburg,Lucsemburg,Lueksemburg,Lueksemburq,Luessemburgh,Luksambuur,Luksemboarch,Luksembourg,Luksemburg,Luksemburga,Luksemburgo,Luksemburgu,Luksembùrg,Luksimbur,Lungsod ng Luksemburgo,Lusenburgo,Lussemborgh,Lussemburgo,Lussemburgu,Lussimbork veye,Luxemboerg,Luxemborg,Luxemborj,Luxembourg,Luxembourg by,Luxemburg,Luxemburgo,Luxemburgum,Luxembuurich,Luxembôrg,Luxembörg,Luxenburgo,Lëtzebuerg,Lúksemboarch,Lúxemborg,Lüksemburg,Lüksemburq,Lüssemburgh,Rakapuo,Rakapuō,Stad Letzebuerg,Stad Lëtzebuerg,Stadt Luxemburg,Ville de Luxembourg,lak sem beirk,lakcampark,lakjhembarga,lksmbrg,lu sen bao cheng,lu sen bao shi,lugsembuleukeu,luksemaburga,luksemburgi,lwksmbwrgh,lwkzambwrg,lwqsmbwrg,rukusenburuku,Λουξεμβούργο,Горад Люксембург,Луксембург,Люксембург,Лүксембург,Լյուքսեմբուրգ,לוקסמבורג,لوكسمبورغ,لوکزامبورگ,لوکسەمبورگ,ليۇكسېمبۇرگ شەھىرى,لکسمبرگ,लक्झेंबर्ग,লুক্সেমবুর্গ,லக்சம்பர்க்,ลักเซมเบิร์ก,ལུ་སེམ་བའུརག,ლუქსემბურგი,ሉክሰምበርግ,ルクセンブルク,盧森堡城,盧森堡市,룩셈부르크	49.61167	6.13	P	PPLC	LU		LU	2960317			76684		316	Europe/Luxembourg	2017-10-02
+2960317	Ville de Luxembourg	Ville de Luxembourg	Letzebuerg,Luxembourg,Luxemburg,Lëtzebuerg,Stad Letzebuerg,Stad Lëtzebuerg,Stadt Luxemburg,Ville de Luxembourg	49.6093	6.13204	A	ADM2	LU		LU	2960317			0		303	Europe/Luxembourg	2017-01-14
+2960318	Lultzhausen	Lultzhausen	Lultzhausen	49.90944	5.89083	P	PPL	LU		WI	02			32		335	Europe/Luxembourg	2017-10-04
+2960319	Lullange	Lullange	Lullange	50.06	5.94194	P	PPL	LU		CL	01			132		453	Europe/Luxembourg	2017-10-02
+2960320	Lëckeboesch	Leckeboesch	Leckeboesch,Lueckebusch,Lëckeboesch	49.75556	6.36417	V	FRST	LU		EC				0		311	Europe/Luxembourg	2017-02-04
+2960321	Loorbierg	Loorbierg	Brucherhof,Ferme Loring,Loorbierg,Loreshof,Loringshof	49.85944	5.85111	P	PPLL	LU	LU	RD	06			0		421	Europe/Luxembourg	2017-01-28
+2960322	Lorentzweiler	Lorentzweiler	Lorentzweiler,Lorenzweiler	49.70131	6.14234	P	PPLA3	LU		ME	08			772		233	Europe/Luxembourg	2017-10-02
+2960323	Ferme Lurenzscheier	Ferme Lurenzscheier	Ferme Lorenscheuer,Ferme Lurenzscheier,Lorentzscheuer	49.5875	6.02639	S	FRM	LU	LU	LU	01			0		299	Europe/Luxembourg	2017-01-28
+2960324	Longsdorf	Longsdorf	Longsdorf	49.89889	6.20528	P	PPL	LU		VD	01			80		288	Europe/Luxembourg	2017-10-02
+2960325	Loeftgermillen	Loeftgermillen	Leftgermuhle,Leftgermühle,Loeftgermillen,Loeftgermuhle,Loeftgermühle	49.57028	5.99333	S	ML	LU	LU	CA	03			0		302	Europe/Luxembourg	2017-01-28
+2960326	Livange	Livange	Livange	49.53028	6.12028	P	PPL	LU		ES	11			306		269	Europe/Luxembourg	2017-10-02
+2960327	Lipperscheid	Lipperscheid	Lipperscheid	49.91861	6.08667	P	PPL	LU		DI	03			186		334	Europe/Luxembourg	2017-10-02
+2960328	Lintgen	Lintgen	Lintgen	49.72243	6.13016	P	PPLA3	LU		ME	07			1752		230	Europe/Luxembourg	2017-10-02
+2960329	Linger	Linger	Linger	49.56583	5.88667	P	PPL	LU		CA	8641865			591		277	Europe/Luxembourg	2017-10-02
+2960330	Limpertsberg	Limpertsberg	Lampertsberg,Limpertsberg	49.62083	6.12167	P	PPL	LU	LU	LU	2960317			0		326	Europe/Luxembourg	2017-01-28
+2960331	Limpach	Limpach	Limpach	49.55889	5.98056	P	PPL	LU		ES	10			254		318	Europe/Luxembourg	2017-10-02
+2960332	Lieler	Lieler	Lieler	50.12444	6.11	P	PPL	LU		CL	03			179		471	Europe/Luxembourg	2017-10-02
+2960333	Liefrange	Liefrange	Liefrange	49.91	5.8775	P	PPL	LU		WI	05			85		397	Europe/Luxembourg	2017-10-04
+2960334	Levelange	Levelange	Levelange	49.73972	5.85667	P	PPL	LU		RD	02			43		279	Europe/Luxembourg	2017-10-04
+2960335	Leudelange	Leudelange	Leudelange	49.56833	6.06528	P	PPLA3	LU		ES	07			1924		318	Europe/Luxembourg	2017-10-02
+2960336	Lentzweiler	Lentzweiler		50.0667	5.98051	P	PPLL	LU		CL	01			0		520	Europe/Luxembourg	2017-10-02
+2960337	Lenningen	Lenningen	Lenningen	49.60045	6.36719	P	PPLA3	LU		RM	03			338		179	Europe/Luxembourg	2017-10-02
+2960338	Lellerhaff	Lellerhaff	Fermes,Lellerhaff,Lellingerhof	49.79944	6.08611	P	PPLL	LU	LU	ME	01			0		217	Europe/Luxembourg	2017-01-28
+2960339	Lellingerbach	Lellingerbach		50	6.01667	H	STM	LU		WI				0		333	Europe/Luxembourg	2017-01-14
+2960340	Lellingen	Lellingen	Lellingen,Leltingen	49.98361	6.01444	P	PPL	LU		WI	8641289			93		295	Europe/Luxembourg	2017-10-02
+2960341	Lelligerbaach	Lelligerbaach	Lelligerbaach,Lelligerbach,Schleidbach	49.73389	6.42556	H	STM	LU		EC				0		312	Europe/Luxembourg	2017-02-04
+2960342	Lellig	Lellig	Lellig	49.71611	6.43639	P	PPL	LU		GR	06			142		282	Europe/Luxembourg	2017-10-02
+2960343	Leithum	Leithum	Leithum	50.16083	6.10889	P	PPL	LU		CL	10			78		467	Europe/Luxembourg	2017-10-02
+2960344	Leihof	Leihof		49.8	6.1	P	PPL	LU		ME	01			0		271	Europe/Luxembourg	2017-01-28
+2960345	Lehrhaff	Lehrhaff	Lehrhaeuschen,Lehrhaff,Lehrhauschen,Lehrhof,Lehrhäuschen,Maisons Leerchen	49.8555	5.94699	S	FRM	LU	LU	RD	07			0		485	Europe/Luxembourg	2017-09-28
+2960346	Léresmillen	Leresmillen	Larsmuhle,Larsmühle,Lehresmuhle,Lehresmühle,Leresmillen,Lerresmuhle,Léresmillen	50.0875	5.94472	S	ML	LU	LU	CL	01			0		415	Europe/Luxembourg	2017-01-28
+2960347	Lauterbour	Lauterbour	Lauterborn	49.79684	6.38984	P	PPLL	LU	LU	EC	05			0		270	Europe/Luxembourg	2017-01-28
+2960348	Lausdorn	Lausdorn	Lausdorn	50.11917	6.08333	P	PPLL	LU		CL	10			0		498	Europe/Luxembourg	2017-10-04
+2960349	Lasauvage	Lasauvage		49.525	5.8375	P	PPLX	LU		ES	02			402		335	Europe/Luxembourg	2017-10-02
+2960350	Larochette	Larochette	Fels,Larochette	49.78362	6.21891	P	PPLA3	LU		ME	06			1410		273	Europe/Luxembourg	2017-10-02
+2960351	Lannenerbierg	Lannenerbierg	Lannenerberg,Lannenerbierg	49.79861	5.83528	P	PPLL	LU	LU	RD	09			0		405	Europe/Luxembourg	2017-01-28
+2960352	Lannen	Lannen	Lannen,Maisons Lannenberg,Maisons Pieschend	49.78944	5.83972	P	PPL	LU		RD	09			113		346	Europe/Luxembourg	2017-10-02
+2960353	Lannebaach	Lannebaach	Lannebaach,Lannebach	49.77472	6.42861	H	STM	LU		EC				0		280	Europe/Luxembourg	2017-02-04
+2960354	Laangegronn	Laangegronn	Laangegronn,Langengrund	49.46722	6.00861	S	MNQ	LU	LU	ES	12			0		335	Europe/Luxembourg	2017-01-28
+2960356	Landscheid	Landscheid		49.92407	6.129	P	PPL	LU		VD	01			76		457	Europe/Luxembourg	2017-10-02
+2960357	Lameschermillen	Lameschermillen	Lameschermillen,Lameschermuhle sur Alzette,Lameschmuhle,Lameschmühle	49.51417	6.04417	S	ML	LU	LU	ES	08			0		279	Europe/Luxembourg	2017-01-28
+2960358	Lamadelaine	Lamadelaine	Lamadelaine,Lamadeleine,Rollingen	49.54639	5.85639	P	PPL	LU		ES	09			2428		294	Europe/Luxembourg	2017-10-02
+2960359	Kuborn	Kuborn	Kuborn	49.87056	5.90306	P	PPL	LU		RD	13			75		464	Europe/Luxembourg	2017-10-04
+2960360	Kreizboesch	Kreizboesch	Kreizboesch,Kreuzbusch	49.64167	6.3625	V	FRST	LU		GR				0		305	Europe/Luxembourg	2017-02-04
+2960361	Kreizerbuch	Kreizerbuch	Kreizerbuch,Kreutzerbuch,Kreuzerbuch,Maisons Kreutzerbuch,Nikolausbuch	49.70167	5.91639	P	PPLL	LU	LU	CA	05			0		378	Europe/Luxembourg	2017-01-28
+2960362	Krakelshaff	Krakelshaff	Krackelshof,Krakelshaff,Krakelshof	49.50889	6.11444	S	FRM	LU	LU	ES	01			0		283	Europe/Luxembourg	2017-01-28
+2960363	Kopstal	Kopstal	Kopstal	49.66444	6.07306	P	PPLA3	LU		CA	08			657		261	Europe/Luxembourg	2017-10-02
+2960365	Koh	Koh		49.68056	5.9375	H	STM	LU		CA				0		280	Europe/Luxembourg	2017-02-04
+2960366	Koetschette	Koetschette	Koetschette	49.83806	5.84028	P	PPL	LU		RD	06			125		505	Europe/Luxembourg	2017-10-02
+2960367	Koerich	Koerich	Gemeng Kaeerch,Gemeng Käerch,Kaeerch,Kerikh,Kjorikh,Kjorykh,Koerich,Korich,Käerch,Körich,kwyrysh,Керіх,Кёрих,Кёрых,کوئریش	49.67	5.95	P	PPLA3	LU		CA	07			1066		299	Europe/Luxembourg	2017-10-02
+2960368	Koenerhaff	Koenerhaff	Kahnhef,Koenerhaff,Koenerhof,Konerhof	49.96528	6.01	S	FRM	LU	LU	WI	8641289			0		412	Europe/Luxembourg	2017-01-28
+2960369	Koedange	Koedange	Koedange	49.72833	6.21028	P	PPLL	LU		ME	04			0		297	Europe/Luxembourg	2017-10-02
+2960370	Kockelscheuer	Kockelscheuer	Kockelscheuer	49.56111	6.11222	P	PPL	LU		ES	11			270		310	Europe/Luxembourg	2017-10-02
+2960371	Kocherei	Kocherei	Kocherei,Kocherey	50.06944	6.07056	P	PPL	LU	LU	CL	03			0		508	Europe/Luxembourg	2017-01-28
+2960372	Kobenbour	Kobenbour	Kobenbour	49.75028	6.30611	P	PPLL	LU		EC	02			0		397	Europe/Luxembourg	2017-10-04
+2960373	Knaphoscheid	Knaphoscheid	Knaphoscheid	50.01333	5.96472	P	PPL	LU		WI	11			180		492	Europe/Luxembourg	2017-10-02
+2960374	Kneppchen	Kneppchen	Knaepchen,Knepchen,Kneppchen	49.74194	6.01861	P	PPL	LU	LU	ME	03			0		302	Europe/Luxembourg	2017-01-28
+2960375	Kleinmacher	Kleinmacher		49.5325	6.35528	P	PPLX	LU		RM	05			0		147	Europe/Luxembourg	2017-01-28
+2960376	Kleinhoscheid	Kleinhoscheid		50.01944	5.96806	P	PPL	LU		WI	11			0		474	Europe/Luxembourg	2017-01-28
+2960377	Klenge-Buurghaff	Klenge-Buurghaff	Kleinbourghof,Kleinbourgshof,Klenge-Buurghaff,Petit Bourghof	49.81361	6.13694	S	FRM	LU	LU	ME	10			0		282	Europe/Luxembourg	2017-01-28
+2960378	Kleinbettingen	Kleinbettingen	Kleinbettingen	49.64639	5.91639	P	PPL	LU		CA	11			872		320	Europe/Luxembourg	2017-10-02
+2960379	Kircheboesch	Kircheboesch	Kircheboesch,Kirchenbusch	49.55667	6.19306	V	FRST	LU		LU				0		332	Europe/Luxembourg	2017-02-04
+2960380	Kirchberg	Kirchberg	Kirchberg,Luxembourg-Kirchberg	49.62389	6.14944	P	PPL	LU		LU	2960317			3534		333	Europe/Luxembourg	2017-01-28
+2960381	Koeppenhaff	Koeppenhaff	Kippenhof,Koeppenhaff	49.90313	6.13314	P	PPL	LU	LU	VD	01			0		396	Europe/Luxembourg	2017-09-11
+2960382	Kinsickerhaff	Kinsickerhaff	Kinseckerbour,Kinseckerhof,Kinsickerhaff,Kinzigerhof	49.73194	6.31222	S	FRM	LU	LU	GR	05			0		279	Europe/Luxembourg	2017-01-28
+2960383	Kéisbierg	Keisbierg	Keisbierg,Kiesberg,Kéisbierg	49.67472	6.32056	P	PPLL	LU	LU	GR	01			0		251	Europe/Luxembourg	2017-01-28
+2960384	Kirelbaach	Kirelbaach	Kierelbach,Kirelbaach	49.96389	5.97028	H	STM	LU		WI				0		295	Europe/Luxembourg	2017-02-04
+2960385	Këmpchen	Kempchen	Ferme Kempchen,Kempchen,Kempgen,Këmpchen	49.85194	6.16472	S	FRM	LU	LU	DI	02			0		239	Europe/Luxembourg	2017-01-28
+2960386	Kelleschhaff	Kelleschhaff	Kelleschhaff,Kelleschhof	49.79889	6.26778	S	FRM	LU	LU	EC	08			0		344	Europe/Luxembourg	2017-01-28
+2960387	Keispelt	Keispelt	Keispelt	49.69394	6.06789	P	PPL	LU		CA	06			567		376	Europe/Luxembourg	2017-10-02
+2960388	Kehmen	Kehmen	Kehmen	49.90083	6.03722	P	PPL	LU		DI	03			0		490	Europe/Luxembourg	2017-10-04
+2960389	Kehlen	Kehlen	Kehlen	49.66833	6.03583	P	PPLA3	LU		CA	06			1658		329	Europe/Luxembourg	2017-10-02
+2960390	Kaelbaach	Kaelbaach	Kaelbaach,Kayl,Kaylbach	49.51528	6.06583	H	STM	LU		ES				0		272	Europe/Luxembourg	2017-02-04
+2960391	Kayl	Kayl	Gemeng Keel,Kajl',Kayl,Keel,Kejl,Kelis,kyl  lwkzambwrg,Кайль,Кейл,کیل، لوکزامبورگ	49.48917	6.03972	P	PPLA3	LU		ES	06			4396		284	Europe/Luxembourg	2019-02-28
+2960392	Kayl	Kayl	Commune de Kayl,Gemeinde Kayl,Gemeng Kal,Gemeng Keel,Gemeng Käl,Kal,Kayl,Keel,Käl	49.47912	6.031	A	ADM2	LU		ES	06			0		373	Europe/Luxembourg	2017-01-14
+2960393	Kautenbach	Kautenbach	Kautenbach	49.95278	6.02	P	PPL	LU		WI	8641289			126		257	Europe/Luxembourg	2017-10-02
+2960394	Kaundorf	Kaundorf	Kaundorf	49.92139	5.90306	P	PPL	LU		WI	05			192		416	Europe/Luxembourg	2017-10-02
+2960395	Kapweiler	Kapweiler	Kapweiler	49.73944	5.97056	P	PPLL	LU		RD	10			30		273	Europe/Luxembourg	2017-10-04
+2960396	Kapendahl	Kapendahl		49.86667	6.23333	P	PPL	LU		DI	02			0		288	Europe/Luxembourg	2017-01-28
+2960397	Kapenacker	Kapenacker	Ferme Kapenacker,Kapenacker	49.63444	6.35583	P	PPLL	LU	LU	GR	09			0		340	Europe/Luxembourg	2017-10-02
+2960398	Kalborn	Kalborn	Kalborn	50.10278	6.11306	P	PPL	LU		CL	03			58		485	Europe/Luxembourg	2017-10-02
+2960399	Kahler	Kahler	Kahler	49.63139	5.91778	P	PPL	LU		CA	04			192		313	Europe/Luxembourg	2017-10-02
+2960400	Junglinster	Junglinster	Junglinster	49.70722	6.25306	P	PPLA3	LU		GR	05			2358		305	Europe/Luxembourg	2017-10-02
+2960401	Jungenbusch	Jungenbusch		49.63333	5.98333	V	FRST	LU		CA				0		324	Europe/Luxembourg	2017-01-14
+2960402	Jongeboesch	Jongeboesch	Jongeboesch,Jungebusch	49.58194	5.87833	V	FRST	LU		CA				0		352	Europe/Luxembourg	2017-02-04
+2960403	Juckelsboesch	Juckelsboesch	Juckelbusch,Juckelsboesch,Juckelsbusch	49.64722	6.04639	V	FRST	LU		CA				0		351	Europe/Luxembourg	2017-02-04
+2960404	Joupicht	Joupicht	Jopicht,Joupicht	49.9725	6.02222	H	STM	LU		WI				0		311	Europe/Luxembourg	2017-02-04
+2960405	Jockelsmuhle	Jockelsmuhle	Jockelsmuhle,Jockesmuhle	49.71667	6.36667	P	PPL	LU		GR	02			0		291	Europe/Luxembourg	2017-01-28
+2960406	Jenkenhof	Jenkenhof		49.81667	5.95	P	PPL	LU		RD	07			0		340	Europe/Luxembourg	2017-01-28
+2960407	Jénkenhaff	Jenkenhaff	Inkenhof,Jenkenhaff,Jenkenhof,Jinkenhof,Jénkenhaff,Stoppelhof	49.75472	5.86444	S	FRM	LU	LU	RD	05			0		303	Europe/Luxembourg	2017-01-28
+2960408	Jean-Haris	Jean-Haris	Henryshof,Jean Henryshof,Jean-Haris,Jeanharishof,Jeanhary	49.73667	6.26444	S	FRM	LU	LU	GR	05			0		333	Europe/Luxembourg	2017-01-28
+2960409	Jacobsbierg	Jacobsbierg	Jacobsberg,Jacobsbierg,Jakobsberg	49.75411	6.38254	S	FRM	LU	LU	GR	06			0		342	Europe/Luxembourg	2017-09-30
+2960410	Itzig	Itzig	Itzig	49.58769	6.17065	P	PPL	LU		LU	03			1836		327	Europe/Luxembourg	2017-10-02
+2960411	Italien	Italien	Italie,Italien	49.47444	6.07944	P	PPLX	LU	LU	ES	03			0		316	Europe/Luxembourg	2017-01-28
+2960412	Irbich	Irbich	Irbach,Irbich,Irrbach,Irrbach Riviere,Irrbach Rivière	50.01694	6.01028	H	STM	LU		CL				0		320	Europe/Luxembourg	2017-02-04
+2960413	Insenborn	Insenborn	Insenborn	49.90167	5.88472	P	PPL	LU		WI	02			165		357	Europe/Luxembourg	2017-10-02
+2960414	Ingeldorf	Ingeldorf	Ingeldord,Ingeldorf	49.85194	6.13472	P	PPL	LU		DI	06			833		192	Europe/Luxembourg	2017-10-02
+2960415	Imbringen	Imbringen	Imbringen	49.6975	6.1975	P	PPL	LU		GR	05			292		343	Europe/Luxembourg	2017-10-02
+2960416	Hëttermillen	Hettermillen	Hettermillen,Huettermuehle,Huttermuhle,Hëttermillen,Hüttermühle	49.58611	6.37361	P	PPL	LU		RM	07			0		150	Europe/Luxembourg	2017-10-02
+2960417	Huttange	Huttange	Huttange	49.73611	5.89861	P	PPL	LU		RD	02			37		277	Europe/Luxembourg	2017-10-04
+2960418	Hupperdange	Hupperdange	Hupperdange	50.09611	6.05917	P	PPL	LU		CL	03			210		504	Europe/Luxembourg	2017-10-02
+2960419	Hunsdorf	Hunsdorf	Hunsdorf	49.69667	6.13167	P	PPL	LU		ME	08			413		225	Europe/Luxembourg	2017-10-02
+2960420	Huncherange	Huncherange	Huncherange	49.51694	6.065	P	PPL	LU		ES	01			615		273	Europe/Luxembourg	2017-10-02
+2960421	Huldange	Huldange	Huldange,Huldingen	50.16472	6.015	P	PPL	LU		CL	09			376		519	Europe/Luxembourg	2017-10-02
+2960422	Haupeschhaff	Haupeschhaff	Hauertshof,Haupeschhaff,Hubertushof,Huppertshof,Portershof	49.84	6.05639	S	FRM	LU	LU	DI	07			0		289	Europe/Luxembourg	2017-01-28
+2960423	Hubertsmuhle	Hubertsmuhle		50.13333	6.06667	P	PPL	LU		CL	10			0		501	Europe/Luxembourg	2017-01-28
+2960424	Hovelange	Hovelange	Hovelange	49.7225	5.90722	P	PPL	LU		RD	02			285		289	Europe/Luxembourg	2017-10-02
+2960425	Houschthauser	Houschthauser		49.95	5.8	P	PPL	LU		WI	05			0		470	Europe/Luxembourg	2017-01-28
+2960426	Hostert	Hostert	Hostert,Hostert-les-Folschette,Hostert-lès-Folschette	49.81	5.86667	P	PPL	LU		RD	06			360		410	Europe/Luxembourg	2017-10-02
+2960427	Hostert	Hostert	Hostert,Hostert du-Grunenwald	49.65749	6.23268	P	PPL	LU		LU	04			364		326	Europe/Luxembourg	2017-10-02
+2960428	Hueschterbaach	Hueschterbaach	Hosterbach,Hueschterbaach	49.81	5.90722	H	STM	LU		RD				0		312	Europe/Luxembourg	2017-02-04
+2960429	Hosingen	Hosingen	Hosingen	50.01218	6.09089	P	PPLA3	LU		CL	63			811		498	Europe/Luxembourg	2017-10-02
+2960430	Houschterhaff	Houschterhaff	Fonkenhof,Hoscheiderhof,Hoscheidterhof,Hoschetterhof,Houschterhaff,Wiltgeshof	49.93531	6.15709	P	PPLL	LU	LU	VD	01			0		465	Europe/Luxembourg	2017-10-02
+2960431	Hoscheiderdickt	Hoscheiderdickt	Dickt,Hoscheid-Dickt,Hoscheiderdickt	49.97306	6.09167	P	PPL	LU	LU	CL	63			0		498	Europe/Luxembourg	2017-10-02
+2960432	Hoscheid	Hoscheid	Hohscheid,Hoscheid	49.94722	6.08167	P	PPL	LU		CL	63			319		481	Europe/Luxembourg	2017-10-02
+2960433	Horas	Horas	Horace,Horas,Horras,Maisons Horras	49.81056	5.91861	P	PPLL	LU	LU	RD	8641291			0		301	Europe/Luxembourg	2017-01-28
+2960434	Hondsjang	Hondsjang		50.08333	6	P	PPL	LU		CL	01			0		506	Europe/Luxembourg	2017-01-28
+2960435	Hommelsboesch	Hommelsboesch	Homelsbusch,Hommelsboesch	49.50917	6.34278	V	FRST	LU		RM				0		248	Europe/Luxembourg	2017-02-04
+2960436	Holzthum	Holzthum	Holzthum	49.985	6.07333	P	PPL	LU		CL	63			143		507	Europe/Luxembourg	2017-10-02
+2960437	Holzem	Holzem	Holzem	49.61639	5.99028	P	PPL	LU		CA	09			541		311	Europe/Luxembourg	2017-10-02
+2960438	Holtz	Holtz	Holtz,Holtzburg	49.80722	5.79167	P	PPL	LU		RD	06			196		463	Europe/Luxembourg	2017-10-02
+2960439	Hollerich	Hollerich	Hollerech,Hollerich	49.60314	6.11423	P	PPLX	LU		LU	2960317			0		275	Europe/Luxembourg	2019-03-26
+2960440	Holler	Holler	Holler,Hollermuehle,Hollermühle	50.12361	6.04944	P	PPL	LU		CL	10			87		471	Europe/Luxembourg	2017-10-02
+2960441	Hollenfels	Hollenfels	Hollenfels	49.71306	6.05083	P	PPL	LU		ME	11			247		315	Europe/Luxembourg	2017-10-02
+2960442	Houwald	Houwald	Hohwald,Houwald	49.66111	6.39306	V	FRST	LU		GR				0		283	Europe/Luxembourg	2017-02-04
+2960443	Hohwald	Hohwald		49.56667	6.15	V	FRST	LU		LU				0		270	Europe/Luxembourg	2017-01-14
+2960444	Houlbecht	Houlbecht	Hohlbach,Houlbecht,Roedt,Trintange	49.55583	6.3025	H	STM	LU		RM				0		180	Europe/Luxembourg	2017-02-04
+2960445	Houboesch	Houboesch	Hohbusch,Houboesch	49.53722	5.95806	V	FRST	LU		ES				0		343	Europe/Luxembourg	2017-02-04
+2960446	Neimillen	Neimillen	Hoffmansneumuhle,Hoffmansneumühle,Neimillen,Neumuhle,Neumühle	49.51528	6.01833	S	ML	LU	LU	ES	14			0		277	Europe/Luxembourg	2017-01-28
+2960447	Hoffelt	Hoffelt	Hoffelt	50.09972	5.92333	P	PPL	LU		CL	01			270		448	Europe/Luxembourg	2017-10-02
+2960448	Hoff	Hoff		50.08333	5.96667	H	STM	LU		CL				0		443	Europe/Luxembourg	2017-01-14
+2960449	Haffboesch	Haffboesch	Haffboesch,Hofbusch	49.67306	5.90194	V	FRST	LU		CA				0		344	Europe/Luxembourg	2017-02-04
+2960450	Hoesdorf	Hoesdorf	Hoesdorf	49.88389	6.25806	P	PPL	LU		DI	12			105		185	Europe/Luxembourg	2017-10-02
+2960451	Hoerchen	Hoerchen	Haertgen,Hoerchen,Maison Hoerchen,Neulocher,Neulöcher	49.56667	5.93333	P	PPL	LU		CA	8641865			0		312	Europe/Luxembourg	2017-01-28
+2960452	Héienhaff	Heienhaff	Heienhaff,Hoehenhof,Hohenhof,Héienhaff,Höhenhof	49.6325	6.22083	P	PPLL	LU	LU	LU	04			0		367	Europe/Luxembourg	2017-01-28
+2960453	Hobscheid	Hobscheid	Habscht,Hobscheid	49.68861	5.91472	P	PPLA3	LU		CA	05			1051		278	Europe/Luxembourg	2017-10-02
+2960454	Hivange	Hivange	Hivange	49.60722	5.93222	P	PPL	LU		CA	04			119		338	Europe/Luxembourg	2017-10-02
+2960455	Hirzenhaff	Hirzenhaff	Hirtzenhof,Hirzenhaff,Hirzenhof	49.86222	6.23028	S	FRM	LU	LU	DI	02			0		302	Europe/Luxembourg	2017-01-28
+2960456	Hinkel	Hinkel	Hinkel	49.77639	6.51528	P	PPL	LU		EC				82		205	Europe/Luxembourg	2017-10-04
+2960457	Hesperange	Hesperange	Hesperange	49.56806	6.15139	P	PPLA3	LU		LU	03			1937		270	Europe/Luxembourg	2017-10-02
+2960458	Hersberg	Hersberg	Heeschbreg	49.75629	6.32756	P	PPL	LU		EC	02			0		369	Europe/Luxembourg	2017-10-02
+2960459	Haereboesch	Haereboesch	Haereboesch,Herrenwald	49.73333	6.48639	V	FRST	LU		GR				0		306	Europe/Luxembourg	2017-02-04
+2960460	Haereboesch	Haereboesch	Haereboesch,Herrenbusch	49.68722	5.96306	V	FRST	LU		CA				0		374	Europe/Luxembourg	2017-02-04
+2960461	Haerebierg	Haerebierg	Haerebierg,Herrenberg,The Herrenberg	49.87833	6.16889	T	HLL	LU	LU	DI	04			0		393	Europe/Luxembourg	2017-01-28
+2960462	Hierheck	Hierheck	Haerheck,Herheck,Hierheck	49.87306	5.93111	P	PPLL	LU		WI	02			36		501	Europe/Luxembourg	2017-10-02
+2960463	Herdermillen	Herdermillen	Herdermillen,Herdermuhle,Herdermühle	49.55333	6.34028	S	ML	LU	LU	RM	00			0		162	Europe/Luxembourg	2017-01-28
+2960464	Bois de Herborn	Bois de Herborn	Bois de Herborn,Dewald,Herborner Wald,Wald	49.75306	6.41194	V	FRST	LU		EC				0		361	Europe/Luxembourg	2017-02-04
+2960465	Herborn	Herborn	Herborn	49.74167	6.42778	P	PPL	LU		EC	06			150		292	Europe/Luxembourg	2017-10-02
+2960466	Herberg	Herberg		49.95	5.83333	H	STM	LU		WI				0		427	Europe/Luxembourg	2017-01-14
+2960467	Hemstal	Hemstal	Hemstal	49.73444	6.33611	P	PPL	LU		EC	02			79		278	Europe/Luxembourg	2017-10-04
+2960468	Helmsange	Helmsange	Helmsange	49.65278	6.14139	P	PPL	LU		LU	09			2193		307	Europe/Luxembourg	2017-10-02
+2960469	Helmdange	Helmdange	Helmdange	49.69387	6.14166	P	PPL	LU		ME	08			638		227	Europe/Luxembourg	2017-10-02
+2960470	Hellange	Hellange	Hellange	49.50759	6.14978	P	PPL	LU		ES	05			629		260	Europe/Luxembourg	2017-10-02
+2960471	Heispelt	Heispelt	Haispelt,Heispelt,Heispelt-les-Wahl,Heispelt-lès-Wahl	49.85722	5.88056	P	PPL	LU		RD	13			81		507	Europe/Luxembourg	2017-10-02
+2960472	Heisdorf	Heisdorf	Heisdorf,Heisdorf-sur-Alzette	49.67207	6.14202	P	PPL	LU		LU	07			1586		248	Europe/Luxembourg	2017-10-02
+2960473	Heesberhaff	Heesberhaff	Ferme Heisbourg,Heesberhaff,Heisbourg,Heisburgerhof	49.57222	6.3125	S	FRM	LU	LU	RM	00			0		255	Europe/Luxembourg	2017-01-28
+2960474	Heisbich	Heisbich	Heisbach,Heisbich,Masions Heisbich	49.80361	6.35028	S	FRM	LU	LU	EC	03			0		324	Europe/Luxembourg	2017-01-28
+2960475	Heinerscheid	Heinerscheid	Heinerscheid	50.09611	6.08806	P	PPL	LU		CL	03			429		520	Europe/Luxembourg	2017-10-02
+2960476	Hiemerboesch	Hiemerboesch	Heimerbusch,Hiemerboesch	49.67139	5.9875	V	FRST	LU		CA				0		361	Europe/Luxembourg	2017-02-04
+2960477	Heedscheier	Heedscheier	Ferme Heidscheuer,Heedscheier,Heidscheuer,Hetscheuer	49.54944	6.26028	S	FRM	LU	LU	RM	02			0		311	Europe/Luxembourg	2017-01-28
+2960478	Heiderscheid	Heiderscheid	Heiderscheid	49.88734	5.97892	P	PPL	LU		WI	02			424		514	Europe/Luxembourg	2017-10-02
+2960479	Heidenthor	Heidenthor	Heidenhorn,Heidenthor	50.06667	6.11667	H	STM	LU		CL				0		337	Europe/Luxembourg	2017-01-14
+2960480	Fensterhaff	Fensterhaff	Fensterhaff,Finsterhof,Heidekaul,Heidenkaul	49.79611	5.90861	S	FRM	LU	LU	RD	09			0		350	Europe/Luxembourg	2017-01-28
+2960481	Heffingen	Heffingen	Heffingen	49.76907	6.24049	P	PPLA3	LU		ME	05			623		325	Europe/Luxembourg	2017-10-02
+2960482	Heckenhof	Heckenhof		49.68333	5.93333	P	PPL	LU		CA	05			0		323	Europe/Luxembourg	2017-01-28
+2960483	Haut-Martelange	Haut-Martelange	Haut-Martelange	49.825	5.75111	P	PPLL	LU		RD	06			32		405	Europe/Luxembourg	2017-10-04
+2960484	Lac de la Haute Sûre	Lac de la Haute Sure	Haute Sure,Haute Sûre,Lac de la Haute Sure,Lac de la Haute Sûre	49.9	5.9	H	RSV	LU		WI				0		366	Europe/Luxembourg	2017-02-04
+2960485	Hautcharage	Hautcharage	Hautcharage,Oberkerschen	49.57499	5.9097	P	PPL	LU		CA	8641865			1495		289	Europe/Luxembourg	2017-10-02
+2960486	Hautbellain	Hautbellain	Hautbellain,Oberbesslingen	50.15667	5.97861	P	PPL	LU		CL	09			151		492	Europe/Luxembourg	2017-10-02
+2960487	Hau	Hau		49.52083	6.18667	P	PPL	LU		ES	05			0		247	Europe/Luxembourg	2017-01-28
+2960488	Hassel	Hassel	Hassel	49.55019	6.20826	P	PPL	LU		LU	10			436		290	Europe/Luxembourg	2017-10-02
+2960489	Harthaff	Harthaff	Hardthof,Harthaff,Harthof	49.81	6.31694	S	FRM	LU	LU	EC	08			0		279	Europe/Luxembourg	2017-01-28
+2960490	Harlange	Harlange	Harlange,Riviee de Harlange,Rivièe de Harlange	49.88333	5.78333	H	STM	LU		WI				0		435	Europe/Luxembourg	2017-01-14
+2960491	Harlange	Harlange	Harlange	49.93139	5.79	P	PPL	LU		WI	05			378		424	Europe/Luxembourg	2017-10-02
+2960492	Haard	Haard	Haard,Hardt	49.77861	6.40111	V	FRST	LU		EC				0		393	Europe/Luxembourg	2017-02-04
+2960493	Hamm	Hamm	Hamm	49.60694	6.16861	P	PPL	LU		LU	2960317			0		286	Europe/Luxembourg	2017-01-28
+2960494	Hamiville	Hamiville	Hamiville,Heisdorf	50.04611	5.90417	P	PPL	LU		CL	01			171		476	Europe/Luxembourg	2017-10-02
+2960495	Hamhaff	Hamhaff	Ferme Hamm,Hamhaff,Hamhof,Hamm	49.83861	6.36	S	FRM	LU	LU	EC	03			0		377	Europe/Luxembourg	2017-01-28
+2960496	Halerbaach	Halerbaach	Halerbaach,Hallerbach	49.81444	6.32611	H	STM	LU		EC				0		216	Europe/Luxembourg	2017-01-14
+2960497	Haller	Haller	Haller	49.81982	6.28006	P	PPL	LU		EC	08			223		330	Europe/Luxembourg	2017-10-02
+2960498	Hagen	Hagen	Hagen	49.64944	5.93167	P	PPL	LU		CA	11			978		311	Europe/Luxembourg	2017-10-02
+2960499	Hagelsdorf	Hagelsdorf	Hagelsdorf	49.68778	6.36556	P	PPL	LU		GR	02			19		250	Europe/Luxembourg	2017-10-02
+2960500	Hakenhaff	Hakenhaff	Hackenhof,Hakenhaff,Hakenhof	49.60111	6.28056	S	FRM	LU		LU	02			0		292	Europe/Luxembourg	2017-01-28
+2960501	Hachiville	Hachiville	Hachiville,Helzingen	50.10806	5.92333	P	PPL	LU		CL	01			194		447	Europe/Luxembourg	2017-10-02
+2960502	Grengewald	Grengewald	Grengewald,Grune Wald,Grunenwald	49.66083	6.20417	V	FRST	LU		LU				0		425	Europe/Luxembourg	2017-02-04
+2960503	Grundmuhle	Grundmuhle		49.9	5.9	P	PPL	LU		WI	02			0		366	Europe/Luxembourg	2017-01-28
+2960504	Grundhof	Grundhof	Grundhof,Grundhof (Berdorf)	49.835	6.33139	P	PPLL	LU		EC	03			27		202	Europe/Luxembourg	2017-10-02
+2960505	Grund	Grund	Gronn,Grund	49.60997	6.13791	P	PPL	LU		LU	2960317			0		275	Europe/Luxembourg	2019-03-26
+2960506	Grumelscheid	Grumelscheid	Gruemelscheid,Grumelscheid,Grummelscheid,Grümmelscheid	49.98343	5.87072	P	PPL	LU		WI	13			64		455	Europe/Luxembourg	2017-10-02
+2960507	Grossen Genoeserbusch	Grossen Genoeserbusch		49.5	6.13333	V	FRST	LU		ES				0		279	Europe/Luxembourg	2017-01-14
+2960508	Grousseboesch	Grousseboesch	Grossenbusch,Grousseboesch	49.65833	6.27667	V	FRST	LU		LU				0		299	Europe/Luxembourg	2017-01-14
+2960509	Grouseboesch	Grouseboesch	Grossbusch,Grossebusch,Grouseboesch	49.70111	5.88889	V	FRST	LU		CA				0		377	Europe/Luxembourg	2017-02-04
+2960510	Grosbous	Grosbous	Grosbous	49.82778	5.96722	P	PPLA3	LU		RD	07			656		344	Europe/Luxembourg	2017-10-02
+2960511	Gruef	Gruef	Grof,Gruef	49.88028	6.22194	P	PPLL	LU	LU	DI	02			0		219	Europe/Luxembourg	2017-01-28
+2960512	Grindhausen	Grindhausen	Grindhausen	50.08333	6.06	P	PPL	LU		CL	03			25		497	Europe/Luxembourg	2017-10-04
+2960513	District de Grevenmacher	District de Grevenmacher	District de Grevenmacher,Distrikt Greiwemaacher,Distrikt Grevenmacher,Distrikt Gréiwemaacher,Greiwemaacher,Grevenmacher,Gréiwemaacher	49.67777	6.35	A	ADM1H	LU		02				0		252	Europe/Luxembourg	2017-01-02
+2960514	Grevenmacher	Grevenmacher	Canton de Grevenmacher,Greiwemaacher,Grevenmacher,Gréiwemaacher,Kanton Greiwemaacher,Kanton Grevenmacher,Kanton Gréiwemaacher	49.68341	6.34307	A	ADM1	LU		GR				0		234	Europe/Luxembourg	2017-01-26
+2960515	Grevenmacher	Grevenmacher	Grehvenmakher,Greivemaacher,Greiwemaacher,Grevenmacher,Grevenmacheris,Grevenmakher,Gréivemaacher,Gréiwemaacher,Grėvenmacheris,ge lei wen ma he,geulebenmaheo,grbnmkr,grwnmakhr,gurevu~enmaha,Гревенмахер,Грэвенмахер,גרבנמכר,گرونماخر,グレーヴェンマハ,格雷文马赫,그레벤마허	49.67751	6.44022	P	PPLA	LU		GR	04			3958		143	Europe/Luxembourg	2017-10-02
+2960516	Grevenmacher	Grevenmacher	Canto de Grevenmacher,Canton de Grevenmacher,Cantone di Grevenmacher,Cantó de Grevenmacher,Cantón de Grevenmacher,Gemeinde Grevenmacher,Greiwemaacher,Grevenmacher,Grevenmacher kantonu,Grevenmacherio kantonas,Grevenmakher,Gréiwemaacher,Grėvenmacherio kantonas,Kanton Greivemaacher,Kanton Greiwemaacher,Kanton Grevenmacher,Kanton Gréivemaacher,Kanton Gréiwemaacher,Kantono Grevenmacher,Stad Greiwemaacher,Stad Gréiwemaacher,Ville de Grevenmacher,geulebenmaheo ju,grwnmakhr,Гревенмахер,گرونماخر,그레벤마허 주	49.67459	6.41269	A	ADM2	LU		GR	04			0		248	Europe/Luxembourg	2017-01-14
+2960517	Grevenknapp	Grevenknapp	Grevenknapp,Grevenknopp,Groevenknapp	49.7625	6.03389	P	PPL	LU	LU	ME	03			0		318	Europe/Luxembourg	2017-10-02
+2960518	Grevelscheuer	Grevelscheuer	Ferme Grevelscheuer,Grevelscheuer,Grevelsscheuer	49.63333	6.2	P	PPL	LU		LU	04			0		377	Europe/Luxembourg	2017-01-28
+2960519	Grevels	Grevels	Grevels,Grevels-Bresil,Grevels-Brésil	49.85138	5.91399	P	PPL	LU		RD	13			207		529	Europe/Luxembourg	2017-10-02
+2960520	Gréivelserhaff	Greivelserhaff	Ferme Grevels,Greivelserhaff,Grevels,Gréivelserhaff	49.59944	6.0425	S	FRM	LU	LU	LU	01			0		299	Europe/Luxembourg	2017-01-28
+2960521	Grentzingen	Grentzingen	Grentzingen	49.83194	6.09306	P	PPL	LU		DI	07			0		198	Europe/Luxembourg	2017-10-04
+2960523	Greiveldange	Greiveldange	Greiveldange	49.58389	6.35917	P	PPL	LU		RM	07			630		178	Europe/Luxembourg	2017-10-02
+2960524	Greisch	Greisch	Greisch	49.70972	5.98833	P	PPL	LU		CA	10			210		330	Europe/Luxembourg	2017-10-02
+2960525	Graulinster	Graulinster	Graulinster (Bech)	49.74008	6.28757	P	PPL	LU		GR	05			0		362	Europe/Luxembourg	2017-10-02
+2960526	Grass	Grass	Gras,Grass	49.63083	5.89139	P	PPLL	LU		CA	11			71		321	Europe/Luxembourg	2017-10-02
+2960527	Grand Bois	Grand Bois		49.51611	5.85694	V	FRST	LU		ES				0		405	Europe/Luxembourg	2017-02-04
+2960528	Gralingen	Gralingen	Gralingen	49.93694	6.10167	P	PPL	LU		VD	02			142		473	Europe/Luxembourg	2017-10-02
+2960529	Goudelt	Goudelt	Ferme Gudelt,Goudelt,Gudelt	49.77981	6.18187	S	FRM	LU	LU	ME	06			0		380	Europe/Luxembourg	2019-02-28
+2960530	Gostingen	Gostingen	Gostingen	49.61917	6.35444	P	PPL	LU		GR	03			342		235	Europe/Luxembourg	2017-10-02
+2960531	Gosseldange	Gosseldange	Gosseldange	49.72639	6.11694	P	PPL	LU		ME	07			458		219	Europe/Luxembourg	2017-10-02
+2960532	Gonderange	Gonderange	Gonderange	49.69537	6.24577	P	PPL	LU		GR	05			1469		331	Europe/Luxembourg	2017-10-02
+2960533	Goetzingen	Goetzingen	Goetzange,Goetzingen,Gotzange,Götzange	49.66028	5.98167	P	PPL	LU		CA	07			341		322	Europe/Luxembourg	2017-10-02
+2960534	Goesdorf	Goesdorf	Geisdref,Goesdorf,Gosdorf,Gosdorf bei Wilz,Géisdref,Gösdorf,Gösdorf bei Wilz	49.92131	5.96601	P	PPLA3	LU		WI	04			251		476	Europe/Luxembourg	2017-10-02
+2960535	Goeldt	Goeldt	Goeldt,Maison Goelt	49.82222	5.85583	P	PPLL	LU	LU	RD	06			0		473	Europe/Luxembourg	2017-01-28
+2960536	Goedange	Goedange	Godange,Goedange,Goedingen,Gödange	50.14917	6.01333	P	PPL	LU		CL	09			45		492	Europe/Luxembourg	2017-10-02
+2960537	Goeblange	Goeblange	Goeblange	49.66972	5.96528	P	PPL	LU		CA	07			434		317	Europe/Luxembourg	2017-10-02
+2960538	Goebelsmuhle	Goebelsmuhle	Goebelsmuehle,Goebelsmuhle,Goebelsmühle	49.92139	6.05372	P	PPL	LU		DI	03			0		260	Europe/Luxembourg	2017-10-02
+2960539	Godbrange	Godbrange	Godbrange	49.73395	6.23238	P	PPL	LU		GR	05			463		337	Europe/Luxembourg	2017-10-02
+2960540	Givenich	Givenich	Givenich,Giwenich	49.74222	6.48	P	PPL	LU		EC	06			84		306	Europe/Luxembourg	2017-10-02
+2960541	Girsterklaus	Girsterklaus	Girsterklaus	49.77778	6.49944	P	PPL	LU		EC	07			12		324	Europe/Luxembourg	2017-10-04
+2960542	Girst	Girst	Girst,Girsterklause	49.76722	6.49889	P	PPL	LU		EC	06			113		289	Europe/Luxembourg	2017-10-02
+2960543	Gilsdorf	Gilsdorf	Gilsdorf	49.86499	6.17979	P	PPL	LU		DI	02			886		198	Europe/Luxembourg	2017-10-02
+2960544	Geierhaff	Geierhaff	Geierershof,Geierhaff,Geiershof,Geyershof	49.99528	6.09	S	FRM	LU	LU	CL	63			0		505	Europe/Luxembourg	2017-01-28
+2960545	Geyershaff	Geyershaff	Geyershaff,Geyershof,Geyershof (Bech)	49.76552	6.38754	P	PPLL	LU	LU	EC	02			0		345	Europe/Luxembourg	2017-10-02
+2960546	Geimer	Geimer		49.75	6	P	PPL	LU		ME	03			0		265	Europe/Luxembourg	2017-01-28
+2960547	Gebrannteboesch	Gebrannteboesch	Gebrannteboesch,Gebranntenbusch	49.67333	6.09583	V	FRST	LU		LU				0		362	Europe/Luxembourg	2017-02-04
+2960548	Gasperich	Gasperich	Gasperich	49.58556	6.12306	P	PPL	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+2960549	Garnich	Garnich	Garnech,Garnich	49.61667	5.9525	P	PPLA3	LU		CA	04			824		339	Europe/Luxembourg	2017-10-02
+2960550	Garbach	Garbach		49.6	6.4	H	STM	LU		GR				0		197	Europe/Luxembourg	2017-01-14
+2960551	Gantenbeinmühle	Gantenbeinmuehle		49.6	6.16667	P	PPL	LU		LU	03			0		311	Europe/Luxembourg	2017-01-28
+2960552	Gaalgebierg	Gaalgebierg	Gaalgebierg,Galgenberg	49.48389	5.98611	T	MT	LU	LU	ES	04			0		403	Europe/Luxembourg	2017-01-28
+2960553	Gaschmillen	Gaschmillen	Gaaschtmuhle,Gaaschtmühle,Gaschmillen,Gaschtgrund,Gaschtmuhle	49.6325	6.0475	S	ML	LU	LU	LU	08			0		300	Europe/Luxembourg	2017-01-28
+2960554	Fronay	Fronay	Ferme Fronay,Fronay,Fronayhof	49.66667	6.41667	P	PPL	LU		GR	04			0		262	Europe/Luxembourg	2017-01-28
+2960555	Frombourg	Frombourg	Ferme Fromburg,Frombourg,Fromburg,Fromburgerhof	49.77361	6.40861	S	FRM	LU	LU	EC	07			0		311	Europe/Luxembourg	2017-01-28
+2960556	Frisange	Frisange	Freiseng,Frisange,Fréiseng	49.51616	6.18858	P	PPLA3	LU		ES	05			1355		255	Europe/Luxembourg	2017-10-02
+2960557	Friemholz	Friemholz		49.80306	6.36833	V	FRST	LU		EC				0		323	Europe/Luxembourg	2017-02-04
+2960558	Fridhaff	Fridhaff	Fridhaff,Friedhof	49.89111	6.13611	S	FRM	LU	LU	DI	04			0		352	Europe/Luxembourg	2017-01-28
+2960559	Fridboesch	Fridboesch	Fridboesch,Friedbusch	49.88389	6.125	V	FRST	LU		DI				0		344	Europe/Luxembourg	2017-02-04
+2960560	Fraesbech	Fraesbech	Fraesbech,Fresbach	49.76417	5.87972	H	STM	LU		RD				0		265	Europe/Luxembourg	2017-02-04
+2960561	Fouhren	Fouhren	Fouhren	49.91556	6.19611	P	PPL	LU		VD	01			380		300	Europe/Luxembourg	2017-10-02
+2960562	Heischtergronn	Heischtergronn	Fond de Heiderscheid,Heiderscheidergrund,Heischtergronn	49.90188	5.96008	P	PPL	LU	LU	WI	02			0		295	Europe/Luxembourg	2017-10-02
+2960563	Folschette	Folschette	Folschette	49.81417	5.87472	P	PPL	LU		RD	06			289		414	Europe/Luxembourg	2017-10-02
+2960564	Folkendange	Folkendange	Ferme Folkendange,Folkendange	49.84306	6.20417	P	PPL	LU		DI	8641526			21		308	Europe/Luxembourg	2017-10-02
+2960565	Foetz	Foetz	Foetz	49.52944	6.01083	P	PPLL	LU		ES	08			483		299	Europe/Luxembourg	2017-10-02
+2960566	Flickenhaff	Flickenhaff	Flickenhaff,Flickenhof	49.81	6.27333	S	FRM	LU	LU	EC	08			0		384	Europe/Luxembourg	2017-01-28
+2960567	Fleibur	Fleibur	Flebour,Fleibur	49.89917	5.81278	P	PPLL	LU	LU	WI	01			0		459	Europe/Luxembourg	2017-01-28
+2960568	Flaxweiler	Flaxweiler	Flaxweiler,Fluessweller	49.66602	6.34321	P	PPLA3	LU		GR	03			358		260	Europe/Luxembourg	2017-10-02
+2960569	Flatzbour	Flatzbour	Flatzbour,Flatzbourg,Flatzbourhof,Flazbourg	49.83488	5.78766	P	PPLL	LU	LU	RD	06			0		507	Europe/Luxembourg	2017-10-02
+2960570	Fischbach	Fischbach	Fischbach,Fischbach-les-Clervaux,Fischbach-lès-Clervaux	50.07528	6.06889	P	PPL	LU		CL	03			114		517	Europe/Luxembourg	2017-10-02
+2960571	Fischbach	Fischbach	Fischbach	49.746	6.18702	P	PPLA3	LU		ME	04			184		317	Europe/Luxembourg	2017-10-02
+2960572	Fënsterdall	Fensterdall	Fensterdall,Finsterthal,Fënsterdall	49.75295	6.03583	P	PPLL	LU	LU	ME	09			0		311	Europe/Luxembourg	2017-10-02
+2960573	Fingig	Fingig	Fingig	49.60361	5.90083	P	PPL	LU		CA	8641865			329		354	Europe/Luxembourg	2017-10-02
+2960574	Findelserhaff	Findelserhaff	Ferme Findels,Findelserhaff,Findelshof	49.59444	6.03333	S	FRM	LU	LU	LU	01			0		303	Europe/Luxembourg	2017-01-28
+2960575	Findel	Findel	Findel	49.62456	6.1756	P	PPL	LU		LU	05			105		322	Europe/Luxembourg	2017-10-02
+2960576	Filsdorf	Filsdorf	Filsdorf	49.5325	6.24833	P	PPL	LU		RM	02			371		288	Europe/Luxembourg	2017-10-02
+2960577	Niederfeulen	Niederfeulen	Feulen,Neiderfeulen,Niederfeulen	49.85556	6.04722	P	PPLA3	LU		DI	08			1125		293	Europe/Luxembourg	2017-10-02
+2960578	Ferme Thibesart	Ferme Thibesart		49.81667	6.11667	P	PPL	LU		DI	13			0		330	Europe/Luxembourg	2017-01-28
+2960579	Ferme Grossenbour	Ferme Grossenbour		49.88333	6.16667	P	PPL	LU		VD	01			0		323	Europe/Luxembourg	2017-01-28
+2960580	Ferme Fuhrman	Ferme Fuhrman	Ferme Fahrman,Ferme Fuhrman	49.93333	5.8	P	PPL	LU		WI	05			0		442	Europe/Luxembourg	2017-01-28
+2960581	Ferme du Flamand	Ferme du Flamand		50.15	6.05	P	PPL	LU		CL	10			0		503	Europe/Luxembourg	2017-01-28
+2960582	Vesquenhaff	Vesquenhaff	Ferme Vesque,Ferme de Vesque,Festenhof,Vesquehof,Vesquenhaff,Westenhof	49.51111	5.87389	P	PPL	LU		ES	02			0		412	Europe/Luxembourg	2017-01-28
+2960583	Roudenhaff	Roudenhaff	Airsain,Ferme Airsain,Ferme Rouge,Rodenhof,Roudenhaff	49.53111	5.84722	P	PPLL	LU	LU	ES	09			0		392	Europe/Luxembourg	2017-01-28
+2960584	Fentange	Fentange	Fentange	49.56278	6.15389	P	PPL	LU		LU	03			1302		263	Europe/Luxembourg	2017-10-02
+2960585	Fennbierg	Fennbierg	Auf der Hohe,Auf der Höhe,Fennberg,Fennbierg,Pfennberg	50.01278	6.09139	P	PPLL	LU	LU	CL	63			0		498	Europe/Luxembourg	2017-01-28
+2960586	Fennange	Fennange	Fennange	49.51972	6.07833	P	PPL	LU		ES	01			293		283	Europe/Luxembourg	2017-10-02
+2960587	Fielsmillen	Fielsmillen	Felsmuhle,Felsmühle,Fielsmillen,Follmuhle	49.81028	6.40556	S	ML	LU	LU	EC	05			0		290	Europe/Luxembourg	2017-01-28
+2960588	Everlange	Everlange	Everlange	49.77417	5.95556	P	PPL	LU		RD	11			370		249	Europe/Luxembourg	2017-10-02
+2960589	Ettelbruck	Ettelbruck	Ehtehl'bruk,Ehttel'brjuk,Etelbrek,Etelbriukas,Ettel'brjuk,Ettelbreck,Ettelbruck,Ettelbrueck,Ettelbréck,Ettelbrück,Ettlebruk,Gemeng Ettelbreck,Gemeng Ettelbréck,atl brwk,aytlbrwk,Етелбрек,Еттельбрюк,Эттельбрюк,Этэльбрук,إيتلبروك,اتل بروک,ایٹل برک	49.8475	6.10417	P	PPLA3	LU		DI	07			6364		199	Europe/Luxembourg	2019-02-26
+2960590	Ettelbruck	Ettelbruck	Ettelbreck,Ettelbruck,Ettelbréck,Ettelbrück,Gemeinde Ettelbruck,Gemeinde Ettelbrück,Stad Ettelbreck,Stad Ettelbréck,Ville d'Ettelbruck,Ville d’Ettelbruck	49.84565	6.08137	A	ADM2	LU		DI	07			0		264	Europe/Luxembourg	2017-01-14
+2960591	Essingen	Essingen	Essingen	49.77889	6.11667	P	PPLL	LU		ME	09			18		213	Europe/Luxembourg	2017-10-04
+2960592	Eselborn	Eselborn	Eselborn	50.06278	6.00361	P	PPL	LU		CL	03			337		486	Europe/Luxembourg	2017-10-02
+2960593	Eschweiler	Eschweiler	Eschweiler,Eschweiler-les-Rodenbourg,Eschweiler-lès-Rodenbourg	49.71749	6.31016	P	PPL	LU		GR	05			118		284	Europe/Luxembourg	2017-10-02
+2960594	Eschweiler	Eschweiler	Eschweiler	49.99778	5.94889	P	PPL	LU		WI	11			205		433	Europe/Luxembourg	2017-10-02
+2960595	Esch-sur-Sûre	Esch-sur-Sure	Ehsh-sjur-Sjur,Escch-sur-Sure,Esch,Esch-Sauer,Esch-sur-Sure,Esch-sur-Sûre,Esh-sjur-Sur,Gemeng Esch-Sauer,ash-swr-swr,Еш-сюр-Сур,Эш-сюр-Сюр,اش-سور-سور	49.91139	5.93639	P	PPLA3	LU		WI	02			333		282	Europe/Luxembourg	2017-10-02
+2960596	Esch-sur-Alzette	Esch-sur-Alzette	Ehsh-sjur-Al'zet,Ehsh-sjur-Al'zett,Ehsh-sjur-Alzette,Es-syr-Alzet,Esas prie Alzeto,Esch,Esch an der Alzette,Esch-Uelzecht,Esch-an-der-Alzette,Esch-an-der-Alzig,Esch-sur-Alzette,Esh sir Alzet,Esh-sjur-Al'zett,Ešas prie Alzeto,a er ze te he pan ai shi,ash-swr-alzt,eshu=shuru=aruzetto,esyuswileualjeteu,Ες-συρ-Αλζέτ,Еш сир Алзет,Еш-сюр-Альзетт,Эш-сюр-Алзетте,Эш-сюр-Альзет,Эш-сюр-Альзетт,اش-سور-الزت,エシュ＝シュル＝アルゼット,阿尔泽特河畔埃施,에슈쉬르알제트	49.49583	5.98056	P	PPLA2	LU		ES	04			28228		295	Europe/Luxembourg	2017-10-02
+2960597	Eschette	Eschette	Eschette	49.82306	5.88833	P	PPL	LU		RD	06			34		430	Europe/Luxembourg	2017-10-02
+2960598	Eschdorf	Eschdorf	Eschdorf	49.8859	5.93421	P	PPL	LU		WI	02			433		498	Europe/Luxembourg	2017-10-02
+2960599	Canton d'Esch-sur-Alzette	Canton d'Esch-sur-Alzette	Esch,Esch-sur-Alzette	49.5	6.03333	A	ADM1	LU	LU	ES				0		341	Europe/Luxembourg	2017-01-26
+2960600	Ersange	Ersange	Ersange	49.57444	6.27556	P	PPL	LU		RM	08			0		216	Europe/Luxembourg	2017-10-02
+2960601	Erpeldange	Erpeldange	Erpeldange,Erpeldange-sur-Sure,Erpeldange-sur-Sûre	49.86472	6.11472	P	PPLA3	LU		DI	06			845		207	Europe/Luxembourg	2017-10-02
+2960602	Erpeldange	Erpeldange	Erpeldange,Erpeldange (Bous),Erpeldange-lez-Bous	49.54444	6.3275	P	PPL	LU		RM	00			359		179	Europe/Luxembourg	2017-10-02
+2960603	Erpeldange	Erpeldange	Erpeldange,Erpeldange-les-Wiltz,Erpeldange-lès-Wiltz	49.97806	5.94861	P	PPL	LU		WI	11			202		339	Europe/Luxembourg	2017-10-02
+2960604	Ernz Noire	Ernz Noire	Ernz Noire,Schwarz Erntz	49.83639	6.33139	H	STM	LU		EC				0		173	Europe/Luxembourg	2017-01-14
+2960605	Ernzen	Ernzen	Ernzen	49.77253	6.22118	P	PPL	LU		ME	06			398		287	Europe/Luxembourg	2017-10-02
+2960606	Ernz Blanche	Ernz Blanche	Ernz Blanche,Weisse Ernz	49.87	6.2675	H	STM	LU		DI				0		180	Europe/Luxembourg	2017-01-14
+2960607	Ernster	Ernster	Ernster	49.67901	6.24822	P	PPL	LU		LU	04			350		327	Europe/Luxembourg	2017-10-02
+2960608	Ermsdorf	Ermsdorf	Ermsdorf	49.82944	6.22278	P	PPL	LU		DI	8641526			228		247	Europe/Luxembourg	2017-10-02
+2960609	Eppeldorf	Eppeldorf	Eppeldorf	49.84444	6.24972	P	PPL	LU		DI	8641526			181		284	Europe/Luxembourg	2017-10-02
+2960610	Enscherange	Enscherange	Enscherange	49.99944	5.99278	P	PPL	LU		WI	8641289			174		308	Europe/Luxembourg	2017-10-02
+2960611	Emerange	Emerange	Emerange	49.48694	6.29167	P	PPL	LU		RM	05			99		175	Europe/Luxembourg	2017-10-04
+2960612	Elvange	Elvange	Elvange,Elvange-les-Beckerich,Elvange-lès-Beckerich	49.72472	5.91778	P	PPL	LU		RD	02			96		281	Europe/Luxembourg	2017-10-02
+2960613	Elvange	Elvange	Elvange,Elvange-les-Burmerange,Elvange-lès-Burmerange,Elveng,Elvingen	49.50528	6.31639	P	PPL	LU		RM	05			713		263	Europe/Luxembourg	2017-10-02
+2960614	Eltz	Eltz	Els,Eltz,Kalkelz	49.77833	5.895	P	PPLL	LU		RD	09			34		330	Europe/Luxembourg	2017-10-02
+2960615	Ellange	Ellange	Ellange	49.52	6.29833	P	PPL	LU		RM	04			299		223	Europe/Luxembourg	2017-10-02
+2960616	Ell	Ell	Ell	49.76389	5.85722	P	PPLA3	LU		RD	05			359		281	Europe/Luxembourg	2017-10-02
+2960617	Eisenborn	Eisenborn	Eisenborn	49.69138	6.18363	P	PPL	LU		GR	05			170		313	Europe/Luxembourg	2017-10-02
+2960618	Eischen	Eischen	Eischen	49.68556	5.87861	P	PPL	LU		CA	05			1559		298	Europe/Luxembourg	2017-10-02
+2960619	Eischbaach	Eischbaach	Eisch,Eischbaach,Eischbach	49.7725	6.01194	H	STM	LU		ME				0		248	Europe/Luxembourg	2017-01-14
+2960621	Aechelbour	Aechelbour	Aechelbour,Eichelbour,Ferme Eichelborn	49.79444	6.18806	S	FRM	LU	LU	ME	06			0		420	Europe/Luxembourg	2017-01-28
+2960622	Eich	Eich	Eich	49.62889	6.13194	P	PPLX	LU		LU	2960317			0		245	Europe/Luxembourg	2017-01-28
+2960623	Aessen	Aessen	Aessen,Bois Ehssen	49.73306	6.45111	V	FRST	LU		GR				0		302	Europe/Luxembourg	2017-02-04
+2960624	Ehner	Ehner	Ehner	49.7175	5.95	P	PPLL	LU		RD	10			13		288	Europe/Luxembourg	2017-10-04
+2960625	Ehnen	Ehnen	Ehnen,Ennen,Ihnen	49.60155	6.38664	P	PPL	LU		GR	09			531		191	Europe/Luxembourg	2019-04-27
+2960626	Éimeschbaach	Eimeschbaach	Dehmeschbach,Ehmeschbach,Ehmeschhof,Eimeschbaach,Emeschbach,Emeschterhof,Éimeschbaach	50.09361	5.95667	P	PPLL	LU	LU	CL	01			0		434	Europe/Luxembourg	2017-01-28
+2960627	Ehlerange	Ehlerange	Ehlerange	49.52417	5.96611	P	PPL	LU		ES	13			756		298	Europe/Luxembourg	2017-10-02
+2960628	Ehlange	Ehlange	Ehlange	49.54889	6.01694	P	PPL	LU		ES	10			429		312	Europe/Luxembourg	2017-10-02
+2960629	Canton d'Echternach	Canton d'Echternach	Canton d'Echternach,Echternach,Iechternach,Kanton Echternach,Kanton Iechternach	49.78872	6.39024	A	ADM1	LU		EC				0		317	Europe/Luxembourg	2017-01-26
+2960630	Echternach	Echternach	Echternach,Echternachas,Echternak,Ehkhtehrnakh,Ehkhternakh,Ekhternakh,Iechternach,akhtrnakh,ashtrnakh,ehitanaha,ehiteonaheu,Ехтернах,Эхтернах,Эхтэрнах,اخترناخ,اشترناخ,ეხტერნახი,エヒタナハ,에히터나흐	49.81212	6.41846	P	PPLA2	LU		EC	05			4787		168	Europe/Luxembourg	2017-10-02
+2960631	Echternach	Echternach		49.81307	6.42185	A	ADM2	LU		EC	05			0		168	Europe/Luxembourg	2017-01-14
+2960632	Dudelange-Usines	Dudelange-Usines	Dudelange-Usines	49.4728	6.07935	S	RSTN	LU		ES	03			0		295	Europe/Luxembourg	2017-01-28
+2960634	Dudelange	Dudelange	Diddeleng,Didelanzh,Diudelanzas,Diudelanžas,Djudelanzh,Dudelange,Dudelingen,Duedelingen,Dzjudzelanzh,Düdelingen,Gemeng Diddeleng,dwdlanzh,Дзюдзеланж,Диделанж,Дюделанж,دودلانژ	49.48056	6.0875	P	PPLA3	LU		ES	03			18013		295	Europe/Luxembourg	2019-02-26
+2960635	Dudelange	Dudelange	Diddeleng,Dudelange,Dudelingen,Düdelingen,Gemeinde Dudelingen,Gemeinde Düdelingen,Gemeng Diddeleng,Ville de Dudelange	49.48084	6.08773	A	ADM2	LU		ES	03			0		295	Europe/Luxembourg	2017-01-14
+2960636	Drinklange	Drinklange	Drinckelt,Drinckler,Drinklange	50.13361	6.01917	P	PPL	LU		CL	09			124		498	Europe/Luxembourg	2017-10-02
+2960637	Dreiborn	Dreiborn	Chateau Dreiborn,Dreiborn	49.61722	6.39389	P	PPLL	LU	LU	GR	09			0		246	Europe/Luxembourg	2017-01-28
+2960638	Drauffelt	Drauffelt	Drauffelt	50.01778	6.00611	P	PPL	LU		CL	03			143		327	Europe/Luxembourg	2017-10-02
+2960639	Dosterterhaff	Dosterterhaff	Dosterhof,Dosterterhaff,Dosterterhof,Ferme Doster	49.79278	6.32778	S	FRM	LU	LU	EC	04			0		329	Europe/Luxembourg	2017-01-28
+2960640	Dorscheiderhaischen	Dorscheiderhaischen	Dorscheiderhaeuschen,Dorscheiderhaischen,Dorscheiderhauschen,Dorscheiderhäuschen	50.03917	6.07972	P	PPLL	LU	LU	CL	63			0		499	Europe/Luxembourg	2017-01-28
+2960641	Dorscheid	Dorscheid	Dorscheid	50.03611	6.07139	P	PPL	LU		CL	63			90		490	Europe/Luxembourg	2017-10-04
+2960642	Donwenerbaach	Donwenerbaach	Donverbach,Donwenerbaach	49.6276	6.42237	H	STM	LU	LU	GR	09			0		142	Europe/Luxembourg	2017-06-15
+2960643	Doennange	Doennange	Doeningen,Doennange,Donnange,Donningen,Dönningen	50.06222	5.95583	P	PPL	LU		CL	01			146		454	Europe/Luxembourg	2017-10-02
+2960644	Doncols	Doncols	Doncols	49.97	5.83722	P	PPL	LU		WI	13			232		466	Europe/Luxembourg	2017-10-02
+2960645	Dommeldange	Dommeldange	Dommeldange,Dommeldingen,Dummeldeng	49.63411	6.13864	P	PPL	LU		LU	2960317			0		300	Europe/Luxembourg	2019-03-26
+2960646	Dirbach	Dirbach		49.91667	5.91667	H	STM	LU		WI				0		402	Europe/Luxembourg	2017-01-14
+2960647	Dirbach	Dirbach	Derbach,Dierbach,Dirbach,Dirbach (Goesdorf)	49.92111	6.03833	P	PPL	LU	LU	WI	04			0		259	Europe/Luxembourg	2017-10-02
+2960648	Dippach	Dippach	Dippach	49.58701	5.9833	P	PPLA3	LU		CA	03			808		361	Europe/Luxembourg	2017-10-02
+2960649	Dillingen	Dillingen	Diligen,Dillingen	49.85361	6.31917	P	PPL	LU		EC	01			159		178	Europe/Luxembourg	2017-10-02
+2960650	Diggel	Diggel	Dideling,Diggel	49.72611	5.84111	P	PPLL	LU	LU	RD	02			0		301	Europe/Luxembourg	2017-01-28
+2960651	Differdange	Differdange	Deifferdeng,Diferdanzas,Diferdanžas,Differdange,Differdanzh,Differdingen,Dziferdanzh,Déifferdeng,Gemeng Deifferdeng,Gemeng Déifferdeng,di fu dang ri,dyfrdanzh,Дзіферданж,Дифферданж,Діфферданж,دیفردانژ,迪弗當日	49.52417	5.89139	P	PPLA3	LU		ES	02			5296		304	Europe/Luxembourg	2017-10-02
+2960652	Differdange	Differdange	Deifferdang,Differdange,Differdingen,Déifferdang,Gemeinde Differdingen,Gemeng Deifferdang,Gemeng Déifferdang,Ville de Differdange	49.52167	5.88288	A	ADM2	LU		ES	02			0		315	Europe/Luxembourg	2017-01-14
+2960653	Dievelsbach	Dievelsbach		49.96667	5.9	H	STM	LU		WI				0		323	Europe/Luxembourg	2017-01-14
+2960654	Dirbaach	Dirbaach	Dierbach,Dirbaach	49.92056	5.85056	H	STM	LU		WI				0		380	Europe/Luxembourg	2017-02-04
+2960655	District de Diekirch	District de Diekirch	Diekirch,Dikrech,District de Diekirch,Distrikt Diekirch,Distrikt Dikrech	49.97777	6	A	ADM1H	LU		01				0		413	Europe/Luxembourg	2017-01-02
+2960656	Diekirch	Diekirch	Canton de Diekirch,Diekirch,Dikrech,Kanton Diekirch,Kanton Dikrech	49.86155	6.1475	A	ADM1	LU		DI				0		191	Europe/Luxembourg	2017-01-26
+2960657	Diekirch	Diekirch	Diekirch,Dikirkh,Dikrech,District de Diekirch,Dykirchas,Dzikirkh,di ji xi,dykyrsh,dyqyrk,Дзікірх,Дикирх,Дікірх,דיקירך,ديكيرش,دیکیرش,迪基希	49.86778	6.15583	P	PPLA	LU		DI	04			6242		195	Europe/Luxembourg	2019-02-26
+2960658	Diekirch	Diekirch	Diekirch,Dikrech,Dikrich,Gemeinde Diekirch,Stad Dikrech,Stad Dikrich,Ville de Diekirch	49.87279	6.14921	A	ADM2	LU		DI	04			0		273	Europe/Luxembourg	2017-01-14
+2960659	Dickweiler	Dickweiler	Dickweiler	49.7775	6.47222	P	PPL	LU		EC	07			111		314	Europe/Luxembourg	2017-10-02
+2960660	Derenbach	Derenbach	Derenbach	50.015	5.88972	P	PPL	LU		CL	01			287		491	Europe/Luxembourg	2017-10-02
+2960661	Dell	Dell	Dell,Delt	49.92361	6.09361	S	HSE	LU	LU	DI	03			0		430	Europe/Luxembourg	2017-01-28
+2960662	Dellen	Dellen	Dellen	49.85917	5.96139	P	PPL	LU		RD	07			0		462	Europe/Luxembourg	2017-10-02
+2960663	Deiffelt	Deiffelt	Deifelt,Deiffelt	50.06556	5.96389	P	PPL	LU	LU	CL	01			0		473	Europe/Luxembourg	2017-10-02
+2960664	Daundorf	Daundorf	Daundorf,Ferme Daundorf	49.5075	6.2875	P	PPLL	LU	LU	RM	04			0		204	Europe/Luxembourg	2017-01-28
+2960665	Dalheim	Dalheim	Dalheim	49.54083	6.25972	P	PPLA3	LU		RM	02			1364		309	Europe/Luxembourg	2017-10-02
+2960666	Dahlem	Dahlem	Dahlem	49.60222	5.94833	P	PPL	LU		CA	04			389		343	Europe/Luxembourg	2017-10-04
+2960667	Dahl	Dahl	Dahl	49.93528	5.97583	P	PPL	LU		WI	04			246		486	Europe/Luxembourg	2017-10-02
+2960668	Cruchten	Cruchten	Cruchten,Kruchten	49.79908	6.13235	P	PPL	LU		ME	10			404		231	Europe/Luxembourg	2017-10-02
+2960669	Kréintgeshaff	Kreintgeshaff	Croentgeshof,Kreintgeshaff,Kroentgeshof,Krontgeshof,Kréintgeshaff,Kröntgeshof	49.60028	6.23278	S	FRM	LU	LU	LU	02			0		330	Europe/Luxembourg	2017-01-28
+2960670	Krékelsbierg	Krekelsbierg	Krekelsbierg,Krekelsburg,Krékelsbierg,Mont Crequi	49.63306	6.29556	T	HLL	LU		LU	06			0		305	Europe/Luxembourg	2017-01-28
+2960671	Crendal	Crendal	Crendal	50.05778	5.89806	P	PPL	LU		CL	01			10		460	Europe/Luxembourg	2017-10-04
+2960672	Crauthem	Crauthem	Crauthem,Krauthem	49.53556	6.14694	P	PPL	LU		ES	11			1278		275	Europe/Luxembourg	2017-10-02
+2960673	Contern	Contern	Contern	49.58194	6.22667	P	PPLA3	LU		LU	02			1083		333	Europe/Luxembourg	2017-10-02
+2960674	Consthum	Consthum	Consthum,Konsthum	49.97472	6.05417	P	PPL	LU		CL	63			207		497	Europe/Luxembourg	2017-10-02
+2960675	Consdorf	Consdorf	Consdorf,Kalkesbach (Consdorf)	49.78018	6.3395	P	PPLA3	LU		EC	04			1241		335	Europe/Luxembourg	2017-10-02
+2960676	Colpach-Haut	Colpach-Haut	Colpach-Haut,Haut-Colpach,Obercolpach	49.76861	5.82	P	PPL	LU		RD	05			152		305	Europe/Luxembourg	2017-10-02
+2960677	Colpach-Bas	Colpach-Bas	Bas-Colpach,Colpach-Bas,Niedercolpach	49.75833	5.82694	P	PPL	LU		RD	05			110		298	Europe/Luxembourg	2017-10-02
+2960678	Bierbaach	Bierbaach	Bierbaach,Colpach,Koulbich Ruisseau	49.75139	5.82889	H	STM	LU		RD				0		279	Europe/Luxembourg	2017-02-04
+2960679	Colmarberg	Colmarberg	Colmarberg,Colmarburg,Station Colmarberg	49.81473	6.10263	S	RSTN	LU		DI	13			0		211	Europe/Luxembourg	2017-09-30
+2960680	Colmar	Colmar	Colmar,Colmar-Berg	49.81028	6.09722	P	PPLX	LU		ME	01			1776		237	Europe/Luxembourg	2017-10-04
+2960681	Colbette	Colbette	Colbet,Colbette	49.76843	6.30285	P	PPL	LU	LU	EC	04			0		342	Europe/Luxembourg	2017-10-02
+2960682	Closdelt	Closdelt	Cloosdellt,Closdelt,Kloosdellt,Klosdelt	49.90222	6.12417	S	FRM	LU	LU	DI	03			0		404	Europe/Luxembourg	2017-01-28
+2960683	Clervaux	Clervaux	Canton de Clervaux,Clerf,Clervaux,Kanton Clerf,Kanton Klierf,Klierf	50.07852	6.02236	A	ADM1	LU		CL				13237		398	Europe/Luxembourg	2017-01-26
+2960684	Clervaux	Clervaux	Clerf,Clervaux,Cliarref,Cliärref,Gemeng Klierf,Kamuna Klervo,Klerf,Klervo,Klierf,klrww,Камуна Клерво,Клерво,کلروو	50.05472	6.03139	P	PPLA2	LU		CL	03			1103		364	Europe/Luxembourg	2017-10-02
+2960685	Clerve	Clerve	Clerf,Clerve,Clierf	49.95222	6.01861	H	STM	LU		WI				0		257	Europe/Luxembourg	2017-02-04
+2960686	Clemenshaff	Clemenshaff	Clemenshaff,Clemenshof,Jungenbuschhof	49.84444	6.16111	S	FRM	LU	LU	DI	02			0		317	Europe/Luxembourg	2017-01-28
+2960687	Clemency	Clemency	Clemency,Kuentzig,Kuntzig,Küntzig	49.59667	5.87583	P	PPL	LU		CA	8641865			1821		334	Europe/Luxembourg	2017-10-02
+2960688	Clausen	Clausen	Clausen	49.61313	6.14278	P	PPLX	LU		LU	2960317			0		307	Europe/Luxembourg	2019-03-26
+2960689	Clairefontaine	Clairefontaine	Claire,Clairefontaine,Clairefontaines	49.86667	6.18333	P	PPL	LU		DI	02			0		191	Europe/Luxembourg	2017-01-28
+2960690	Cinqfontaines	Cinqfontaines	Cinqfontaines,Funfbrunnen,Fünfbrunnen,Paffenmuhle,Paffenmühle	50.10722	6.00778	P	PPL	LU		CL	01			13		413	Europe/Luxembourg	2017-10-02
+2960691	Christnach	Christnach	Christnach	49.78805	6.27337	P	PPL	LU		EC	08			394		312	Europe/Luxembourg	2017-10-02
+2960692	Château Faubourg	Chateau Faubourg	Chateau,Chateau Faubourg,Château Faubourg,Faubourg	49.93333	6.21667	P	PPL	LU	LU	VD	03			0		220	Europe/Luxembourg	2017-01-28
+2960693	Schuttburg Château	Schuttburg Chateau	Chateau de Schuttbourg,Château de Schuttbourg,Schuttburg Chateau,Schuttburg Château	49.96528	6.02778	S	CSTL	LU	LU	CL	63			0		327	Europe/Luxembourg	2017-01-28
+2960694	Cessange	Cessange	Cessange,Cessingen	49.58944	6.10694	P	PPL	LU	LU	LU	2960317			0		278	Europe/Luxembourg	2017-01-28
+2960695	Carelshaff	Carelshaff	Carelshaff,Carelshof,Carlshof	49.83	6.06417	S	FRM	LU	LU	ME	01			0		361	Europe/Luxembourg	2017-01-28
+2960696	Capellen	Capellen	Canton de Capellen,Capellen,Kanton Capellen,Kanton Kapellen,Kapellen	49.63678	5.97031	A	ADM1	LU		CA				37873		311	Europe/Luxembourg	2017-01-26
+2960697	Capellen	Capellen	Capellen,Kapellen	49.645	5.99083	P	PPLA2	LU		CA	09			1330		316	Europe/Luxembourg	2017-10-02
+2960698	Cap	Cap	Cap,Kap	49.64444	5.98444	P	PPL	LU	LU	CA	09			0		322	Europe/Luxembourg	2017-01-28
+2960699	Canach	Canach	Canach	49.60694	6.32583	P	PPL	LU		RM	03			955		263	Europe/Luxembourg	2017-10-02
+2960700	Calmus	Calmus	Calmus	49.72556	5.96444	P	PPL	LU		RD	10			76		283	Europe/Luxembourg	2017-10-04
+2960701	Buergplaz	Buergplaz	Bourgplatz,Buurgplaatz,Buurgplaaz	50.16222	6.02333	T	HLL	LU		CL	09			0	559	554	Europe/Luxembourg	2017-01-28
+2960702	Buschrodt	Buschrodt	Buschrodt	49.82722	5.93583	P	PPL	LU		RD	13			118		383	Europe/Luxembourg	2017-10-02
+2960703	Buschdorf	Buschdorf	Buschdorf	49.75083	6.00833	P	PPL	LU		ME	03			387		269	Europe/Luxembourg	2017-10-02
+2960704	Burmerange	Burmerange	Burmerange	49.48528	6.32306	P	PPL	LU		RM	05			191		226	Europe/Luxembourg	2017-10-02
+2960705	Buurgfried	Buurgfried	Bourgfried,Burgfried,Buurgfried	49.90083	5.85861	P	PPLL	LU	LU	WI	02			0		329	Europe/Luxembourg	2017-01-28
+2960706	Burden	Burden	Burden	49.87987	6.08943	P	PPL	LU		DI	06			450		390	Europe/Luxembourg	2017-10-02
+2960707	Burange	Burange	Burange	49.49111	6.0925	P	PPL	LU		ES	03			0		280	Europe/Luxembourg	2017-01-28
+2960708	Buderscheid	Buderscheid	Bitscht,Buderscheid,Buederscheid,Büderscheid	49.93426	5.93815	P	PPL	LU		WI	04			126		359	Europe/Luxembourg	2017-10-02
+2960709	Budersberg	Budersberg	Budersberg	49.49278	6.06944	P	PPL	LU		ES	03			0		313	Europe/Luxembourg	2017-01-28
+2960710	Buchholz	Buchholz		49.65833	6.36472	P	PPL	LU		GR	03			0		279	Europe/Luxembourg	2017-01-28
+2960711	Buchholz	Buchholz		49.7	6.08333	V	FRST	LU		ME				0		318	Europe/Luxembourg	2017-01-14
+2960712	Buchholz	Buchholz		49.58806	6.15972	V	FRST	LU		LU				0		324	Europe/Luxembourg	2017-02-04
+2960713	Buchholz	Buchholz	Buchholtz,Buchholz	49.5625	6.255	V	FRST	LU		RM				0		382	Europe/Luxembourg	2017-01-14
+2960714	Bicherhaff	Bicherhaff	Bicherhaff,Bucherhof,Bücherhof	49.58694	6.31694	S	FRM	LU	LU	RM	07			0		277	Europe/Luxembourg	2017-01-28
+2960715	Brill	Brill	Brill,Bruhl	49.98167	5.90611	P	PPLL	LU	LU	WI	13			0		451	Europe/Luxembourg	2017-01-28
+2960716	Brücherhaff	Bruecherhaff	Brucherhaff,Brucherhof,Brücherhaff,Brücherhof	49.83639	6.20111	S	FRM	LU		DI	8641526			0		302	Europe/Luxembourg	2017-02-04
+2960717	Brouch	Brouch	Brouch,Brouch (Wecker),Brouch-les-Biwer,Brouch-lès-Biwer,Bruch	49.7289	6.33838	P	PPL	LU		GR	02			52		268	Europe/Luxembourg	2017-10-02
+2960718	Brouch	Brouch	Brouch	49.73611	6.02306	P	PPL	LU		ME	03			676		307	Europe/Luxembourg	2017-10-02
+2960719	Broderbour	Broderbour	Broderbour,Seinkaul	49.85306	6.18722	P	PPLL	LU	LU	DI	02			0		313	Europe/Luxembourg	2017-01-28
+2960720	Bridel	Bridel	Bridel	49.65579	6.07999	P	PPL	LU		CA	08			2404		356	Europe/Luxembourg	2017-10-02
+2960721	Breinert	Breinert		49.7119	6.3422	P	PPLL	LU		GR	02			50		272	Europe/Luxembourg	2017-10-02
+2960722	Breidweiler	Breidweiler	Breidweiler,Breitweiler	49.77766	6.30332	P	PPL	LU		EC	04			99		344	Europe/Luxembourg	2017-10-02
+2960723	Breidfeld	Breidfeld	Breidfeld	50.12417	6.06361	P	PPL	LU		CL	10			49		453	Europe/Luxembourg	2017-10-04
+2960724	Breschterbaach	Breschterbaach	Brechterbach,Breschterbaach	49.81167	5.92056	H	STM	LU		RD				0		318	Europe/Luxembourg	2017-02-04
+2960725	Brattert	Brattert	Brattert	49.85556	5.90361	P	PPL	LU		RD	13			0		488	Europe/Luxembourg	2017-10-04
+2960726	Braneboesch	Braneboesch	Braneboesch,Branenbusch	49.59389	6.34028	V	FRST	LU		RM				0		286	Europe/Luxembourg	2017-02-04
+2960727	Brandenbourg	Brandenbourg	Brandenbourg	49.91141	6.1384	P	PPL	LU		VD	01			193		273	Europe/Luxembourg	2017-10-02
+2960728	Brameschhaff	Brameschhaff	Brameschhaff,Brameschhof	49.65667	6.04972	P	PPLL	LU	LU	CA	06			0		337	Europe/Luxembourg	2017-01-28
+2960729	Brakels	Brakels		50.06667	5.91667	H	STM	LU		CL				0		475	Europe/Luxembourg	2017-01-14
+2960730	Brachtenbach	Brachtenbach	Brachtenbach	50.02139	5.91139	P	PPL	LU		CL	01			159		483	Europe/Luxembourg	2017-10-02
+2960731	Boxhorn	Boxhorn	Boxhorn	50.08389	5.9925	P	PPL	LU		CL	01			259		479	Europe/Luxembourg	2017-10-02
+2960732	Bous	Bous	Bous	49.55389	6.32917	P	PPLA3	LU		RM	00			560		155	Europe/Luxembourg	2017-10-02
+2960733	Boursdorf	Boursdorf	Boursdorf,Busschdorf	49.75806	6.47861	P	PPL	LU		EC	06			22		332	Europe/Luxembourg	2017-10-02
+2960734	Bourscheid	Bourscheid	Bourscheid,Bourscheid-Plage,Burscheid	49.90862	6.0675	P	PPLA3	LU		DI	03			275		442	Europe/Luxembourg	2017-10-02
+2960735	Bourglinster	Bourglinster	Bourglinster	49.70306	6.21725	P	PPL	LU		GR	05			680		336	Europe/Luxembourg	2017-10-02
+2960736	Bour	Bour	Bour	49.70139	6.01889	P	PPL	LU		ME	11			67		291	Europe/Luxembourg	2017-10-02
+2960737	Boulaide	Boulaide	Bauschleiden,Boulaide	49.88778	5.81639	P	PPLA3	LU		WI	01			396		462	Europe/Luxembourg	2017-10-02
+2960738	Boudler	Boudler	Boudeler,Boudler	49.72276	6.35454	P	PPL	LU		GR	02			69		260	Europe/Luxembourg	2017-10-02
+2960739	Born	Born	Born	49.75928	6.51227	P	PPL	LU		EC	06			336		145	Europe/Luxembourg	2017-10-02
+2960740	Guttland	Guttland	Bon Pays,Gutland,Guttland,Pays Bon	49.7	6.16667	L	RGN	LU		ME				0		369	Europe/Luxembourg	2017-01-14
+2960741	Bonnevoie	Bonnevoie	Bonnevoie	49.59444	6.15	P	PPLX	LU		LU	2960317			0		305	Europe/Luxembourg	2017-01-28
+2960742	Bonnal	Bonnal	Bommel,Bonnal	49.90361	5.88806	P	PPL	LU	LU	WI	02			0		361	Europe/Luxembourg	2017-10-02
+2960743	Bombatsch	Bombatsch		50.05833	6.06639	P	PPLL	LU		CL	03			0		500	Europe/Luxembourg	2017-01-28
+2960744	Bohey	Bohey	Bohey,Bohoey	49.97417	5.84389	P	PPL	LU	LU	WI	13			0		476	Europe/Luxembourg	2017-01-28
+2960745	Boumillen	Boumillen	Bohmuhle,Bohmühle,Boumillen	49.61306	6.24917	S	ML	LU	LU	LU	06			0		317	Europe/Luxembourg	2017-01-28
+2960746	Bofferdange	Bofferdange	Bofferdange	49.69062	6.13998	P	PPL	LU		ME	08			802		226	Europe/Luxembourg	2017-10-02
+2960747	Boevange-sur-Attert	Boevange-sur-Attert	Boevange,Boevange-sur-Attert,Boewingen,Bovange,Bowen an der Attert	49.77256	6.01532	P	PPLA3	LU		ME	03			576		265	Europe/Luxembourg	2017-10-02
+2960748	Boevange	Boevange	Boegen,Boevange,Boevange-Clervaux,Boevange-les-Clervaux,Boevange-lès-Clervaux	50.04639	5.93417	P	PPL	LU		CL	01			125		442	Europe/Luxembourg	2017-10-02
+2960749	Bockmillen	Bockmillen	Bockenmuhl,Bockenmühl,Bockmillen,Bockmuhle,Bockmühle	50.09778	6.02167	S	ML	LU	LU	CL	10			0		393	Europe/Luxembourg	2017-01-28
+2960750	Bockholtz	Bockholtz	Bockholtz,Bockholz,Bockholz-les-Hosingen,Bockholz-lès-Hosingen	50.01222	6.05278	P	PPL	LU		CL	63			47		459	Europe/Luxembourg	2017-10-02
+2960751	Bockholtz	Bockholtz	Bockholtz,Bockholtz (Goesdorf),Bockholz-sur-Sure	49.92333	5.9975	P	PPL	LU		WI	04			60		305	Europe/Luxembourg	2017-10-02
+2960752	Blumenthal	Blumenthal	Blumenthal (Bech)	49.74492	6.26564	P	PPLL	LU		GR	05			0		289	Europe/Luxembourg	2017-10-02
+2960753	Blees	Blees	Blees,Blees Riviere,Blees Rivière	49.87194	6.19083	H	STM	LU		DI				0		188	Europe/Luxembourg	2017-02-04
+2960754	Blaschette	Blaschette	Blaschette	49.70279	6.16876	P	PPL	LU		ME	08			465		366	Europe/Luxembourg	2017-10-02
+2960755	Biwisch	Biwisch	Biwisch	50.11806	5.97917	P	PPL	LU		CL	09			103		438	Europe/Luxembourg	2017-10-04
+2960756	Bois de Biwer	Bois de Biwer		49.69917	6.33389	V	FRST	LU		GR				0		305	Europe/Luxembourg	2017-02-04
+2960757	Biwer	Biwer	Biwer,Biwerbach	49.70605	6.37201	P	PPLA3	LU		GR	02			653		232	Europe/Luxembourg	2017-10-02
+2960758	Bivels	Bivels	Bivels,Biwels	49.96028	6.19222	P	PPL	LU		VD	02			80		234	Europe/Luxembourg	2017-10-02
+2960759	Bissen	Bissen	Bissen	49.78733	6.0654	P	PPLA3	LU		ME	02			2547		221	Europe/Luxembourg	2019-02-28
+2960760	Bois Biischtert	Bois Biischtert	Bois Biischtert,Bois Bischtert	49.81389	6.0475	V	FRST	LU		ME				0		353	Europe/Luxembourg	2017-02-04
+2960761	Bischenrech	Bischenrech		50.08333	6	P	PPL	LU		CL	01			0		506	Europe/Luxembourg	2017-01-28
+2960762	Birtrange	Birtrange	Birtrange,Chateau de Birtrange	49.82694	6.09139	P	PPLL	LU	LU	DI	13			0		201	Europe/Luxembourg	2017-10-02
+2960763	Birel	Birel	Birel,Birelergrund,Birelerhof,Ferme Birel	49.61667	6.21667	P	PPL	LU		LU	05			0		353	Europe/Luxembourg	2017-01-28
+2960764	Bivange	Bivange	Bivange,Bivingen	49.54444	6.13778	P	PPL	LU		ES	11			617		266	Europe/Luxembourg	2017-10-02
+2960765	Binsfeld	Binsfeld	Binsfeld	50.11889	6.03861	P	PPL	LU		CL	10			235		464	Europe/Luxembourg	2017-10-02
+2960766	Bilsdorf	Bilsdorf	Bilsdorf	49.8575	5.825	P	PPL	LU		RD	06			121		447	Europe/Luxembourg	2017-10-02
+2960767	Béil	Beil	Beil,Bihl,Béil	49.75917	6.23972	P	PPLL	LU	LU	ME	05			0		366	Europe/Luxembourg	2017-01-28
+2960768	Moulin de Bigonville	Moulin de Bigonville	Bigonville Moulin,Moulin de Bigonville	49.87111	5.80083	S	ML	LU	LU	WI	01			0		330	Europe/Luxembourg	2017-01-28
+2960769	Bigonville	Bigonville	Bigonville,Bondorf	49.85167	5.79333	P	PPL	LU		RD	06			475		487	Europe/Luxembourg	2017-10-02
+2960770	Bigelbach	Bigelbach	Bigelbach	49.86028	6.28806	P	PPL	LU		DI	12			79		321	Europe/Luxembourg	2017-10-04
+2960771	Beyren	Beyren	Beyren	49.62639	6.33694	P	PPL	LU		GR	03			312		280	Europe/Luxembourg	2017-10-02
+2960772	Kaffishaff	Kaffishaff	Beyerholtz,Beyerholz,Beyerholzerhof,Ferme Beyerholz,Kaffeshof,Kaffishaff,Kafféshof	49.6125	6.305	S	FRM	LU	LU	RM	03			0		258	Europe/Luxembourg	2017-01-28
+2960773	Bézebierg	Bezebierg	Betzenberg,Bezebierg,Bézebierg	49.76306	6.23278	S	FRM	LU	LU	ME	05			0		338	Europe/Luxembourg	2017-01-28
+2960774	Betzdorf	Betzdorf	Betzdorf	49.68333	6.35	P	PPLA3	LU		GR	01			248		225	Europe/Luxembourg	2017-10-02
+2960775	Bettendorf	Bettendorf	Bettendorf,Bettenduerf	49.87667	6.21806	P	PPLA3	LU		DI	02			1072		188	Europe/Luxembourg	2017-10-02
+2960776	Bois de Bettembourg	Bois de Bettembourg	Bais de Bettembourg,Bois de Bettembourg	49.545	6.0825	V	FRST	LU		ES				0		339	Europe/Luxembourg	2017-02-04
+2960777	Bettembourg	Bettembourg	Beetebuerg,Betehmbur,Betemburas,Betembūras,Bettambur,Bettembourg,Bettemburg,Gemeng Beetebuerg,btmbwrg,Беттамбур,Беттембург,Бетэмбур,Բետտամբուր,بتمبورگ	49.51861	6.10278	P	PPLA3	LU		ES	01			7437		278	Europe/Luxembourg	2019-02-26
+2960778	Bettembourg	Bettembourg	Beetebuerg,Bettembourg,Bettemburg,Commune de Bettembourg,Gemeinde Bettemburg,Gemeng Beetebuerg	49.52345	6.08307	A	ADM2	LU		ES	01			0		275	Europe/Luxembourg	2017-01-14
+2960779	Bettel	Bettel	Bettel	49.91575	6.22693	P	PPL	LU		DI				223		212	Europe/Luxembourg	2017-10-02
+2960780	Bettborn	Bettborn	Bettborn	49.79528	5.94111	P	PPLA3	LU		RD	8641291			231		285	Europe/Luxembourg	2017-10-02
+2960781	Bettange-sur-Mess	Bettange-sur-Mess	Bettange,Bettange-sur-Mess,Bettange-sur-Messe	49.57583	5.98389	P	PPL	LU		CA	03			992		322	Europe/Luxembourg	2017-10-02
+2960782	Bertrange	Bertrange	Bertrange	49.61111	6.05	P	PPLA3	LU		LU	01			5615		287	Europe/Luxembourg	2019-02-27
+2960783	Bierschbaach	Bierschbaach	Berschbach,Bierschbaach,Riviere de Berschbach,Rivière de Berschbach	49.74528	6.11056	H	STM	LU		ME				0		217	Europe/Luxembourg	2017-02-04
+2960784	Berschbach	Berschbach	Berschbach	49.74389	6.115	P	PPL	LU		ME	09			0		236	Europe/Luxembourg	2017-01-28
+2960785	Berlé	Berle	Berle,Berlé	49.95222	5.85611	P	PPL	LU		WI	13			110		491	Europe/Luxembourg	2017-10-02
+2960786	Beringerbierg	Beringerbierg	Beringen,Beringerberg,Beringerbierg	49.77004	6.14943	S	FRM	LU	LU	ME	04			0		425	Europe/Luxembourg	2017-09-30
+2960787	Beringen	Beringen	Beringen	49.75833	6.11694	P	PPL	LU		ME	09			956		228	Europe/Luxembourg	2017-10-02
+2960788	Berg	Berg	Berg,Berg-sur-Syre	49.68342	6.35776	P	PPL	LU		GR	01			93		256	Europe/Luxembourg	2019-04-13
+2960789	Berghaff	Berghaff	Berghaff,Bergshof	49.62556	6.32722	S	FRM	LU	LU	RM	03			0		324	Europe/Luxembourg	2017-01-28
+2960790	Berger Grousseboesch	Berger Grousseboesch	Berger Grossen Busch,Berger Grousseboesch	49.66972	6.36861	V	FRST	LU		GR				0		306	Europe/Luxembourg	2017-02-04
+2960791	Bergem	Bergem	Bergem	49.525	6.04222	P	PPL	LU		ES	08			1535		306	Europe/Luxembourg	2017-10-02
+2960792	Château de Berg	Chateau de Berg		49.81459	6.08776	S	CSTL	LU		DI	13			0		237	Europe/Luxembourg	2017-09-30
+2960793	Berg	Berg	Berg	49.81361	6.08917	P	PPLX	LU		ME	01			0		212	Europe/Luxembourg	2017-01-14
+2960794	Berens	Berens		49.84361	6.26806	P	PPLL	LU		EC	01			0		406	Europe/Luxembourg	2017-01-28
+2960795	Béreldange	Bereldange	Bereldange,Béreldange	49.65507	6.11874	P	PPL	LU		LU	09			3627		252	Europe/Luxembourg	2017-10-02
+2960796	Berdorf	Berdorf	Berdorf	49.82051	6.34945	P	PPLA3	LU		EC	03			900		376	Europe/Luxembourg	2017-10-02
+2960797	Berchem	Berchem	Bercham,Berchem	49.54028	6.12917	P	PPL	LU		ES	11			863		277	Europe/Luxembourg	2017-10-02
+2960798	Bois de Berbourg	Bois de Berbourg		49.72028	6.3775	V	FRST	LU		GR				0		299	Europe/Luxembourg	2017-02-04
+2960799	Berbourg	Berbourg	Berbourg	49.7306	6.39355	P	PPL	LU		GR	06			664		282	Europe/Luxembourg	2017-10-02
+2960800	Belvaux	Belvaux	Beles,Belvaux	49.51014	5.92414	P	PPL	LU		ES	13			5313		339	Europe/Luxembourg	2017-10-02
+2960801	Belval	Belval	Belval,Ernshof	49.51028	5.94361	P	PPLL	LU	LU	ES	13			0		311	Europe/Luxembourg	2017-01-28
+2960802	Beiler	Beiler		50.16556	6.08889	P	PPL	LU		CL	10			87		487	Europe/Luxembourg	2017-10-02
+2960803	Beidweiler	Beidweiler	Beidweiler	49.72333	6.3025	P	PPL	LU		GR	05			227		316	Europe/Luxembourg	2017-10-02
+2960804	Behlen	Behlen	Behlen,Behlenhof,Behtenhof	49.72694	6.25417	S	FRM	LU	LU	GR	05			0		300	Europe/Luxembourg	2017-01-28
+2960805	Beggen	Beggen	Beggen	49.64506	6.12932	P	PPL	LU		LU	2960317			0		250	Europe/Luxembourg	2019-03-26
+2960806	Beckerich	Beckerich	Beckerich	49.73114	5.88241	P	PPLA3	LU		RD	02			672		300	Europe/Luxembourg	2017-10-02
+2960807	Bech	Bech	Bech,Bekh,Gemeng Bech,bk,bykh,Бех,بک,بیخ	49.7526	6.36379	P	PPLA3	LU		EC	02			380		301	Europe/Luxembourg	2017-10-02
+2960808	Bech-Kleinmacher	Bech-Kleinmacher	Bech,Bech-Kleinmacher	49.52806	6.35389	P	PPL	LU		RM	05			0		148	Europe/Luxembourg	2017-01-28
+2960809	Beaufort	Beaufort	Beaufort,Beefort,Befort	49.83583	6.29167	P	PPLA3	LU		EC	01			1418		357	Europe/Luxembourg	2017-10-02
+2960810	Bouferterhaff	Bouferterhaff	Beaufort,Befort,Bofort,Bouferterhaff,Ferme Beaufort	49.59806	6.00583	S	FRM	LU	LU	LU	01			0		345	Europe/Luxembourg	2017-01-28
+2960811	Bavigne	Bavigne	Bavigne,Boeven,Boewen	49.92194	5.84944	P	PPLA3	LU		WI	05			132		344	Europe/Luxembourg	2017-10-02
+2960812	Bamboesch	Bamboesch	Bamboesch,Baumbusch	49.63333	6.1	V	FRST	LU		LU				0		340	Europe/Luxembourg	2017-02-04
+2960813	Bastendorf	Bastendorf	Baastenduerf,Bastendorf	49.89194	6.16528	P	PPL	LU		VD	01			377		226	Europe/Luxembourg	2017-10-02
+2960814	Baschleiden	Baschleiden	Baschleiden	49.89833	5.82028	P	PPL	LU		WI	01			185		430	Europe/Luxembourg	2017-10-02
+2960815	Bascharage	Bascharage	Bascharage,Niederkerschen	49.56727	5.9073	P	PPLA3	LU		CA	8641865			4645		284	Europe/Luxembourg	2017-10-02
+2960816	Basbellain	Basbellain	Basbellain,Niederbesslingen	50.14583	5.98389	P	PPL	LU		CL	09			164		461	Europe/Luxembourg	2017-10-02
+2960817	Troine-Route	Troine-Route	Baraques de Troine,Troine-Baraques,Troine-Route	50.04611	5.87806	P	PPL	LU	LU	CL	01			0		496	Europe/Luxembourg	2017-10-02
+2960818	Banzelt	Banzelt	Banzelt,Maisons Banzelt,Olingerbarriere,Olingerbarriére	49.66833	6.33028	P	PPLL	LU	LU	GR	03			0		277	Europe/Luxembourg	2017-01-28
+2960820	Asselborn	Asselborn	Asselborn	50.09722	5.97306	P	PPL	LU		CL	01			413		480	Europe/Luxembourg	2017-10-02
+2960821	Asselborn	Asselborn	Asselborn,Asselborn-les-Kehmen,Asselborn-lès-Kehmen	49.9	6.05	P	PPL	LU		DI	03			0		464	Europe/Luxembourg	2017-01-28
+2960822	Assel	Assel	Assel	49.55278	6.31583	P	PPL	LU		RM	00			174		162	Europe/Luxembourg	2017-10-02
+2960823	Aspelt	Aspelt	Aspelt	49.52278	6.22472	P	PPL	LU		ES	05			1013		242	Europe/Luxembourg	2017-10-02
+2960824	Uerschterhaff	Uerschterhaff	Aresdorferhof,Areshof,Arsdorferhof,Ferme Arsdorf,Uerschterhaff,Ursterhof	49.54361	5.95556	S	FRM	LU	LU	ES	13			0		311	Europe/Luxembourg	2017-01-28
+2960825	Ruisseau d’Arsdorf	Ruisseau d'Arsdorf		49.88333	5.86667	H	STM	LU		WI				0		461	Europe/Luxembourg	2017-01-14
+2960826	Forêt d’Arsdorf	Foret d'Arsdorf		49.85	5.86667	V	FRST	LU		RD				0		512	Europe/Luxembourg	2017-01-14
+2960827	Arsdorf	Arsdorf	Arsdorf	49.86139	5.84389	P	PPL	LU		RD	06			241		437	Europe/Luxembourg	2017-10-02
+2960828	Ansembourg	Ansembourg	Ansembourg	49.7025	6.04333	P	PPL	LU		ME	11			42		319	Europe/Luxembourg	2017-10-02
+2960829	Angelsberg	Angelsberg	Angelsberg	49.75639	6.16083	P	PPL	LU		ME	04			292		406	Europe/Luxembourg	2017-10-02
+2960830	Amberg	Amberg	Amberg,Berg	49.76667	5.86667	P	PPL	LU		RD	09			0		278	Europe/Luxembourg	2017-01-28
+2960831	Alzett	Alzett	Alzett,Alzette	49.84861	6.11417	H	STM	LU	FR,LU	00				0		194	Europe/Luxembourg	2009-03-07
+2960832	Alzingen	Alzingen	Altzingen,Alzingen	49.565	6.16361	P	PPL	LU		LU	03			1376		265	Europe/Luxembourg	2017-10-02
+2960833	Altwies	Altwies	Altwies	49.51056	6.25722	P	PPL	LU		RM	04			617		213	Europe/Luxembourg	2017-10-02
+2960834	Altrier	Altrier	Schanz	49.75009	6.32656	P	PPL	LU		EC	02			190		399	Europe/Luxembourg	2017-10-02
+2960835	Alrodeschhaff	Alrodeschhaff	Alrodeschhaff,Altrodeschhof	49.76972	6.3775	S	FRM	LU	LU	EC	05			0		384	Europe/Luxembourg	2017-01-28
+2960836	Altlinster	Altlinster	Altlinster	49.71556	6.21667	P	PPL	LU		GR	05			115		306	Europe/Luxembourg	2017-10-02
+2960837	Aleboesch	Aleboesch	Aleboesch,Altenbusch	49.84667	5.95944	V	FRST	LU		RD				0		440	Europe/Luxembourg	2017-02-04
+2960838	Alscheid	Alscheid	Alscheid	49.97111	6.00972	P	PPL	LU		WI	8641289			50		371	Europe/Luxembourg	2017-10-02
+2960839	Allerborn	Allerborn	Allerborn	50.03667	5.87083	P	PPL	LU		CL	01			59		477	Europe/Luxembourg	2017-10-04
+2960840	Albach	Albach		50	5.96667	H	STM	LU		WI				0		352	Europe/Luxembourg	2017-01-14
+2960841	Aalbaach	Aalbaach	Aalbaach,Al,Albach	49.62044	6.39241	H	STM	LU	LU	GR	09			0		227	Europe/Luxembourg	2017-06-15
+2960842	Ahn	Ahn	Ahn	49.62444	6.42167	P	PPL	LU		GR	09			0		142	Europe/Luxembourg	2017-10-02
+2960843	Aciérie	Acierie		49.53333	5.9	P	PPL	LU		ES	02			0		295	Europe/Luxembourg	2017-01-28
+2960844	Abweiler	Abweiler	Abweiler	49.53361	6.08083	P	PPL	LU		ES	01			75		306	Europe/Luxembourg	2017-10-04
+3263885	Woulkeschdall	Woulkeschdall		49.48472	6.09778	P	PPLX	LU		ES	03			0		292	Europe/Luxembourg	2017-01-28
+3263886	Gehaansbierg	Gehaansbierg		49.49111	6.06139	T	MT	LU		ES	03			0	417	405	Europe/Luxembourg	2017-01-28
+3263887	Mierbech	Mierbech		49.51611	6.06861	H	STM	LU		ES				0		271	Europe/Luxembourg	2017-02-04
+3283389	Reckingerhaff	Reckingerhaff	Ferme Reckange,Reckingerhaff,Reckingerhof	49.53472	6.31028	S	FRM	LU	LU	RM	02			0		203	Europe/Luxembourg	2017-01-28
+3283390	Bech-Kleinmacher	Bech-Kleinmacher	Bech-Kleinmacher	49.53083	6.355	P	PPL	LU		RM	05			593		144	Europe/Luxembourg	2017-10-02
+3285196	Dunkrodt	Dunkrodt		49.92306	5.87861	P	PPLL	LU		WI	05			0		373	Europe/Luxembourg	2017-01-28
+3285197	Feulen	Feulen		49.85	6.01667	A	ADM2	LU		DI	08			0		331	Europe/Luxembourg	2017-01-14
+3285198	Lac de la Haute-Sûre	Lac de la Haute-Sure	Gemeng Lac de la Haute-Sure,Gemeng Lac de la Haute-Sûre,Lak-de-la-Ot-Sjur,Lak-de-la-Ot-Sur,Lak-deh-la-Ot-Sjur,Stauseegemeinde,Stauseigemeng,Stauséigemeng,lak dw la awt-swr,Лак-де-ла-От-Сур,Лак-де-ла-От-Сюр,Лак-дэ-ла-От-Сюр,لاک دو لا اوت-سور	49.91667	5.83333	A	ADM2	LU		WI	05			0		424	Europe/Luxembourg	2017-01-14
+3285846	Bassins Supérieurs	Bassins Superieurs	Bassin Superieur,Bassin Supérieur,Bassins Superieurs,Bassins Supérieurs	49.94389	6.17639	H	RSV	LU		VD				0		494	Europe/Luxembourg	2017-02-04
+3285847	Bassin Inférieur	Bassin Inferieur		49.94667	6.20306	H	RSV	LU		VD				0		257	Europe/Luxembourg	2017-06-15
+3285848	Barrage de Vianden	Barrage de Vianden		49.94222	6.20694	S	DAM	LU		VD	03			0		247	Europe/Luxembourg	2017-01-28
+6296718	Luxembourg Findel Airport	Luxembourg Findel Airport	Aerodrom Luksemburg,Aeroport de Luxembourg,Aeroport de Luxembourg-Findel,Aeroport de Luxemburg,Aeroporto Internacional de Luxemburgo-Findel,Aeroporto di Lussemburgo-Findel,Aeropuerto de Luxemburgo,Aéroport de Luxembourg,Aéroport de Luxembourg-Findel,Bandar Udara Luxembourg Findel,ELLX,Findel lufthavn,Findelin kansainvaelinen lentoasema,Findelin kansainvälinen lentoasema,Fluchhafe Letzebuerg,Fluchhafe Lëtzebuerg,Flughafen Luxemburg,LUX,Ljuksemburg-Findel,Lueksemburg-Findel Havalimani,Luxembourg-Findel International Airport,Luxenburgo Findel aireportua,Lüksemburg-Findel Havalimanı,Port lotniczy Luksemburg,San bay Luxembourg-Findel,Sân bay Luxembourg-Findel,Zracna luka Luxembourg-Findel,Zračna luka Luxembourg-Findel,frwdgah lwgzambwrg - fyndl,lu sen bao-fen de er guo ji ji chang,lugsembuleukeu pindel gonghang,rukusenburuku-finderu kong gang,Аеродром Луксембург,Люксембург-Финдел,נמל התעופה לוקסמבורג-פינדל,فرودگاه لوگزامبورگ - فیندل,ルクセンブルク-フィンデル空港,卢森堡-芬德尔国际机场,룩셈부르크 핀델 공항	49.62658	6.21152	S	AIRP	LU		LU	04			0	376	372	Europe/Luxembourg	2019-02-28
+6468475	Best Western International	Best Western International		49.59931	6.12905	S	HTL	LU		LU	2960317			0		285	Europe/Luxembourg	2017-01-28
+6469061	NH Luxembourg	NH Luxembourg		49.639	6.218	S	HTL	LU		LU	04			0		381	Europe/Luxembourg	2017-01-28
+6469374	Le Royal	Le Royal		49.613	6.126	S	HTL	LU		LU	2960317			0		307	Europe/Luxembourg	2017-01-28
+6469501	Mercure Kikuoka	Mercure Kikuoka		49.6027	6.3125	S	HTL	LU		RM	03			0		266	Europe/Luxembourg	2017-01-28
+6469668	Mercure Centre Gare	Mercure Centre Gare		49.601	6.131	S	HTL	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+6469875	Parc	Parc		49.63842	6.1503	S	HTL	LU		LU	2960317			0		274	Europe/Luxembourg	2017-01-28
+6470345	Grand Mercure Alfa Luxembourg	Grand Mercure Alfa Luxembourg		49.59895	6.12918	S	HTL	LU		LU	2960317			0		285	Europe/Luxembourg	2017-01-28
+6475284	Atel Schintgen	Atel Schintgen		49.61	6.1299	S	HTL	LU		LU	2960317			0		305	Europe/Luxembourg	2017-01-28
+6478293	Grunewals Hotel	Grunewals Hotel		49.6334	6.1381	S	HTL	LU		LU	2960317			0		241	Europe/Luxembourg	2017-01-28
+6481196	Christophe Colomb Hotel	Christophe Colomb Hotel		49.6033	6.13	S	HTL	LU		LU	2960317			0		293	Europe/Luxembourg	2017-01-28
+6482308	President Hotel	President Hotel		49.5996	6.1329	S	HTL	LU		LU	2960317			0		290	Europe/Luxembourg	2017-01-28
+6482549	Golden Tulip Central Molitor	Golden Tulip Central Molitor		49.6043	6.1303	S	HTL	LU		LU	2960317			0		295	Europe/Luxembourg	2017-01-28
+6482622	Hotel Nobilis	Hotel Nobilis		49.6022	6.133	S	HTL	LU		LU	2960317			0		295	Europe/Luxembourg	2017-01-28
+6483304	Novotel Luxembourg Kirchberg	Novotel Luxembourg Kirchberg		49.6028	6.13	S	HTL	LU		LU	2960317			0		290	Europe/Luxembourg	2017-01-28
+6483723	City Hotel	City Hotel		49.602	6.133	S	HTL	LU		LU	2960317			0		292	Europe/Luxembourg	2017-01-28
+6492748	Sofitel Luxembourg Europe	Sofitel Luxembourg Europe		49.61	6.143	S	HTL	LU		LU	2960317			0		268	Europe/Luxembourg	2017-01-28
+6495119	Hotel Parc Plaza	Hotel Parc Plaza		49.608	6.123	S	HTL	LU		LU	2960317			0		292	Europe/Luxembourg	2017-01-28
+6495238	Hotel Parc Belle-Vue	Hotel Parc Belle-Vue		49.608	6.123	S	HTL	LU		LU	2960317			0		292	Europe/Luxembourg	2017-01-28
+6495948	Hotel Parc Belair	Hotel Parc Belair		49.607	6.11	S	HTL	LU		LU	2960317			0		289	Europe/Luxembourg	2017-01-28
+6496785	Hotel Parc Beaux Arts	Hotel Parc Beaux Arts		49.611	6.134	S	HTL	LU		LU	2960317			0		299	Europe/Luxembourg	2017-01-28
+6498937	Campanile Hotel Luxembourg	Campanile Hotel Luxembourg		49.6121	6.1711	S	HTL	LU		LU	2960317			0		318	Europe/Luxembourg	2017-01-28
+6500530	Alvisse Parc Hotel	Alvisse Parc Hotel		49.6405	6.155	S	HTL	LU		LU	2960317			0		298	Europe/Luxembourg	2017-01-28
+6501145	Hotel Empire	Hotel Empire		49.5995	6.1328	S	HTL	LU		LU	2960317			0		286	Europe/Luxembourg	2017-01-28
+6508298	Romantik Hotel Hostellerie Du G	Romantik Hotel Hostellerie Du G		49.6333	6.138	S	HTL	LU		LU	2960317			0		241	Europe/Luxembourg	2017-01-28
+6508360	Mercure Esch Sur Alzette 3	Mercure Esch Sur Alzette 3		49.7797	6.0919	S	HTL	LU		ME	02			0		272	Europe/Luxembourg	2017-01-28
+6509431	Mercure Gd H Luxembourg Alf 4	Mercure Gd H Luxembourg Alf 4		49.60047	6.13334	S	HTL	LU		LU	2960317			0		293	Europe/Luxembourg	2017-01-28
+6510026	Mercure Kikuoka Golf Club 4	Mercure Kikuoka Golf Club 4		49.6166	6.3333	S	HTL	LU		RM	03			0		295	Europe/Luxembourg	2017-01-28
+6515220	Sofitel Luxembourg Europe	Sofitel Luxembourg Europe		49.6028	6.13	S	HTL	LU		LU	2960317			0		290	Europe/Luxembourg	2017-01-28
+6515465	Ibis Luxembourg Aeroport	Ibis Luxembourg Aeroport		49.6166	6.2	S	HTL	LU		LU	05			0		359	Europe/Luxembourg	2017-01-28
+6517610	Park Plaza Trier	Park Plaza Trier		49.7797	6.0919	S	HTL	LU		ME	02			0		272	Europe/Luxembourg	2017-01-28
+6519939	Novotel Luxembourg Centre	Novotel Luxembourg Centre		49.6038	6.1367	S	HTL	LU		LU	2960317			0		292	Europe/Luxembourg	2017-01-28
+6520269	Sofitel Le Grand Ducal	Sofitel Le Grand Ducal		49.605	6.1356	S	HTL	LU		LU	2960317			0		290	Europe/Luxembourg	2017-01-28
+6525566	Grand Hotel Cravat	Grand Hotel Cravat		49.6087	6.1318	S	HTL	LU		LU	2960317			0		295	Europe/Luxembourg	2017-01-28
+6528340	Ibis Luxembourg Sud	Ibis Luxembourg Sud		49.5294	6.1189	S	HTL	LU		ES	11			0		270	Europe/Luxembourg	2017-01-28
+6531321	Hotel Stand Inn	Hotel Stand Inn		49.5205	6.0123	S	HTL	LU		ES	08			0		279	Europe/Luxembourg	2017-01-28
+6532988	Albert Premier	Albert Premier		49.6094	6.1185	S	HTL	LU		LU	2960317			0		301	Europe/Luxembourg	2017-01-28
+6691847	Wallendorf-Pont	Wallendorf-Pont	Wallendorf-Pont,Wallendorferbrueck,Wallendorferbrück,Wallenduerfer-Breck,Wallenduerfer-Bréck	49.8739	6.28674	P	PPL	LU		DI	12			0		179	Europe/Luxembourg	2017-10-02
+6692360	Hart van 't Goedland	Hart van 't Goedland		49.55194	6.08574	A	ADMD	LU		03				0		310	Europe/Luxembourg	2008-05-16
+6692361	Luxemburgse Ardennen	Luxemburgse Ardennen		49.95785	6.05621	A	ADMD	LU		01				0		401	Europe/Luxembourg	2008-05-16
+6693258	Bascharage	Bascharage	Basaraz,Basarazas,Basharazh,Bašaražas,Nidderkaeerjeng,Nidderkäerjeng,Niederkerschen,Башараж,Բաշարաժ	49.5675	5.91028	A	ADM3H	LU		CA	8641865			0		285	Europe/Luxembourg	2017-01-28
+6693259	Clemency	Clemency		49.59667	5.87583	A	ADM3H	LU		03	02	02		0		334	Europe/Luxembourg	2016-12-09
+6693260	Dippach	Dippach	Dippakh,Dippech,Dzipakh,Gemeng Dippech,di pa,dypakh,Дзіпах,Диппах,Діппах,دیپاخ,迪帕	49.58833	5.98333	A	ADM2	LU		CA	03			0		368	Europe/Luxembourg	2017-01-14
+6693261	Garnich	Garnich		49.61667	5.9525	A	ADM2	LU		CA	04			0		339	Europe/Luxembourg	2017-01-14
+6693262	Hobscheid	Hobscheid		49.68861	5.91472	A	ADM2	LU		CA	05			0		278	Europe/Luxembourg	2017-01-14
+6693263	Kehlen	Kehlen	Gemeng Kielen,Kelen,Kielen,khln,Келен,کهلن	49.66833	6.03583	A	ADM2	LU		CA	06			0		329	Europe/Luxembourg	2017-01-14
+6693264	Koerich	Koerich		49.67	5.95	A	ADM2	LU		CA	07			0		299	Europe/Luxembourg	2017-01-14
+6693265	Kopstal	Kopstal		49.66444	6.07306	A	ADM2	LU		CA	08			0		261	Europe/Luxembourg	2017-01-14
+6693266	Mamer	Mamer		49.6275	6.02333	A	ADM2	LU		CA	09			0		294	Europe/Luxembourg	2017-01-14
+6693267	Septfontaines	Septfontaines		49.70111	5.96722	A	ADM2	LU		CA	10			0		267	Europe/Luxembourg	2017-01-14
+6693268	Steinfort	Steinfort	Gemeng Stengefort,Shtajnfort,Steinfortas,Stengefort,ashtaynfwrt  lwkzambwrg,Šteinfortas,Штайнфорт,اشتاینفورت، لوکزامبورگ	49.66139	5.91917	A	ADM2	LU		CA	11			0		307	Europe/Luxembourg	2017-01-14
+6693269	Esch-sur-Alzette	Esch-sur-Alzette		49.49583	5.98056	A	ADM2	LU		ES	04			0		295	Europe/Luxembourg	2017-01-14
+6693270	Frisange	Frisange	Freiseng,Frisingen,Frizanzh,Fryzanzh,Fréiseng,Gemeng Freiseng,Gemeng Fréiseng,frysanzh,Фризанж,Фрызанж,Фрізанж,فریسانژ	49.515	6.19167	A	ADM2	LU		ES	05			0		262	Europe/Luxembourg	2017-01-14
+6693271	Leudelange	Leudelange		49.56833	6.06528	A	ADM2	LU		ES	07			0		318	Europe/Luxembourg	2017-01-14
+6693272	Mondercange	Mondercange	Gemeng Monnerech,Mandehrkanzh,Monderkanzas,Monderkanzh,Monderkanžas,Monnerech,Monnerich,mwndrkanzh,Мандэрканж,Мондерканж,موندرکانژ	49.53306	5.98833	A	ADM2	LU		ES	08			0		290	Europe/Luxembourg	2017-01-14
+6693273	Reckange-sur-Mess	Reckange-sur-Mess		49.5625	6.00889	A	ADM2	LU		ES	10			0		319	Europe/Luxembourg	2017-01-14
+6693274	Roeser	Roeser		49.54222	6.15	A	ADM2	LU		ES	11			0		280	Europe/Luxembourg	2017-01-14
+6693275	Bertrange	Bertrange		49.61111	6.05	A	ADM2	LU		LU	01			0		287	Europe/Luxembourg	2017-01-14
+6693276	Contern	Contern		49.58194	6.22667	A	ADM2	LU		LU	02			0		333	Europe/Luxembourg	2017-01-14
+6693277	Hesperange	Hesperange		49.56806	6.15139	A	ADM2	LU		LU	03			0		270	Europe/Luxembourg	2017-01-14
+6693278	Niederanven	Niederanven		49.6475	6.26	A	ADM2	LU		LU	04			0		255	Europe/Luxembourg	2017-01-14
+6693279	Sandweiler	Sandweiler		49.61333	6.21889	A	ADM2	LU		LU	05			0		335	Europe/Luxembourg	2017-01-14
+6693280	Schuttrange	Schuttrange		49.62056	6.26861	A	ADM2	LU		LU	06			0		246	Europe/Luxembourg	2017-01-14
+6693281	Steinsel	Steinsel		49.67694	6.12389	A	ADM2	LU		LU	07			0		243	Europe/Luxembourg	2017-01-14
+6693282	Strassen	Strassen		49.62056	6.07333	A	ADM2	LU		LU	08			0		309	Europe/Luxembourg	2017-01-14
+6693283	Walferdange	Walferdange	Gemeng Walfer,Val'ferdanzh,Walfer,Walferdingen,walfrdanzh,Вальферданж,والفردانژ	49.65833	6.13722	A	ADM2	LU		LU	09			0		245	Europe/Luxembourg	2017-01-14
+6693284	Weiler-la-Tour	Weiler-la-Tour		49.54083	6.20083	A	ADM2	LU		LU	10			0		259	Europe/Luxembourg	2017-01-14
+6693285	Berg	Berg		49.81361	6.08917	A	ADM2	LU		ME	01			0		212	Europe/Luxembourg	2017-01-14
+6693286	Bissen	Bissen		49.7875	6.06944	A	ADM2	LU		ME	02			0		234	Europe/Luxembourg	2017-01-14
+6693287	Boevange-sur-Attert	Boevange-sur-Attert	Beiwen-Atert,Bevanzh-sjur-Atehr,Bevanzh-sjur-Attert,Bjovanzh-sjur-Atter,Boewingen/Attert,Byovanz syur Atter,Béiwen-Atert,Böwingen/Attert,Gemeng Beiwen-Atert,Gemeng Béiwen-Atert,bwwanzh-atrt,Беванж-сюр-Аттерт,Беванж-сюр-Атэр,Бёванж-сюр-Аттер,Բյովանժ սյուր Ատտեր,بووانژ-اترت	49.77528	6.01556	A	ADM2	LU		ME	03			0		238	Europe/Luxembourg	2017-01-14
+6693288	Fischbach	Fischbach		49.73972	6.18722	A	ADM2	LU		ME	04			0		353	Europe/Luxembourg	2017-01-14
+6693289	Heffingen	Heffingen		49.7625	6.24139	A	ADM2	LU		ME	05			0		352	Europe/Luxembourg	2017-01-14
+6693290	Larochette	Larochette		49.78476	6.21779	A	ADM2	LU		ME	06			0		296	Europe/Luxembourg	2017-01-14
+6693291	Lintgen	Lintgen		49.71583	6.13361	A	ADM2	LU		ME	07			0		336	Europe/Luxembourg	2017-01-14
+6693292	Lorentzweiler	Lorentzweiler		49.69472	6.1425	A	ADM2	LU		ME	08			0		227	Europe/Luxembourg	2017-01-14
+6693293	Mersch	Mersch	Canto de Mersch,Canton de Mersch,Cantone di Mersch,Cantó de Mersch,Cantón de Mersch,Kanton Mersch,Kanton Miersch,Kantono Mersch,Ljuksemburg,Mersch kantonu,Mersh,Merso kantonas,Meršo kantonas,meleusyu ju,Люксембург,Мерш,메르슈 주	49.74889	6.10611	A	ADM2	LU		ME	09			0		219	Europe/Luxembourg	2017-01-14
+6693294	Nommern	Nommern		49.78694	6.17472	A	ADM2	LU		ME	10			0		380	Europe/Luxembourg	2017-01-14
+6693295	Tuntange	Tuntange		49.71778	6.01028	A	ADM2	LU		ME	11			0		315	Europe/Luxembourg	2017-01-14
+6693296	Wincrange	Wincrange		50.05333	5.91917	A	ADM2	LU		CL	01			0		490	Europe/Luxembourg	2017-01-14
+6693297	Clervaux	Clervaux	Canto de Clervaux,Canton de Clervaux,Cantone di Clervaux,Cantó de Clervaux,Cantón de Clervaux,Clervaux kantonu,Kanton Clerf,Kanton Clervaux,Kanton Klierf,Kantono Clervaux / Clerf,Klervo,Klervo kantonas,ke lai wo xian,keulleleubo ju,Клерво,克莱沃县,클레르보 주	50.05472	6.03139	A	ADM2	LU		CL	03			0		364	Europe/Luxembourg	2017-01-14
+6693298	Consthum	Consthum	Konstem	49.97472	6.05417	A	ADM3H	LU		01	06	04		0		497	Europe/Luxembourg	2016-12-04
+6693299	Heinerscheid	Heinerscheid		50.09611	6.08806	A	ADM3H	LU		CL	03			0		520	Europe/Luxembourg	2017-01-28
+6693300	Hosingen	Hosingen		50.01778	6.09333	A	ADM3H	LU		01	06	07		0		506	Europe/Luxembourg	2016-12-04
+6693301	Munshausen	Munshausen	Gemeng Munzen,Mjunsgauzen,Mjunskhauzen,Munshause,Munzen,Мюнсгаузен,Мюнсхаузен,Мюнсхаўзен	50.03361	6.03861	A	ADM3H	LU		01	06	08		0		464	Europe/Luxembourg	2016-12-09
+6693302	Weiswampach	Weiswampach	Gemeng Waeisswampech,Gemeng Wäisswampech,Vajsvampakh,Vejsvampakh,Waeiswampech,Wäiswampech,wayswampakh,Вайсвампах,Вейсвампах,وایسوامپاخ	50.13722	6.075	A	ADM2	LU		CL	10			0		492	Europe/Luxembourg	2017-01-14
+6693303	Bastendorf	Bastendorf		49.89194	6.16528	A	ADM3H	LU		DI	01			0		226	Europe/Luxembourg	2017-01-28
+6693304	Bettendorf	Bettendorf	Betehndorf,Bettendorf,Bettenduerf,Gemeng Bettenduerf,bei teng duo fu,btndwrf,Беттендорф,Бетэндорф,بتندورف,贝滕多夫	49.87667	6.21806	A	ADM2	LU		DI	02			0		188	Europe/Luxembourg	2017-01-14
+6693305	Bourscheid	Bourscheid		49.91	6.06722	A	ADM2	LU		DI	03			0		458	Europe/Luxembourg	2017-01-14
+6693306	Ermsdorf	Ermsdorf		49.82944	6.22278	A	ADM3H	LU		01	07	05		0		247	Europe/Luxembourg	2016-12-04
+6693307	Erpeldange	Erpeldange		49.86472	6.11472	A	ADM2	LU		DI	06			0		207	Europe/Luxembourg	2017-01-14
+6693308	Hoscheid	Hoscheid		49.94722	6.08167	A	ADM3H	LU		CL	63			0		481	Europe/Luxembourg	2017-01-28
+6693309	Medernach	Medernach		49.80194	6.21833	A	ADM3H	LU		01	07	10		0		294	Europe/Luxembourg	2016-12-04
+6693310	Mertzig	Mertzig		49.83389	6.0075	A	ADM2	LU		DI	11			0		312	Europe/Luxembourg	2017-01-14
+6693311	Reisdorf	Reisdorf	Gemeng Reisduerf,Rajsdorf,Reisduerf,Rejsdorf,lai si duo fu,rayzdwrf,Райсдорф,Рейсдорф,رایزدورف,赖斯多夫	49.86861	6.26778	A	ADM2	LU		DI	12			0		191	Europe/Luxembourg	2017-01-14
+6693312	Schieren	Schieren		49.83056	6.09861	A	ADM2	LU		DI	13			0		213	Europe/Luxembourg	2017-01-14
+6693313	Beckerich	Beckerich	Bekerikh,Bekerykh,Bekkerikh,Bekkerix,Biekerech,Gemeng Biekerech,bkrysh,Бекерих,Бекерых,Бекеріх,Беккерих,Բեկկերիխ,بکریش	49.73056	5.88722	A	ADM2	LU		RD	02			0		289	Europe/Luxembourg	2017-01-14
+6693314	Ell	Ell	Ehl',Ehll',Ell',Gemeng Ell,al  lwkzambwrg,Елль,Элль,Эль,ال، لوکزامبورگ	49.76389	5.85722	A	ADM2	LU		RD	05			0		281	Europe/Luxembourg	2017-01-14
+6693315	Rambrouch	Rambrouch		49.83083	5.845	A	ADM2	LU		RD	06			0		502	Europe/Luxembourg	2017-01-14
+6693316	Grosbous	Grosbous		49.82778	5.96722	A	ADM2	LU		RD	07			0		344	Europe/Luxembourg	2017-01-14
+6693317	Redange-sur-Attert	Redange-sur-Attert		49.76556	5.89083	A	ADM2	LU		RD	09			0		290	Europe/Luxembourg	2017-01-14
+6693318	Saeul	Saeul	Gemeng Sell,Gemeng Sëll,Saehl',Sajul',Sell,Sëll,saywl,Саэль,Саюль,سائول	49.72722	5.98639	A	ADM2	LU		RD	10			0		294	Europe/Luxembourg	2017-01-14
+6693319	Useldange	Useldange	Gemeng Useldeng,Jusel'danzh,Juzel'danzh,Useldeng,Useldingen,awzldanzh,Юзельданж,Юсельданж,اوزلدانژ	49.76972	5.98222	A	ADM2	LU		RD	11			0		240	Europe/Luxembourg	2017-01-14
+6693320	Vichten	Vichten		49.80306	6	A	ADM2	LU		RD	12			0		283	Europe/Luxembourg	2017-01-14
+6693321	Wahl	Wahl		49.83667	5.90639	A	ADM2	LU		RD	13			0		448	Europe/Luxembourg	2017-01-14
+6693322	Boulaide	Boulaide		49.88778	5.81639	A	ADM2	LU		WI	01			0		462	Europe/Luxembourg	2017-01-14
+6693323	Esch-sur-Sûre	Esch-sur-Sure		49.91139	5.93639	A	ADM2	LU		WI	02			0		282	Europe/Luxembourg	2017-01-14
+6693324	Eschweiler	Eschweiler		49.99778	5.94889	A	ADM3H	LU		01	09	03		0		433	Europe/Luxembourg	2016-12-10
+6693325	Goesdorf	Goesdorf	Commune de Goesdorf,Geisdref,Gemeinde Goesdorf,Gemeng Geisdref,Gemeng Géisdref,Goesdorf,Géisdref	49.92167	5.96833	A	ADM2	LU		WI	04			0		482	Europe/Luxembourg	2017-09-06
+6693326	Heiderscheid	Heiderscheid	Heischent	49.88889	5.97889	A	ADM3H	LU		01	09	06		0		499	Europe/Luxembourg	2016-12-09
+6693327	Kautenbach	Kautenbach		49.95278	6.02	A	ADM3H	LU		01	09	07		0		257	Europe/Luxembourg	2016-12-10
+6693328	Neunhausen	Neunhausen		49.8775	5.88722	A	ADM3H	LU		01	09	09		0		435	Europe/Luxembourg	2016-12-09
+6693329	Wilwerwiltz	Wilwerwiltz		49.98889	5.99917	A	ADM3H	LU		01	09	12		0		299	Europe/Luxembourg	2016-12-09
+6693330	Winseler	Winseler		49.96778	5.89028	A	ADM2	LU		WI	13			0		334	Europe/Luxembourg	2017-01-14
+6693331	Tandel	Tandel	Gemeng Tandel,Tandel',tandl,Тандель,تاندل	49.91556	6.19611	A	ADM2	LU		VD	01			0		300	Europe/Luxembourg	2017-01-14
+6693332	Putscheid	Putscheid	Gemeng Petscht,Gemeng Pëtscht,Petscht,Putshajd,Putshehjd,Pëtscht,pwtshayd,Путшайд,Путшэйд,پوتشاید	49.96083	6.14306	A	ADM2	LU		VD	02			0		415	Europe/Luxembourg	2017-01-14
+6693333	Vianden	Vianden		49.935	6.20889	A	ADM2	LU		VD	03			0		228	Europe/Luxembourg	2017-01-14
+6693334	Beaufort	Beaufort	Bafor,Beefort,Befort,Bofor,Gemeng Beefort,bwfwrt,byfwrt  lgsmbrg,Бафор,Бофор,بوفورت,بیفورت، لگسمبرگ	49.83583	6.29167	A	ADM2	LU		EC	01			0		357	Europe/Luxembourg	2017-01-14
+6693335	Bech	Bech		49.74611	6.36361	A	ADM2	LU		EC	02			0		310	Europe/Luxembourg	2017-01-14
+6693336	Berdorf	Berdorf		49.81361	6.35028	A	ADM2	LU		EC	03			0		343	Europe/Luxembourg	2017-01-14
+6693337	Consdorf	Consdorf		49.77306	6.33833	A	ADM2	LU		EC	04			0		354	Europe/Luxembourg	2017-01-14
+6693338	Mompach	Mompach		49.74611	6.465	A	ADM2	LU		EC	06			0		302	Europe/Luxembourg	2017-01-14
+6693339	Rosport	Rosport	Gemeng Rouspert,Rospor,Rosport,Rosportas,Rouspert,rwspwrt,Роспор,Роспорт,روسپورت	49.79778	6.50417	A	ADM2	LU		EC	07			0		177	Europe/Luxembourg	2017-01-14
+6693340	Waldbillig	Waldbillig		49.78889	6.28667	A	ADM2	LU		EC	08			0		323	Europe/Luxembourg	2017-01-14
+6693341	Betzdorf	Betzdorf		49.68333	6.35	A	ADM2	LU		GR	01			0		225	Europe/Luxembourg	2017-01-14
+6693342	Biwer	Biwer		49.70278	6.37472	A	ADM2	LU		GR	02			0		233	Europe/Luxembourg	2017-01-14
+6693343	Flaxweiler	Flaxweiler		49.66167	6.34361	A	ADM2	LU		GR	03			0		283	Europe/Luxembourg	2017-01-14
+6693344	Junglinster	Junglinster		49.70722	6.25306	A	ADM2	LU		GR	05			0		305	Europe/Luxembourg	2017-01-14
+6693345	Manternach	Manternach		49.70278	6.42639	A	ADM2	LU		GR	06			0		252	Europe/Luxembourg	2017-01-14
+6693346	Mertert	Mertert	Gemeng Maeertert,Gemeng Mäertert,Maeertert,Mertert,Mäertert,mrtrt,Мертерт,مرترت	49.701	6.48043	A	ADM2	LU		GR	07			0		141	Europe/Luxembourg	2017-01-14
+6693347	Wormeldange	Wormeldange	Gemeng Wuermeldeng,Vormel'danzh,Vormeldanzas,Vormeldanzh,Vormeldanžas,Wormeldingen,Wuermeldeng,wwrmldanzh,Вормелданж,Вормельданж,وورملدانژ	49.61199	6.40531	A	ADM2	LU		GR	09			0		162	Europe/Luxembourg	2017-01-14
+6693348	Bous	Bous		49.55389	6.32917	A	ADM2	LU		RM	00			0		155	Europe/Luxembourg	2017-01-14
+6693349	Burmerange	Burmerange	Boermereng,Buermeringen,Bürmeringen	49.48528	6.32306	A	ADM3H	LU		02	13	01		0		226	Europe/Luxembourg	2016-12-09
+6693350	Dalheim	Dalheim		49.54083	6.25972	A	ADM2	LU		RM	02			0		309	Europe/Luxembourg	2017-01-14
+6693351	Lenningen	Lenningen		49.59861	6.36806	A	ADM2	LU		RM	03			0		189	Europe/Luxembourg	2017-01-14
+6693352	Mondorf-les-Bains	Mondorf-les-Bains		49.505	6.28111	A	ADM2	LU		RM	04			0		191	Europe/Luxembourg	2017-01-14
+6693353	Schengen	Schengen	Commune de Schengen,Gemeinde Schengen,Gemeng Schengen,Remerschen,Schengen	49.48861	6.35167	A	ADM2	LU		RM	05			0		154	Europe/Luxembourg	2017-01-14
+6693354	Remich	Remich		49.545	6.36694	A	ADM2	LU		RM	06			0		160	Europe/Luxembourg	2017-01-14
+6693355	Stadtbredimus	Stadtbredimus		49.56278	6.36444	A	ADM2	LU		RM	07			0		147	Europe/Luxembourg	2017-01-14
+6693356	Waldbredimus	Waldbredimus		49.555	6.2875	A	ADM2	LU		RM	08			0		182	Europe/Luxembourg	2017-01-14
+6693357	Wellenstein	Wellenstein		49.52389	6.34222	A	ADM3H	LU		02	13	09		0		173	Europe/Luxembourg	2016-12-09
+6696266	Senningerberg	Senningerberg		49.64907	6.22607	P	PPL	LU		LU	04			0		399	Europe/Luxembourg	2017-10-02
+6696267	Bollendorf-Pont	Bollendorf-Pont		49.84847	6.35787	P	PPL	LU		EC	03			0		226	Europe/Luxembourg	2017-10-02
+6944716	Dasbourg-Pont	Dasbourg-Pont		50.04922	6.12588	P	PPLL	LU		CL	63			0	273	292	Europe/Luxembourg	2017-01-28
+6951463	Meliá Luxemburgo	Melia Luxemburgo		49.61632	6.14043	S	HTL	LU		LU	2960317			0		313	Europe/Luxembourg	2017-01-28
+7281957	Hosingen TV Mast	Hosingen TV Mast		50.02069	6.1048	S	TOWR	LU		CL	63			0		522	Europe/Luxembourg	2017-01-28
+7281958	Marnach transmitter, Day Antenna, Mast 1	Marnach transmitter, Day Antenna, Mast 1		50.04626	6.07688	S	TOWR	LU		CL	03			0		538	Europe/Luxembourg	2017-01-28
+7281959	Marnach transmitter, Day Antenna, Mast 2	Marnach transmitter, Day Antenna, Mast 2		50.04629	6.07826	S	TOWR	LU		CL	03			0		539	Europe/Luxembourg	2017-01-28
+7281960	Marnach transmitter, Day Antenna, Mast 3	Marnach transmitter, Day Antenna, Mast 3		50.04539	6.07828	S	TOWR	LU		CL	03			0		539	Europe/Luxembourg	2017-01-28
+7281961	Marnach transmitter, Night Antenna, Transmission Mast	Marnach transmitter, Night Antenna, Transmission Mast		50.04207	6.08225	S	TOWR	LU		CL	63			0		525	Europe/Luxembourg	2017-01-28
+7281962	Marnach transmitter, Night Antenna, Reflector Tower	Marnach transmitter, Night Antenna, Reflector Tower		50.04171	6.08265	S	TOWR	LU		CL	63			0		525	Europe/Luxembourg	2017-01-28
+7281963	Junglinster Longwave Transmission Tower East	Junglinster Longwave Transmission Tower East		49.72018	6.26432	S	TOWR	LU		GR	05			0		376	Europe/Luxembourg	2017-01-28
+7281964	Junglinster Longwave Transmission Tower Middle	Junglinster Longwave Transmission Tower Middle		49.71847	6.2612	S	TOWR	LU		GR	05			0		364	Europe/Luxembourg	2017-01-28
+7281965	Junglinster Longwave Transmission Tower West	Junglinster Longwave Transmission Tower West		49.71672	6.25808	S	TOWR	LU		GR	05			0		358	Europe/Luxembourg	2017-01-28
+7281966	Beidweiler Longwave Transmission Mast Middle	Beidweiler Longwave Transmission Mast Middle		49.7303	6.32085	S	TOWR	LU		GR	05			0		272	Europe/Luxembourg	2017-01-28
+7281967	Beidweiler Longwave Transmission Mast West	Beidweiler Longwave Transmission Mast West		49.72846	6.31784	S	TOWR	LU		GR	05			0		278	Europe/Luxembourg	2017-01-28
+7281968	Beidweiler Longwave Transmission Mast East	Beidweiler Longwave Transmission Mast East		49.73213	6.32382	S	TOWR	LU		GR	05			0		271	Europe/Luxembourg	2017-01-28
+7281969	Dudelange TV Tower	Dudelange TV Tower		49.46337	6.09589	S	TOWR	LU		ES	03			0		425	Europe/Luxembourg	2017-01-28
+7290933	Howald	Howald		49.58387	6.14277	P	PPL	LU		LU	03			0		296	Europe/Luxembourg	2017-10-02
+7534503	Blaschette Telecommunication Tower	Blaschette Telecommunication Tower		49.71113	6.16574	S	TOWR	LU		ME	08			0		421	Europe/Luxembourg	2017-01-28
+8015493	Vianden 220 kV Substation	Vianden 220 kV Substation		49.95315	6.17775	S	PS	LU		VD	02			0		231	Europe/Luxembourg	2017-01-28
+8015494	Flebour 220 kV Substation	Flebour 220 kV Substation		49.90536	6.1141	S	PS	LU		DI	03			0		433	Europe/Luxembourg	2017-01-28
+8015495	Roost 220 kV Substation	Roost 220 kV Substation		49.77632	6.0834	S	PS	LU		ME	02			0		287	Europe/Luxembourg	2017-01-28
+8015496	Heisdorf 220 kV Substation	Heisdorf 220 kV Substation		49.669	6.13963	S	PS	LU		LU	07			0		235	Europe/Luxembourg	2017-01-28
+8015497	Bertrange 220 kV Substation	Bertrange 220 kV Substation		49.60449	6.03469	S	PS	LU		LU	01			0		295	Europe/Luxembourg	2017-01-28
+8015498	Bascharage 220 kV Substation	Bascharage 220 kV Substation		49.56724	5.93992	S	PS	LU		CA	8641865			0		323	Europe/Luxembourg	2017-01-28
+8015499	Schifflange 220 kV Substation	Schifflange 220 kV Substation		49.52044	6.01882	S	PS	LU		ES	14			0		284	Europe/Luxembourg	2017-01-28
+8015500	Esch 220 kV Substation	Esch 220 kV Substation		49.51244	5.96511	S	PS	LU		ES	04			0		292	Europe/Luxembourg	2017-01-28
+8015501	Sotel 220 kV Substation	Sotel 220 kV Substation		49.51026	5.94767	S	PS	LU		ES	04			0		305	Europe/Luxembourg	2017-01-28
+8015502	Berchem 220 kV Substation	Berchem 220 kV Substation		49.55056	6.13865	S	PS	LU		ES	11			0		271	Europe/Luxembourg	2017-01-28
+8015503	Oxylux 220 kV Substation	Oxylux 220 kV Substation		49.49689	5.95214	S	PS	LU		ES	04			0		299	Europe/Luxembourg	2017-01-28
+8015504	Sanem 220 kV Switching Station	Sanem 220 kV Switching Station		49.53799	5.93356	S	PS	LU		ES	13			0		302	Europe/Luxembourg	2017-01-28
+8015505	Differdange ARBED 220 kV Substation	Differdange ARBED 220 kV Substation		49.52625	5.90422	S	PS	LU		ES	02			0		319	Europe/Luxembourg	2017-01-28
+8641289	Kiischpelt	Kiischpelt	Commune de Kiischpelt,Gemeinde Kiischpelt,Gemeng Kiischpelt,Kiischpelt	49.97835	6.0076	A	ADM2	LU		WI	8641289			0		295	Europe/Luxembourg	2017-01-14
+8641291	Commune de Préizerdaul	Commune de Preizerdaul	Bettborn,Commune de Bettborn,Commune de Preizerdaul,Commune de Préizerdaul,Gemeinde Preizerdaul,Gemeinde Préizerdaul,Gemeng Preizerdaul,Gemeng Préizerdaul,Preizerdaul,Préizerdaul	49.80114	5.93299	A	ADM2	LU		RD	8641291			0		282	Europe/Luxembourg	2017-01-14
+8641526	Commune de la Vallée de l’Ernz	Commune de la Vallee de l'Ernz	Aerenzdallgemeng,Arenzdallgemeng,Commune de la Vallee de l'Ernz,Commune de la Vallée de l’Ernz,Ernztalgemeinde,Vallee de l'Ernz,Vallée de l'Ernz,Vallée de l’Ernz,Ärenzdallgemeng	49.82149	6.21746	A	ADM2	LU		DI	8641526			0		253	Europe/Luxembourg	2017-01-14
+8641865	Käerjeng	Kaeerjeng	Commune de Kaerjeng,Commune de Käerjeng,Gemeinde Kaerjeng,Gemeinde Käerjeng,Gemeng Kaerjeng,Gemeng Käerjeng,Kaerjeng,Käerjeng	49.58311	5.89892	A	ADM2	LU		CA	8641865			0		380	Europe/Luxembourg	2017-01-14
+8714252	Maulusmühle	Maulusmuehle		50.09619	6.02823	P	PPL	LU		CL	03			0		408	Europe/Luxembourg	2017-10-02
+9072551	Luxembourg railway station	Luxembourg railway station		49.5996	6.13499	S	RSTN	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+9292971	Heedknupp	Heedknupp		50.1044	6.0821	T	HLL	LU		CL	03			0	538	536	Europe/Luxembourg	2017-01-28
+9292973	Foosserknapp	Foosserknapp		50.11527	6.09471	T	HLL	LU		CL	03			0	531	530	Europe/Luxembourg	2017-01-28
+9292987	Haardmesbierg	Haardmesbierg		50.10073	6.10168	T	HLL	LU		CL	03			0	518	516	Europe/Luxembourg	2017-01-28
+9293935	Kneiff	Kneiff		50.15728	6.03688	T	HLL	LU		CL	09			0	560	557	Europe/Luxembourg	2017-01-14
+9293956	Napoléonsgaard	Napoleonsgaard		49.84824	5.88515	T	HLL	LU		RD	06			0	554	550	Europe/Luxembourg	2017-01-28
+9293965	Hougeriicht	Hougeriicht		50.14407	6.07326	T	HLL	LU		CL	10			0	516	512	Europe/Luxembourg	2017-01-28
+9293971	Simonsstéck	Simonssteck		50.14772	6.06561	T	HLL	LU		CL	10			0	526	525	Europe/Luxembourg	2017-01-28
+9293979	Kockelbierg	Kockelbierg		50.14308	6.04993	T	HLL	LU		CL	10			0	514	513	Europe/Luxembourg	2017-01-28
+9293986	Zaangelt	Zaangelt		50.14238	6.03297	T	HLL	LU		CL	09			0	540	539	Europe/Luxembourg	2017-01-28
+9293990	Urebierg	Urebierg		50.14454	6.02928	T	HLL	LU		CL	09			0	536	534	Europe/Luxembourg	2017-01-28
+9409745	My Teacher	My Teacher		49.49789	5.98101	S	SCH	LU		ES	04			0		300	Europe/Luxembourg	2017-01-28
+9882768	DoubleTree by Hilton Hotel Luxembourg	DoubleTree by Hilton Hotel Luxembourg		49.6399	6.14773	S	HTL	LU		LU	2960317			0		344	Europe/Luxembourg	2018-04-19
+9885836	Parc Bellevue	Parc Bellevue		49.6073	6.12236	S	HTL	LU		LU	2960317			0		292	Europe/Luxembourg	2017-01-28
+9885837	Mia Zia Hotel Ristorante	Mia Zia Hotel Ristorante		49.5093	5.92389	S	HTL	LU		ES	13			0		333	Europe/Luxembourg	2017-01-28
+9885840	Sofitel Lux Europe	Sofitel Lux Europe		49.6199	6.14142	S	HTL	LU		LU	2960317			0		319	Europe/Luxembourg	2017-01-28
+9885842	Ibis Styles Luxembourg Centre	Ibis Styles Luxembourg Centre		49.60072	6.131	S	HTL	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+9885847	Suite Novotel Luxembourg	Suite Novotel Luxembourg		49.6212	6.14651	S	HTL	LU		LU	2960317			0		332	Europe/Luxembourg	2017-01-28
+9885848	Le Chatelet	Le Chatelet		49.6018	6.12582	S	HTL	LU		LU	2960317			0		278	Europe/Luxembourg	2017-01-28
+9885850	Legere Premium	Legere Premium		49.64052	6.27159	S	HTL	LU		LU	06			0		258	Europe/Luxembourg	2017-01-28
+9970839	Ibis Esch Belval Hotel	Ibis Esch Belval Hotel		49.50073	5.94748	S	HTL	LU		ES	04			0		314	Europe/Luxembourg	2017-01-28
+10056294	Le Place D'armes	Le Place D'armes		49.61155	6.12878	S	HTL	LU		LU	2960317			0		313	Europe/Luxembourg	2017-01-28
+10063094	Ibis Styles Luxembourg Centre Gare (Ex All Seasons)	Ibis Styles Luxembourg Centre Gare (Ex All Seasons)		49.60078	6.13105	S	HTL	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+10086660	Am Klouschter	Am Klouschter		49.50522	6.28529	S	HTL	LU		RM	04			0		195	Europe/Luxembourg	2017-01-28
+10086661	Bis Styles	Bis Styles		49.601	6.131	S	HTL	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+10100178	Gulliver	Gulliver		49.55632	5.89727	S	HTL	LU		CA	8641865			0		276	Europe/Luxembourg	2017-01-28
+10100179	Hotel St Fiacre	Hotel St Fiacre		49.91435	6.06833	S	HTL	LU		DI	03			0		454	Europe/Luxembourg	2017-01-28
+10104616	Park Inn Luxembourg City	Park Inn Luxembourg City		49.60244	6.1332	S	HTL	LU		LU	2960317			0		295	Europe/Luxembourg	2017-01-28
+10104617	Ibis Luxembourg Airport	Ibis Luxembourg Airport		49.63356	6.2096	S	HTL	LU		LU	04			0		386	Europe/Luxembourg	2017-01-28
+10105125	Novotel Kirchberg Hotel	Novotel Kirchberg Hotel		49.62138	6.14575	S	HTL	LU		LU	2960317			0		328	Europe/Luxembourg	2017-01-28
+10110242	The Seven Hotel	The Seven Hotel		49.50966	5.94808	S	HTL	LU		ES	04			0		304	Europe/Luxembourg	2017-01-28
+10113593	Am Klouschter Mondorf Les Bains Hotel	Am Klouschter Mondorf Les Bains Hotel		49.50513	6.28534	S	HTL	LU		RM	04			0		195	Europe/Luxembourg	2017-01-28
+10117198	Hotel Simon Plaza	Hotel Simon Plaza		49.67725	6.39881	S	HTL	LU		GR	04			0		252	Europe/Luxembourg	2017-01-28
+10119798	Best Western Victor Hugo	Best Western Victor Hugo		49.61866	6.12511	S	HTL	LU		LU	2960317			0		318	Europe/Luxembourg	2017-01-28
+10119799	Best Western Euro Hotel	Best Western Euro Hotel		49.69042	6.23918	S	HTL	LU		GR	05			0		333	Europe/Luxembourg	2017-01-28
+10126085	Campanile Luxembourg Aeroport Flughafen	Campanile Luxembourg Aeroport Flughafen		49.6099	6.1363	S	HTL	LU		LU	2960317			0		258	Europe/Luxembourg	2017-01-28
+10129340	Sofitel Luxemnourg Europe	Sofitel Luxemnourg Europe		49.622	6.145	S	HTL	LU		LU	2960317			0		326	Europe/Luxembourg	2017-01-28
+10173949	Grand Cravat Early Booker	Grand Cravat Early Booker		49.60963	6.12972	S	HTL	LU		LU	2960317			0		305	Europe/Luxembourg	2017-01-28
+10174661	Campanile Luxembourg Airport	Campanile Luxembourg Airport		49.6379	6.21626	S	HTL	LU		LU	04			0		394	Europe/Luxembourg	2017-01-28
+10177018	Best Western Hotel Internation	Best Western Hotel Internation		49.60034	6.13303	S	HTL	LU		LU	2960317			0		289	Europe/Luxembourg	2017-01-28
+10177425	Le Royal Royal Club	Le Royal Royal Club		49.61366	6.12643	S	HTL	LU		LU	2960317			0		312	Europe/Luxembourg	2017-01-28
+10231319	Best Western Plus Grand Hotel Victor Hugo	Best Western Plus Grand Hotel Victor Hugo		49.61872	6.12472	S	HTL	LU		LU	2960317			0		318	Europe/Luxembourg	2017-01-28
+10231320	Cocoon Hotel La Rive	Cocoon Hotel La Rive		49.91161	6.08263	S	HTL	LU		DI	03			0		246	Europe/Luxembourg	2017-01-28
+10231321	Chateau D Urspelt	Chateau D Urspelt		50.07485	6.04528	S	HTL	LU		CL	03			0		480	Europe/Luxembourg	2017-01-28
+10237283	Aux Anciennes Tanneries	Aux Anciennes Tanneries		49.96834	5.9309	S	HTL	LU		WI	11			0		325	Europe/Luxembourg	2017-01-28
+10237517	Cocoon Hotel Belair	Cocoon Hotel Belair		49.91027	6.08208	S	HTL	LU		DI	03			0		248	Europe/Luxembourg	2017-09-29
+10243802	Hotel Sofitel Lux Le Grand Ducal	Hotel Sofitel Lux Le Grand Ducal		49.607	6.137	S	HTL	LU		LU	2960317			0		256	Europe/Luxembourg	2017-01-28
+10243803	Sofitel Luxembourg Le Grand Du	Sofitel Luxembourg Le Grand Du		49.60567	6.13778	S	HTL	LU		LU	2960317			0		291	Europe/Luxembourg	2017-01-28
+10292338	Yasha	Yasha		49.6	6.13	S	HTL	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+10292339	Mercure Renaissance	Mercure Renaissance		49.5114	5.98335	S	HTL	LU		ES	04			0		288	Europe/Luxembourg	2017-01-28
+10292341	Legere Premium Hotel Luxembourg	Legere Premium Hotel Luxembourg		49.64195	6.01077	S	HTL	LU		CA	09			0		308	Europe/Luxembourg	2017-01-28
+10292342	Hotel Mercure Esch Alzette	Hotel Mercure Esch Alzette		49.4955	5.9833	S	HTL	LU		ES	04			0		293	Europe/Luxembourg	2017-01-28
+10292344	Delta	Delta		49.60178	6.12694	S	HTL	LU		LU	2960317			0		282	Europe/Luxembourg	2017-01-28
+10292346	Auberge Gaglioti	Auberge Gaglioti		49.60153	6.13398	S	HTL	LU		LU	2960317			0		291	Europe/Luxembourg	2017-01-28
+10292347	All Seasons Du Luxembourg	All Seasons Du Luxembourg		49.6007	6.13098	S	HTL	LU		LU	2960317			0		287	Europe/Luxembourg	2017-01-28
+10301066	Bw Arlon	Bw Arlon		49.5918	6.0807	S	HTL	LU		LU	2960317			0		297	Europe/Luxembourg	2017-01-28
+10338585	Piemont Hotel	Piemont Hotel		49.60229	6.12024	S	HTL	LU		LU	2960317			0		280	Europe/Luxembourg	2017-01-28
+10340751	Sol Melia	Sol Melia		49.61631	6.14038	S	HTL	LU		LU	2960317			0		313	Europe/Luxembourg	2017-01-28
+10340752	Hotel Ibis Luxembourg Sud 2007	Hotel Ibis Luxembourg Sud 2007		49.5086	5.9844	S	HTL	LU		ES	04			0		289	Europe/Luxembourg	2017-01-28
+10345529	Waldbierg	Waldbierg		50.04995	6.10836	T	HLL	LU		CL	63			0	466	463	Europe/Luxembourg	2017-01-28
+10345531	Kaasselbierg	Kaasselbierg		50.06575	6.10746	T	HLL	LU		CL	03			0	420	413	Europe/Luxembourg	2017-01-28
+10346007	Koonsebierg	Koonsebierg		50.00643	6.04592	T	HLL	LU		CL	63			0	506	503	Europe/Luxembourg	2017-01-28
+10346008	Laangenaker	Laangenaker		50.01303	6.05843	T	HLL	LU		CL	63			0	501	495	Europe/Luxembourg	2017-01-28
+10346009	Uecht	Uecht		50.01514	6.06941	T	HLL	LU		CL	63			0	501	497	Europe/Luxembourg	2017-01-28
+10346010	Beirecht	Beirecht		50.02106	6.08577	T	HLL	LU		CL	63			0	516	511	Europe/Luxembourg	2017-01-28
+10346011	Huuscht	Huuscht		50.02456	6.09503	T	HLL	LU		CL	63			0	515	508	Europe/Luxembourg	2017-01-28
+10346012	Krommheck	Krommheck		50.03241	6.11707	T	HLL	LU		CL	63			0	456	459	Europe/Luxembourg	2017-01-28
+10346013	Steenrich	Steenrich		50.03138	6.08633	T	HLL	LU		CL	63			0	526	521	Europe/Luxembourg	2017-01-28
+10346014	Maacher	Maacher		50.02368	6.04159	T	HLL	LU		CL	03			0	456	456	Europe/Luxembourg	2017-01-28
+11126088	PolyOne Pommerloch European Headquarters	PolyOne Pommerloch European Headquarters		49.96304	5.85792	S	BLDO	LU		WI	13			0		452	Europe/Luxembourg	2017-01-28
+11353099	Parc Hosingen	Parc Hosingen		49.99744	6.09067	A	ADM2	LU		CL	63			3200		515	Europe/Luxembourg	2017-01-14
+11398304	Larochette Castle	Larochette Castle		49.78584	6.21655	S	RUIN	LU		ME	06			0		321	Europe/Luxembourg	2017-01-14
+11496704	Eisenbach	Eisenbach		50.00128	6.14166	P	PPL	LU		CL	63			0		288	Europe/Luxembourg	2017-10-02
+11669758	Flebour	Flebour		49.91006	6.10788	P	PPL	LU		DI	03			0		460	Europe/Luxembourg	2017-10-02
+11669890	Schiltzberg	Schiltzberg		49.7384	6.22154	P	PPL	LU		ME	04			0		359	Europe/Luxembourg	2017-10-02
+11669891	Kalkesbach	Kalkesbach	Kalkesbach,Kalkesbach (Berdorf),Kalkesbach (Bergdorf)	49.80143	6.35379	P	PPL	LU		EC	03			0		311	Europe/Luxembourg	2017-10-02
+11670380	Enteschbach	Enteschbach		49.91209	6.1143	S	HSE	LU		DI	03			0		432	Europe/Luxembourg	2017-09-05
+11670382	Wormeldange-Haut	Wormeldange-Haut	Oberwormeldingen,Uewerwuermeldeng	49.60983	6.39999	P	PPL	LU		GR	09			0		218	Europe/Luxembourg	2017-10-02
+11694425	Windhof	Windhof	Windhof (Koerich)	49.64635	5.95755	P	PPL	LU		CA	07			0		330	Europe/Luxembourg	2017-10-02
+11694426	Asselscheuer	Asselscheuer		49.69192	6.17478	P	PPL	LU		ME	08			0		354	Europe/Luxembourg	2017-10-02
+11694447	Huettermuehle	Huettermuehle	Huettermuehle	49.57378	6.35585	S	HSE	LU		RM	07			0		169	Europe/Luxembourg	2017-09-28
+11694448	Boudlerbach	Boudlerbach	Budlerbaach	49.71729	6.35393	S	HSE	LU		GR	02			0		250	Europe/Luxembourg	2017-10-02
+11694455	Freckeisen	Freckeisen		49.80123	6.2625	S	HSE	LU		EC	08			0		368	Europe/Luxembourg	2017-10-02
+11694463	Weydig	Weydig		49.7165	6.3303	P	PPL	LU		GR	02			0		282	Europe/Luxembourg	2017-10-02
+11694480	Seltz	Seltz	Selz	49.88134	6.1869	S	HSE	LU		VD	01			0		204	Europe/Luxembourg	2017-10-02
+11694481	Openthalt	Openthalt		49.75038	6.03639	S	HSE	LU		ME	03			0		322	Europe/Luxembourg	2017-10-02
+11694482	Friedbusch	Friedbusch	Friedboesch	49.95124	6.05558	S	HSE	LU		DI	03			0		442	Europe/Luxembourg	2017-10-02
+11694483	Keiwelbach	Keiwelbach		49.84909	6.23251	S	HSE	LU		DI	8641526			0		229	Europe/Luxembourg	2017-10-02
+11694484	Unterschlinder	Unterschlinder		49.93466	6.07053	S	HSE	LU		CL	63			0		264	Europe/Luxembourg	2017-10-02
+11694485	Simmerfarm	Simmerfarm		49.69326	5.98566	P	PPL	LU		CA	10			0		265	Europe/Luxembourg	2017-10-02
+11694486	Marscherwald	Marscherwald		49.76255	6.28321	S	HSE	LU		EC	04			0		336	Europe/Luxembourg	2017-10-02
+11694487	Niederglabach	Niederglabach		49.79199	6.15307	S	HSE	LU		ME	10			0		268	Europe/Luxembourg	2017-10-02
+11694488	Simmerschmelz	Simmerschmelz		49.69687	5.98703	S	HSE	LU		CA	10			0		267	Europe/Luxembourg	2017-09-11
+11694489	Hinterhassel	Hinterhassel		50.05645	5.86228	S	HSE	LU		CL	01			0		477	Europe/Luxembourg	2017-10-02
+11694490	Klingelscheuer	Klingelscheuer		49.69299	6.16859	S	HSE	LU		ME	08			0		355	Europe/Luxembourg	2017-10-02
+11694491	Schieren	Schieren		49.81984	6.11745	S	HSE	LU		DI	13			0		332	Europe/Luxembourg	2017-09-11
+11694493	Stuppicht	Stuppicht	Stuppecht	49.72548	6.18783	S	HSE	LU		ME	04			0		357	Europe/Luxembourg	2017-10-02
+11694494	Emeschbach Asselborn	Emeschbach Asselborn		50.08914	5.95124	S	HSE	LU		CL	01			0		421	Europe/Luxembourg	2017-09-11
+11694495	Tintesmühle	Tintesmuehle		50.10206	6.11861	S	HSE	LU		CL	03			0		446	Europe/Luxembourg	2017-09-11
+11694496	Bill	Bill		49.76394	6.03961	S	HSE	LU		ME	03			0		316	Europe/Luxembourg	2017-09-11
+11694497	Claushof	Claushof	Claushaff	49.71445	6.08123	S	HSE	LU		ME	11			0		337	Europe/Luxembourg	2017-09-11
+11694498	Leesbach	Leesbach		49.7021	5.98525	S	HSE	LU		CA	10			0		271	Europe/Luxembourg	2017-09-11
+11694499	Closdelt	Closdelt		49.90181	6.12273	S	HSE	LU		DI	03			0		405	Europe/Luxembourg	2017-09-11
+11694500	Kirelshof	Kirelshof	Kirelshaff	50.02874	5.97283	S	HSE	LU		CL	03			0		434	Europe/Luxembourg	2017-09-11
+11694501	Bourscheid-Moulin	Bourscheid-Moulin		49.91108	6.08746	P	PPL	LU		DI	03			0		221	Europe/Luxembourg	2017-09-11
+11694502	Fossenhof	Fossenhof		50.11378	6.09082	S	HSE	LU		CL	03			0		523	Europe/Luxembourg	2017-09-11
+11695670	Simmerschmelz	Simmerschmelz		49.69745	5.98982	P	PPL	LU		CA	10			0		295	Europe/Luxembourg	2017-10-02
+11703835	Dondelange	Dondelange	Dondel,Dondelingen	49.69001	6.03051	P	PPL	LU		CA	06			0		259	Europe/Luxembourg	2017-10-02
+11703836	Wecker-Gare	Wecker-Gare		49.70125	6.38688	P	PPL	LU		GR	02			0		227	Europe/Luxembourg	2017-10-02
+11703837	Riesenhof	Riesenhof	Reisenhaff	49.83914	5.81481	P	PPL	LU		RD	06			0		510	Europe/Luxembourg	2017-10-02
+11703838	Bigonville-Poteau	Bigonville-Poteau		49.83818	5.78306	P	PPL	LU		RD	06			0		502	Europe/Luxembourg	2017-10-02
+11703869	Nocher-Route	Nocher-Route		49.94815	5.96021	P	PPL	LU		WI	04			0		467	Europe/Luxembourg	2017-10-02
+11703873	Bourscheid-Plage	Bourscheid-Plage		49.90879	6.08087	P	PPL	LU		DI	03			0		239	Europe/Luxembourg	2017-10-02
+11703902	Biwerbach	Biwerbach		49.71169	6.36473	S	HSE	LU		GR	02			0		260	Europe/Luxembourg	2017-10-02
+11703903	Colmar-Pont	Colmar-Pont		49.81489	6.10286	P	PPLX	LU		ME	01			0		211	Europe/Luxembourg	2017-10-02
+11703904	Kaesfurt	Kaesfurt		50.09253	6.07325	P	PPLL	LU		CL	03			0		503	Europe/Luxembourg	2017-10-02
+11703905	Lilien	Lilien		49.75405	6.3956	P	PPLL	LU		EC	06			0		312	Europe/Luxembourg	2017-10-02
+11703906	Fuussekaul	Fuussekaul		49.87775	5.99092	P	PPL	LU		WI	02			0		495	Europe/Luxembourg	2017-09-30
+11703907	Niederfeulen	Niederfeulen		49.87235	5.99785	P	PPLL	LU		DI	08			0		460	Europe/Luxembourg	2017-10-02
+11710987	Camp Capellen Ahp	Camp Capellen Ahp	Camp Capellen Ahp	49.64034	5.98501	S	AIRH	LU		CA				0		300	Europe/Luxembourg	2017-10-06
+11711329	Medernach	Medernach	Medernach	49.78917	6.24111	S	AIRF	LU		DI				0		359	Europe/Luxembourg	2017-10-06
+11711389	Noertrange	Noertrange	ELNT,Noertrange	49.98089	5.91809	S	AIRF	LU		WI				0		454	Europe/Luxembourg	2017-10-28
+11711651	Useldange	Useldange	Useldange	49.76778	5.9675	S	AIRF	LU		RD				0		279	Europe/Luxembourg	2017-10-06
+12035861	Rollingergrund / Belair-Nord	Rollingergrund / Belair-Nord		49.6332	6.09291	P	PPLX	LU		LU	2960317			0		312	Europe/Luxembourg	2019-03-21
+12035862	Ville-Haute	Ville-Haute		49.61173	6.12648	P	PPLX	LU		LU	2960317			0		312	Europe/Luxembourg	2019-03-21
+12035863	Neudorf/Weimershof /	Neudorf/Weimershof /		49.6256	6.16926	P	PPLX	LU		LU	2960317			0		322	Europe/Luxembourg	2019-03-21
+12035864	Belair	Belair		49.6116	6.10682	P	PPLX	LU		LU	2960317			0		302	Europe/Luxembourg	2019-03-21
+12035865	Gare	Gare		49.60175	6.12971	P	PPLX	LU		LU	2960317			0		286	Europe/Luxembourg	2019-03-21
+12035866	Bonnevoie-Sud	Bonnevoie-Sud		49.59679	6.14719	P	PPLX	LU		LU	2960317			0		289	Europe/Luxembourg	2019-03-21
+12035867	Bonnevoie-Nord/Verlorenkost	Bonnevoie-Nord/Verlorenkost		49.60431	6.14187	P	PPLX	LU		LU	2960317			0		294	Europe/Luxembourg	2019-03-21
+12035868	Cents	Cents		49.61707	6.16413	P	PPLX	LU		LU	2960317			0		324	Europe/Luxembourg	2019-03-21
+12035871	Grenz	Grenz		49.47387	5.98118	P	PPLX	LU		ES	04			0		373	Europe/Luxembourg	2019-03-21
+12035872	Park	Park		49.48505	5.9867	P	PPLX	LU		ES	04			0		403	Europe/Luxembourg	2019-03-21
+12035873	Uecht	Uecht		49.49682	5.9745	P	PPLX	LU		ES	04			0		300	Europe/Luxembourg	2019-03-21
+12035874	Lankelz	Lankelz		49.50969	5.983	P	PPLX	LU		ES	04			0		284	Europe/Luxembourg	2019-03-21
+12035875	Al-Esch	Al-Esch		49.49605	5.98391	P	PPLX	LU		ES	04			0		293	Europe/Luxembourg	2019-03-21
+12035876	Universitéit	Universiteit		49.50439	5.94975	P	PPLX	LU		ES	04			0		311	Europe/Luxembourg	2019-03-21
+12035877	Neiduerf	Neiduerf		49.48699	5.99662	P	PPLX	LU		ES	04			0		340	Europe/Luxembourg	2019-03-21
+12035878	Raemerich	Raemerich		49.5101	5.95237	P	PPLX	LU		ES	04			0		304	Europe/Luxembourg	2019-03-21
+12035879	Zaepert	Zaepert		49.5094	5.97288	P	PPLX	LU		ES	04			0		289	Europe/Luxembourg	2019-03-21
+12035880	Belval	Belval		49.49828	5.95967	P	PPLX	LU		ES	04			0		308	Europe/Luxembourg	2019-03-21
+12035881	Wobrecken	Wobrecken		49.50393	5.9798	P	PPLX	LU		ES	04			0		288	Europe/Luxembourg	2019-03-21
+12035882	Fettmeth	Fettmeth		49.50474	5.97315	P	PPLX	LU		ES	04			0		289	Europe/Luxembourg	2019-03-21
+12035883	Bruch	Bruch		49.50324	5.96729	P	PPLX	LU		ES	04			0		302	Europe/Luxembourg	2019-03-21
+12035884	Dellhéicht	Dellheicht		49.50132	5.98315	P	PPLX	LU		ES	04			0		292	Europe/Luxembourg	2019-03-21
+12035885	Brill	Brill		49.49263	5.9783	P	PPLX	LU		ES	04			0		295	Europe/Luxembourg	2019-03-21
+12035886	Schlassgoard	Schlassgoard		49.50339	5.99246	P	PPLX	LU		ES	04			0		300	Europe/Luxembourg	2019-03-21
+12035887	Lalleng	Lalleng		49.51187	5.99391	P	PPLX	LU		ES	04			0		281	Europe/Luxembourg	2019-03-21
+12035888	Sommet	Sommet		49.50971	5.96358	P	PPLX	LU		ES	04			0		292	Europe/Luxembourg	2019-03-21
